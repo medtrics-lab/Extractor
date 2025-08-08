@@ -1,4 +1,4 @@
-# CanMEDS Competency Extraction Pipeline
+# Competency Extraction Pipeline
 
 ## Overview
 
@@ -38,8 +38,6 @@ The **CanMEDS Competency Extraction Pipeline** is a sophisticated, production-re
 │   ├── extract_legacy_dotted_toc_improved.py         # Legacy TOC format
 │   ├── extract_canmeds_without_levels_improved.py    # CanMEDS without levels
 │   └── run_all_improved_extractors_fixed.py          # Batch processing tool
-├── Document_Categories/              # Organized PDF documents by format
-├── Extracted_Competencies/           # Output directory structure
 └── README.md                         # This documentation
 ```
 
