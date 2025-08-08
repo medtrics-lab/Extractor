@@ -1,0 +1,50 @@
+Document: 83. __Pediatrics Infectious Diseases Fellowship__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 7-8
+Candidates Found: 5
+Validation: Valid CanMEDS without levels (score: 171/268, 6/7 roles)
+================================================================================
+
+--- Page 7 ---
+LEARNING AND COMPETENCIES 15
+Introduction to Learning Outcomes and Competency-Based Education 15
+THE INTRINSIC COMPETENCIES REQUIRED BY THE PEDIATRIC
+INFECTIOUS DISEASES PROGRAM 19
+1. Communicator 19
+2. Collaborator 19
+3. Manager 19
+4. Health Advocate 20
+5. Scholar 20
+6. Professional 20
+ACADEMIC ACTIVITIES 22
+General Principles 22
+Courses and Workshops 22
+Universal Topics in Infectious Diseases 22
+Module 1: Introduction 22
+Module 2: Ethics and Healthcare 23
+
+--- Page 8 ---
+ASSESSMENT OF LEARNING 25
+1. Purpose of Assessment 25
+2. Formative Assessment 25
+3. Summative Assessment 29
+CERTIFICATION OF TRAINING COMPLETION 32
+RESOURCES 33
+Suggested Textbooks 33
+APPENDICES 34
+Appendix A: Universal Topics 34
+Appendix B: Infection Control Checklist 36
+Appendix C: Infection Control Objective 37
+SPECIFIC LEARNING OBJECTIVES: 37
+STRUCTURE OF ROTATION 37
+RESOURCES 38
+Appendix D: Microbiology Checklist 39
+Appendix E: Immunology Rotation 45
+Appendix F: Formative Assessment 46
+Appendix G: Promotion Written Examination Blueprint 47
+Appendix H: Final Written Examination Blueprint Outlines 48
+Appendix I: Final Clinical Examination Blueprint. 49
+Appendix J: Research Evaluation Form Template 50
+Appendix K: Infection Control and Prevention Evaluation Form Template 51
+Appendix L: Microbiology Evaluation Form Template 52
+Glossary 53

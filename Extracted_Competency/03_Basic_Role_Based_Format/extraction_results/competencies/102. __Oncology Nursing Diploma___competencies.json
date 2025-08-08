@@ -1,0 +1,33 @@
+{
+  "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/102. __Oncology Nursing Diploma__.pdf",
+  "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/102. __Oncology Nursing Diploma___competencies.txt",
+  "json_report": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/102. __Oncology Nursing Diploma___competencies.json",
+  "pages_extracted": "16-20",
+  "extraction_method": "semantic_key_enabling_analysis",
+  "confidence_score": 1.0,
+  "quality_score": 150,
+  "key_enabling_score": 69,
+  "validation": "Good Key & Enabling format (score: 117/150, 7/7 roles)",
+  "detailed_analysis": {
+    "role_count": 7,
+    "roles_found": [
+      "MEDICAL EXPERT",
+      "COMMUNICATOR",
+      "COLLABORATOR",
+      "LEADER",
+      "HEALTH ADVOCATE",
+      "SCHOLAR",
+      "PROFESSIONAL"
+    ],
+    "key_enabling_terms_count": 6,
+    "level_indicators_found": [],
+    "has_structured_content": false,
+    "content_length": 8167,
+    "key_enabling_score": 69,
+    "contamination_score": 0,
+    "page_range_size": 5
+  },
+  "content_length": 8167,
+  "extraction_successful": true,
+  "total_pages": 86
+}

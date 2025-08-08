@@ -1,0 +1,168 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 9,
+  "successful_extractions": 9,
+  "extraction_rate": "100.0%",
+  "format_breakdown": {
+    "Legacy Dotted TOC": {
+      "total": 5,
+      "successful": 5,
+      "avg_confidence": 0.7866666666666667,
+      "success_rate": 100.0
+    },
+    "CanMEDS Without Levels": {
+      "total": 3,
+      "successful": 3,
+      "avg_confidence": 0.7269162210338681,
+      "success_rate": 100.0
+    },
+    "Advanced Key & Enabling": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.375,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {
+    "Legacy Dotted TOC": {
+      "total_attempts": 5,
+      "successful_extractions": 5,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.75,
+        0.75,
+        0.5,
+        1.0,
+        0.9333333333333333
+      ]
+    },
+    "CanMEDS Without Levels": {
+      "total_attempts": 3,
+      "successful_extractions": 3,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        1.0,
+        0.5454545454545454,
+        0.6352941176470588
+      ]
+    },
+    "Advanced Key & Enabling": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 150.0,
+      "format_detection_accuracy": [
+        0.375
+      ]
+    }
+  },
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/38. __Emergency Medical Services and Disaster Medicine Fellowship__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.75",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 163/399, 2/7 roles)",
+      "content_length": 15537,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/38. __Emergency Medical Services and Disaster Medicine Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/104. __Emergency Nursing Diploma__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.75",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 234/399, 5/7 roles)",
+      "content_length": 5281,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/104. __Emergency Nursing Diploma___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/83. __Pediatrics Infectious Diseases Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "1.00",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 171/268, 6/7 roles)",
+      "content_length": 1344,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/83. __Pediatrics Infectious Diseases Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/102. __Oncology Nursing Diploma__.pdf",
+      "detected_format": "Advanced Key & Enabling",
+      "format_confidence": "0.38",
+      "extractor_used": "Advanced Key & Enabling",
+      "extraction_successful": true,
+      "quality_score": 150,
+      "validation": "Good Key & Enabling format (score: 117/150, 7/7 roles)",
+      "content_length": 8167,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/102. __Oncology Nursing Diploma___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/103. __Midwifery Nursing Diploma__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.50",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 255/399, 5/7 roles)",
+      "content_length": 6248,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/103. __Midwifery Nursing Diploma___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/125. __Emergency Medicine Board__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.55",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 189/268, 3/7 roles)",
+      "content_length": 4549,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/125. __Emergency Medicine Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/106. __Adult Critical Care Nursing Diploma__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "1.00",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 234/399, 5/7 roles)",
+      "content_length": 4751,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/106. __Adult Critical Care Nursing Diploma___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/80. __Physical Medicine and Rehabilitation__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.64",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 130/268, 2/7 roles)",
+      "content_length": 4993,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/80. __Physical Medicine and Rehabilitation___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/03_Basic_Role_Based_Format/105. __Cardiac Care Nursing Diploma__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.93",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 313/399, 7/7 roles)",
+      "content_length": 9065,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/03_Basic_Role_Based_Format/extraction_results/competencies/105. __Cardiac Care Nursing Diploma___competencies.txt",
+      "failure_reason": null
+    }
+  ]
+}

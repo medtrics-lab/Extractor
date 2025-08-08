@@ -1,0 +1,144 @@
+Document: 66. __Diagnostic Radiology Board__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 21-25
+TOC Entries Found: 3
+Validation: Valid legacy format (score: 364/399, 6/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - LEARNING AND COMPETENCIES -> Page 21
+  - Mapping of Learning Objectives and Competency Roles to Program Rotations -> Page 25
+  - Professional -> Page 31
+
+================================================================================
+
+--- Page 21 ---
+VIII. LEARNING AND COMPETENCIES
+1. Introduction to Learning Outcomes and
+Competency-Based Education
+Training should be guided by well-defined “learning objectives” that are
+driven by the targeted “learning outcomes” of a particular program to serve
+specific specialty needs. Learning outcomes are supposed to reflect the
+professional “competencies” and tasks that are aimed to be “entrusted” to
+trainees upon graduation. This will ensure that graduates meet the expected
+particular specialty. Competency-based education (CBE) is an “adult-
+learning” approach based on achieving pre-defined, fine-grained, and well-
+competencies.
+Professional competencies related to healthcare are usually complex and
+contain a mixture of multiple learning domains (knowledge, skills, and
+attitude). CBE is expected to change the traditional way of postgraduate
+education. For instance, the time of training, though a precious resource,
+should not be taken as a proxy for competence (e.g., time of rotation in certain
+hospital areas is not the primary marker of competence achievement).
+Furthermore, CBE emphasizes the critical role of informed judgment of
+learners’ competency progress, which is based on a staged and formative
+assessment that is driven by multiple workplace-based observations.
+Several CBE models have been developed for postgraduate education in
+healthcare (e.g., CanMEDS by the Royal College of Physicians and Surgeon of
+Canada (RCPSC), the CBME-Competency model by the Accreditation Council
+for Graduate Medical Education (ACGME), Tomorrow’s Doctor in the UK, and
+multiple others). The following are concepts that enhance the implementation
+
+--- Page 22 ---
+of CBE in this curriculum:
+• Competency: Competency is a cognitive construct that assesses the
+standard of the profession. Professional roles (e.g., Expert, Advocate,
+Communicator, Leader, Scholar, Collaborator, and Professional) are
+in learning and assessment.
+• Milestones: Milestones are stages of the developmental journey
+throughout the competency continuum. Trainees throughout their
+learning journey, starting from the junior level and throughout the
+senior levels, will be assisted in transforming from
+(novice/supervised) to (master/unsupervised) practitioners. This
+should not undermine the role of supervisory/regulatory bodies in
+addressing the malpractice of independent practitioners. Milestones
+training/assessment to match the developmental level of trainees
+(junior vs. senior).
+• Learning Domains: Whenever possible, efforts should be directed to
+annotating the learning outcomes with the corresponding domain (K =
+Knowledge, S = Skills, and A = Attitude). More than one annotation
+might be used for a given learning outcome.
+• Content-area Categorization: It is advisable to categorize learning
+profession, such as diagnostic versus therapeutic, simple versus
+complex, and urgent versus chronic.
+Trainees are expected to progress from the novice to the mastery level in a
+certain set of professional competencies. The SCFHS endorses the CanMEDS
+to articulate professional competencies. This curriculum applies the
+principles of competency-based medical education. As CanMEDS represents
+globally accepted frameworks that outline competency roles, the “CanMEDS
+
+--- Page 23 ---
+2015 Framework” has been adopted in this section.
+This reference is an example of the general outline of the CanMEDS
+competency: Frank JR, Snell L, Sherbino J, editors. CanMEDS 2015 Physician
+Competency Framework. Ottawa, Royal College of Physicians and Surgeons
+of Canada, 2015.
+2. Program Duration
+The Diagnostic Radiology Residency Training Program is a 4-year (R1 through
+R4) full-time residency in accredited institutions, with continuous and final
+evaluations by way of examinations.
+3. Program Rotations
+The Diagnostic Radiology Residency Training Program has adopted the 4-
+week-block format since the 2020 training year. There are 13 rotations per
+training year and 52 rotations for the entire period of the training program.
+Each training year starts on October 1st.
+The following table shows the distribution of radiology rotations over the four
+training years.
+TRAINING YEAR
+ROTATIONS (4-week blocks) (Number of Rotations) TOTAL
+R1 R2 R3 R4
+Body CT Scan 2 a 2 1 1 6
+Neuroradiology 2 a 1 1 2 6
+Ultrasound 2 a 1 0 1 4
+Chest Imaging 2 a 1 1 1 5
+MSK Imaging c 1 2 1 1 5
+NM/PET Imaging 0 2 1 1 4
+Pediatric Imaging 0 2 b 1 1 4
+Breast Imaging 1 1 0 1 3
+Body MRI 0 1 1 1 3
+Fluoroscopy & Plain Films 1 0 1 0 2
+
+--- Page 24 ---
+Emergency Radiology / Plain Films 1 0 0 0 1
+Interventional Radiology d 0 0 2 b 1 3
+Cardiac Imaging 0 0 1 0 1
+Research/QI 0 0 1 0 1
+Electives e 0 0 1 2 3
+Core Skills f 1 0 0 0 1
+TOTAL 13 13 13 13 52
+a. One rotation must be completed before starting on-calls (i.e., within the first four blocks)
+b. Preferably 2 rotations back-to-back
+c. Includes MSK US
+d. Includes Vascular US
+e. Must include at least one of the following (either in R3 or R4): Obstetric US, Vascular
+Imaging, or Head and Neck Imaging. The AIRP course is optional and can replace any of the
+three elective blocks.
+f. May include physics, reporting skills, non-interpretive skills, research basics, QI basics,
+and/or other courses/workshops.
+Residents are entitled to four weeks of annual leave. Please refer to Section
+XIII (Policies and Procedures) for further details.
+
+--- Page 25 ---
+4. Mapping of Learning Objectives and Competency
+Roles to Program Rotations
+4.1 Non-Medical Expert Roles
+Learning objectives pertinent to non-medical-expert CanMEDS competency
+roles are nearly the same across different radiology program rotations. The
+type.
+4.1.1 Communicator
+• Demonstrates respectful and effective response to consultation/imaging
+requests: S, A
+o R1-R2: Assesses and clearly responds to consultation/imaging
+requests; seeks help from seniors whenever appropriate. S, A
+o R1-R2: Assembles relevant clinical information pertinent to the
+requested imaging study/procedure. S, A
+o R3-R4: Discusses and assesses understanding of recommendations
+when providing consultation. S, A
+• Respectfully discusses the imaging study/procedure with the supervising
+information in an organized manner: S, A
+o R1: Relates patient data and relevant medical history to the
+radiological findings. S, A
+o R2: Relates clinical findings and results of investigations to the
+radiological findings. S, A
+o R3-R4: Relates clinical findings, results of investigations, and multi-
+modality imaging results to the radiological findings. S, A

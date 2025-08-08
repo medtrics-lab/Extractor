@@ -1,0 +1,457 @@
+Document: 70. __Pediatric Neurology Board__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 32-43
+Candidates Found: 19
+Validation: Valid CanMEDS without levels (score: 253/268, 7/7 roles)
+================================================================================
+
+--- Page 32 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Learn how to appropriately read and interpret brain and spine CT and MRI images
+and sequences for various conditions.
+Understand the risks and benefits of various imaging techniques, including
+radiation- and sedation-related hazards.
+Communicator
+Demonstrate mastery of general communicator competency goals.
+Learn how to report imaging results to other members of the healthcare team.
+Scholar
+The resident is expected to achieve general scholar competency goals.
+Collaborator
+The resident is expected to achieve general collaborator competency goals.
+Manager
+The resident is expected to achieve general manager competency goals.
+Health Advocate
+The resident is expected to achieve general health advocate competency goals.
+Professional
+Achieve general professional core competency goals.
+Maintain patient privacy when presenting and discussing imaging findings.
+Epilepsy Rotation
+This rotation provides focused experience in pediatric and adult inpatient and
+outpatient epilepsy presentation, evaluation, and treatment. The resident will learn
+seizure semiology and the basics of EEG interpretation. Additionally, residents will
+participate in multidisciplinary team assessments and pre-surgical evaluations of
+patients with intractable epilepsy. During the rotation, the resident will attend epilepsy
+outpatient clinics, review EEGs, and provide care to patients admitted to the epilepsy-
+monitoring unit. The resident will also participate in educational and epilepsy
+management meetings. This is a one-block rotation, which shares some competency
+goals with the clinical PN and neurophysiology rotations. Competency goals are
+described below.
+Medical Expert
+The resident is expected to demonstrate medical knowledge and expertise in the
+following areas:
+SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM PAGE 27
+
+--- Page 33 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Basic physiological mechanisms underlying EEG waves in different states and
+developmental ages, including normal and abnormal features. This item
+consolidates a similar objective in the neurophysiology rotation.
+Nervous system neurophysiology, including action potentials, ion channels,
+neurotransmitters, and epileptogenesis.
+Classification of epileptic seizures and syndromes in neonates, infants, children,
+and adolescents.
+Epidemiology, genetics, clinical manifestations, treatment, and prognosis of
+epileptic seizures and syndromes in adults and children.
+Pharmacological principles, complications, and teratogenic effects of anti-epileptic
+drug administration.
+Non-pharmacological treatment of epilepsy, including ketogenic diet, surgery, and
+vagal nerve stimulation.
+Effects of pregnancy on epilepsy and its management.
+Diagnosis and management of status epilepticus.
+Diagnosis and differential diagnoses of non-epileptic seizures.
+Understand the presentation, evaluation, and management of sleep disorders
+encountered in children.
+Communicator
+The resident is expected to achieve general core competency as a communicator.
+Scholar
+The resident is expected to achieve general scholar competency goals.
+Collaborator
+The resident is expected to achieve general collaborator competency goals.
+Manager
+The resident is expected to achieve general manager competency goals.
+Health Advocate
+The resident is expected to achieve general health advocate competency goals.
+Professional
+The resident must achieve general professional core competency goals.
+Neurophysiology Rotation
+The neurophysiology rotation consists of three blocks, primarily focusing on performing
+EEG and its evaluation. The resident is expected to be in the EEG lab and epilepsy-
+monitoring unit daily, and to participate in epilepsy conferences and related
+PAGE 28 SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM
+
+--- Page 34 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+educational activities. This rotation is the prime time opportunity for the resident to
+master the skill and art of reading and reporting EEGs. Competency goals are described
+below.
+Medical Expert
+Understand the basic principles of electroencephalography, including the
+differences in montages, the basic technical aspects of EEGs, and the ability to
+apply the International 10-20 system.
+Recognize normal EEG waveforms and normal waveform variants in neonates,
+children, adolescents, and adults.
+Recognize different abnormal epileptic discharges observed in neonates, children,
+adolescents, and adults.
+Recognize both with partial- and generalized-onset seizure patterns by EEG.
+Recognize periodic EEG patterns associated with encephalopathy, including
+periodic lateralized epileptiform discharges and triphasic waves, with associated
+implications and prognoses.
+Recognize EEG features of common epilepsies encountered in children and
+adolescents (e.g., Rolandic epilepsy, absence epilepsy, myoclonic epilepsy,
+infantile spasms, Lennox-Gastaut syndrome, Landau-Kleffner syndrome, epilepsy
+with suppression-burst, temporal lobe epilepsy, and benign epilepsy with occipital
+paroxysm).
+Recognize the EEG techniques, features, and caveats when performed on brain-
+dead patients of different ages.
+The advantages and disadvantages of video telemetry, ambulatory EEG, and
+continuous ICU monitoring.
+Recognize common EEG artifacts and the caveats of routine EEG recordings.
+Recognize normal and abnormal EEG findings during activation or special
+procedures performed during recording (e.g., photic stimulation, hyperventilation,
+eye closure, and pain stimulation).
+Recognize normal and abnormal sleep patterns.
+Understand special electrographic techniques used in patients with epilepsy,
+including functional mapping, electrocorticography, and use of subdural grids.
+Independently report findings of outpatient EEGs under the supervision of
+neurophysiology mentors.
+Communicator
+The resident is expected to:
+Develop rapport, trust, and ethical therapeutic relationships with patients and
+families.
+Accurately elicit and synthesize relevant information and perspectives from
+patients and families, colleagues, and other professionals.
+SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM PAGE 29
+
+--- Page 35 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Accurately convey relevant information and explanations to patients and families,
+colleagues, and other professionals.
+Develop a common understanding on issues, problems, and plans with patients
+and their families, colleagues, and other professionals to create a collaborative
+care plan.
+Convey effective oral and written information about a medical visit.
+Scholar
+The resident is expected to:
+Develop life-long learning skills that will maintain and enhance professional
+activities.
+Effectively and efficiently evaluate medical literature and apply this knowledge to
+patient care.
+Develop the skills necessary to effectively teach students, peers, other health
+professionals, and the public.
+Develop an understanding of research practice and contribute to the
+dissemination, application, and translation of new medical knowledge and
+practices.
+Collaborator
+The resident is expected to achieve general collaborator competency goals.
+Manager
+The resident is expected to achieve general manager competency goals.
+Health Advocate
+The resident is expected to achieve general health advocate competency goals.
+Professional
+The resident is expected to achieve general professional core-competency goals.
+Neuropathology Rotation
+The neuropathology rotation offers the opportunity to acquire more in-depth exposure
+to the field, including review of gross and microscopic neuropathology of common CNS
+and peripheral nervous system (PNS) diseases. Residents will become acquainted with
+the role of the neuropathologist in the evaluation and treatment of neurological
+diseases. This is a one-block rotation. However, block goals are also achieved through
+interaction with the neuropathologist during the clinical PN, adult neurology, and
+epilepsy rotations. Competency goals are described below.
+PAGE 30 SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM
+
+--- Page 36 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Medical Expert
+Demonstrate a thorough knowledge of normal brain, spinal cord, nerve, and
+muscle-tissue neuroanatomy and histology.
+Learn the different stains used to study brain, nerve, and muscle tissues.
+Discuss the general pathophysiological manifestations of common neurological
+diseases, including the following: neoplasia, cerebrovascular disease, muscle and
+nerve disorders, metabolic disorders, traumatic nerve injury, and infections.
+Recognize the neuropathological features of the brain- and spinal-cord-tissue
+observed in autoimmune and inflammatory disorders, such as Rasmussen
+encephalitis, vasculitis, multiple sclerosis, and inflammatory myopathy.
+Recognize pathological characteristics of different nerve and muscle disorders
+encountered during PN practice (inherited and acquired neuropathies, congenital
+myopathies, congenital muscular dystrophies, limb girdle muscular dystrophies,
+inflammatory myopathies, and metabolic myopathies).
+Demonstrate knowledge of the diagnostic criteria and interpretation of smear
+cytology.
+Learn the features visible by light and electron microscopy in certain metabolic
+disorders (e.g., neuronal ceroid lipofuscinosis, and lysosomal storage disorders).
+Discuss the major cellular, genetic, molecular, biological processes important for
+understanding neurological and neuromuscular diseases.
+Understand the basics of frozen sections and smears.
+Communicator
+The resident is expected to master general communicator competency goals as stated
+above.
+Scholar
+The resident is expected to master general scholar competency goals.
+Collaborator
+The resident is expected to master general collaborator competency goals.
+Manager
+The resident is expected to master general manager competency goals.
+Health Advocate: The resident is expected to achieve general health advocate
+competency goals.
+Professional: The resident is expected to achieve general professional core
+competency goals.
+SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM PAGE 31
+
+--- Page 37 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Neuro-ophthalmology Rotation
+The aim of this rotation is to teach skills to examine and localize ocular lesions and
+motor disorders. The residents will be provided an opportunity to study the role of the
+eye in various neurological disorders. They will learn skills to assess, diagnose, and treat
+various neuro-ophthalmological presentations. During this rotation, residents will
+spend time with multiple clinicians who have backgrounds and expertise in neuro-
+ophthalmology and general ophthalmology. Competency goals are described below.
+Medical Expert
+Be able to obtain relevant patient histories in common ophthalmological
+presentations and correctly perform retinal examinations.
+Learn to assess visual functions (e.g., visual acuity, visual fields, and color vision).
+Be able to perform inspections for prescription glasses (e.g., conduct evaluations,
+identify problem sources, and take appropriate ophthalmological measurements
+including sphere/cylinder/reading)
+Accurately measure vertices and pupil distance.
+Learn the indications and techniques to perform the slit-lamp examination.
+Master the techniques of direct and indirect ophthalmoscopy.
+Learn the clinical approach to examine patients with diplopia, nystagmus, ocular
+motor apraxia, and visual loss.
+Understand the pathophysiology and clinical presentations of common pediatric
+neurology diseases with ocular involvement.
+Recognize common retinal and lens pathologies including optic atrophy,
+papilledema, drusen, retinitis pigmentosa, cherry-red spots, and lens dislocation.
+Learn common abnormalities detected on an electroretinogram and visual evoked
+responses.
+Understand the pharmacology of certain agents used in pediatric ophthalmology,
+such as papillary dilators.
+Communicator
+The resident is expected to achieve general communicator competency goals.
+Scholar
+The resident is expected to achieve general scholar competency goals.
+Collaborator
+The resident is expected to achieve general collaborator competency goals.
+Manager
+The resident is expected to achieve general manager competency goals.
+PAGE 32 SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM
+
+--- Page 38 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Health Advocate
+The resident is expected to achieve general health advocate competency goals.
+Professional
+The resident is expected to achieve general professional core-competency goals.
+Child Psychiatry Rotation
+The goal of the child psychiatry rotations is to provide an organized clinical experience,
+supervised by qualified child psychiatrists, to evaluate, diagnose, and treat children and
+adolescents, presenting with behavioral and mental health problems. The resident will
+learn to effectively link neurological disorders to mental health. The resident should
+utilize the rotation to review psychiatric disorders that are likely to present to a
+neurologist. This is a one-block rotation, with competency goals described below.
+Medical Expert
+The resident is expected to:
+Gain knowledge of the epidemiology, natural history, neurobiology, psychology,
+and systemic aspects of major psychiatric disorders in children and adolescents.
+Conduct psychiatric interviews with parents and other caregivers, and perform
+appropriate psychiatric exams, including the mental status exam.
+Formulate a working diagnosis, including a differential and an appropriate
+problem list, and competently recommend appropriate treatments under the
+guidance of the child psychiatrist.
+Be able to recognize and manage psychiatric diseases that have neurological
+manifestations.
+Gain knowledge about psychopharmacological agents, indications, side effects,
+and interactions.
+Gain knowledge about psychotherapies, indications, and potential caveats.
+Participate in treatment decisions and monitor the impact of all interventions.
+Communicator
+The resident is expected to achieve general communicator competency goals.
+Scholar
+The resident is expected to achieve general scholar competency goals.
+Collaborator
+The resident is expected to achieve general collaborator competency goals.
+SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM PAGE 33
+
+--- Page 39 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Manager
+The resident is expected to achieve general manager competency goals.
+Health Advocate
+The resident is expected to achieve general health advocate competency goals.
+Professional
+The resident is expected to achieve general professional core-competency goals.
+Neuromuscular Rotation
+This rotation provides a more in-depth setting for the resident to study
+electrophysiology and master the clinical skills and theoretical knowledge necessary to
+understand different pediatric neuromuscular disorders. This is a one-block rotation.
+The resident will attend clinics and EMG laboratory sessions with different mentors.
+Residents will learn to obtain a thorough neuromuscular history, conduct
+examinations, and observe and interpret EMGs performed on the same patient.
+Competency goals are described below.
+Medical Expert
+The resident should:
+Master the acquisition of relevant neuromuscular history and the performance of
+complete neuromuscular examinations. Examinations should assess the sensory,
+motor, and coordination systems.
+Be able to understand PNS anatomy and physiology.
+Master the clinical differentiation between disorders at different PNS levels
+(including those of the anterior horn-to-peripheral nerve and neuromuscular
+junction-to-muscle).
+Differentiate between the clinical presentations of upper and lower motor neuron
+disorders.
+Recognize and understand the clinical presentation, etiology, and management of
+motor neuron disorders encountered in the PN setting.
+Recognize and understand the clinical presentation, etiology, and management of
+inherited and acquired peripheral nerve disorders encountered in the PN setting.
+Recognize and understand the clinical presentation, etiology, and management of
+inherited and acquired neuromuscular junction disorders encountered in the PN
+setting.
+Recognize and understand the clinical presentation, etiology, and management of
+PN-related primary muscle disorders, including congenital myopathies, muscular
+dystrophies, metabolic myopathies, myotonic disorders, and periodic paralysis.
+Learn normal and abnormal peripheral-nerve histology and anatomy, including
+muscle innervation and sensory dermatomes.
+PAGE 34 SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM
+
+--- Page 40 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Describe the physiology of axons and peripheral nerves and their reactions to
+injury.
+Recognize and understand the clinical presentation and management of
+neuromuscular presentations associated with chronic illness (e.g., critical-illness
+neuromuscular disorders).
+Understand the clinical approach to and evaluation of neonates and children with
+traumatic-nerve or plexus injury.
+Learn basics of performing and interpreting EMGs. The resident should participate
+in EMG-test interpretation.
+Communicator
+The resident is expected to achieve general core competency as a communicator.
+Scholar
+The resident is expected to achieve general scholar competency goals.
+Collaborator
+The resident is expected to achieve general collaborator competency goals.
+Manager
+The resident is expected to achieve general manager competency goals
+Health Advocate
+The resident is expected to achieve general health advocate competency goals.
+Professional
+The resident is expected to achieve general professional core-competency goals.
+Research Rotation
+PN residents are required to undertake a three-block research rotation. The purpose of
+this rotation is to expand the research knowledge base and skills, and to
+promote their understanding of epidemiology and the utilization and interpretation of
+statistical data. During this rotation, each resident should be able to generate and
+initiate a few research ideas to pursue as research projects during their training years.
+The research blocks are taken during the PN3 5 years of the program. Competency
+goals are described below.
+Medical Expert
+The resident should be able to:
+SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM PAGE 35
+
+--- Page 41 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Generate patient-centered clinical questions to drive knowledge acquisition when
+designing a research study.
+Identify personal knowledge deficiencies and develop a system to generate and
+answer clinical questions based on patient cases
+Use a standard format to phrase clinical questions (e.g., patient/problem,
+intervention, comparison intervention, outcome [PICO]), to help perform an
+efficient literature search to assess what has already been studied
+Assess the type of question being asked, in order to identify study design that
+would best answer the question
+Identify and efficiently locate the best available information resources to address
+research-project questions.
+Conduct a database-oriented literature search using Medline, PubMed, or an
+equivalent method
+Use methodological filters to limit searches to articles dealing with therapy,
+diagnosis, or prognosis
+Use secondary sources (e.g., Cochrane, Coding Analysis Toolkit, databases, ACP,
+Journal Club, etc.) to efficiently obtain evidence.
+Use practice guidelines to identify and review recommended care plans for a
+variety of common problems encountered in PN
+Select the appropriate study design to answer research questions.
+Know the indications for Institutional Review Board (IRB) approval, including
+studies using patients, patient medical records, and other patient-specific data
+that can compromise confidentiality.
+Communicator
+The resident should be able to:
+in a grand-rounds, academic, or research-day format at its
+conclusion.
+Write a scientific abstract for potential submission to a regional or national
+research meeting (i.e., the SCFHS, the Saudi Pediatric Neurology Society meeting,
+or resident research days).
+Complete final IRB reporting.
+Collaborator
+The resident should be able to:
+Discuss their project with an advisor and appropriate consultants, including
+statisticians and other specialists, for research design, or for scientific knowledge.
+PAGE 36 SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM
+
+--- Page 42 ---
+PEDIATRIC NEUROLOGY COMPETENCIES
+Health Advocate
+The resident should be able to:
+Consider healthcare delivery, specific disease management, disease screening, or
+other aspects of health care, as an area to study.
+Advocate research to promote understanding of various disease processes or
+ways to deliver care.
+Understand when research is appropriate and when it is not by considering factors
+such as patient health status, or their understanding of the project.
+Manager
+The resident should be able to:
+Recognize the costs of research.
+Determine the best methods of performing research within the constraints of
+residency and the medical system.
+Scholar
+The resident should be able to:
+data to that previously collected and determine the differences.
+Determine relevant study applications to patient care and describe how it can be
+changed accordingly.
+Professional
+The resident should:
+Respect medical-information privacy of patients while performing research.
+Understand the function of an institutional review board (IRB) and how it serves
+to protect patients.
+Be able to discuss the ethics of research, including subject recruitment, informed
+consent, patient privacy, and the role of IRBs.
+Respect the privacy of patients and their families when performing research that
+involves seeking patient-specific information.
+Be honest in reporting of data.
+Present data in an aggregate manner to eliminate specific-patient identification in
+Be able to submit a proposal to the IRB.
+Complete the IRB Ethics in Research test.
+SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM PAGE 37
+
+--- Page 43 ---
+ASSESSMENT
+STRUCTURED LEARNING AND TEACHING
+The SBPN program includes multiple learning opportunities for trainees. The bulk of
+learning and teaching lies in clinical experience through hands-on mentoring in various
+clinical settings and academic activities. Teaching opportunities are arranged through
+academic activities in each training site, where the resident will be providing formal,
+informal, or bedside teaching to junior or general pediatric residents. These teaching
+activities should be documented in the annual academic-performance report, which is
+In addition to these responsibilities, the resident is required to complete certain
+structured educational modules and activities; this aspect of the learning process is
+covered in the following section.
+Part I: Universal Topics
+These are high-value, interdisciplinary topics of the utmost importance to the trainee.
+The topics are delivered to ensure that every trainee develops essential core
+knowledge in medicine practice. These topics are common to all specialties.
+Topics included here fall in one or more of the following classes:
+Impactful: Topics that are commonly-encountered or relevant to life-threatening
+situations.
+Interdisciplinary: Topics that are difficult to teach in a single discipline.
+Orphan: Topics that are poorly represented in the undergraduate curriculum.
+Practical: Topics that trainee will encounter during hospital practice.
+Development and Delivery
+Core topics for postgraduate curriculum will be developed and delivered by the SCHS
+through an e-learning platform. A set of preliminary learning outcomes for each topic
+are under development.
+The topics will be didactic in nature, with particular focus on the practical aspects of
+care. These topics will have more content compared with workshops and other face-to-
+face interactive sessions planned. The suggested duration of each topic is 1.50 hours.
+The topics will be delivered in a modular fashion. At the end of each Learning Unit,
+there will be an on-line formative assessment. These topics can be assessed in a
+summative manner along with specialty examinations.
+PAGE 38 SAUDI BOARD PEDIATRIC NEUROLOGY CURRICULUM

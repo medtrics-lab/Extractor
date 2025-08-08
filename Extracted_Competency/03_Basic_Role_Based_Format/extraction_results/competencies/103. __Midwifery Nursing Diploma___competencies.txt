@@ -1,0 +1,149 @@
+Document: 103. __Midwifery Nursing Diploma__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 17-22
+TOC Entries Found: 1
+Validation: Valid legacy format (score: 255/399, 5/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - LEARNING AND COMPETENCIES -> Page 17
+
+================================================================================
+
+--- Page 17 ---
+VII. LEARNING AND
+COMPETENCIES
+1. Introduction to Learning Outcomes and
+Competency-Based Education
+Training should be guided by well-defined learning objectives that are
+specific specialty needs. Learning outcomes should reflect the professional
+graduation. This will ensure that graduates meet the expected demands of
+the healthcare system and patient care in relation to their specialty.
+Competency-based Education (CBE) is an approach of “adult-learning” that
+is based on achieving pre-defined, fine-grained, and well-paced learning
+objectives that are identified from complex professional competencies.
+Competency-based Education, as an approach, is an intentionally designed
+program through which students acquire knowledge, build skills and
+demonstrate mastery of competencies. Trainees’ learning is at the core of
+this approach. The CBE models that have been adopted for use in the
+midwifery curriculum include the Millers Prism of Clinical Competence and
+the International Confederation of Midwives (ICM) (2019) (Figure 1).
+
+--- Page 18 ---
+Figure 1: ICM competencies framework
+concepts from the Millers Pyramid were applied to evaluate the clinical
+competencies applied in this program.
+Figure 2: Miller's pyramid of clinical competence
+Miller's pyramid is usually described as having four levels: knows, knows
+how, shows how, and does. This pyramid is based on progressive
+development across a range of abilities measured in the workplace context.
+
+--- Page 19 ---
+Miller's pyramid is a way of ranking clinical competence in educational
+settings, and as a framework, it distinguishes between knowledge at lower
+levels and activity at higher levels. At the lower levels of the pyramid, the
+competence. They develop this understanding through knowledge
+transmission learning activities, such as lectures, reading, and
+demonstrations. In order to assess our learners are achieving what we want
+them to achieve, we should evaluate them in the setting that we expect them
+to be delivered. Miller's ideas strive to define education based on its output
+and not on its inputs. Higher levels have greater professional authenticity,
+moving the trainee from a novice to an expert.
+At the upper levels of the pyramid, the aim is to integrate the theory
+(intellectual skills), psychomotor skills, and professional attitudes to
+perform as competent health professionals in different contexts (Sahu,
+Chattu and Rewatkar. 2019).
+The following are concepts to enhance the implementation of CBE in this
+curriculum:
+• Competency: Competency is a cognitive construct that assesses the
+standards of the profession. Professional roles (e.g., midwife, health
+advocate, communicator, leader, scholar, collaborator, and professional)
+learning and assessment.
+• Milestones: Milestones are the stages of the developmental journey
+throughout the competency continuum. Throughout their learning
+journey from year 1 to year 2, trainees will be assisted in transforming
+from being novice/supervised to expert/unsupervised practitioners. This
+should not undermine the role of supervisory/regulatory bodies toward
+malpractice of independent practitioners. Milestones are expected to
+
+--- Page 20 ---
+enhance the learning process by pacing training/assessment to match
+the developmental level of the trainees.
+• Learning-Domains: Whenever possible, efforts should be directed to
+(K=Knowledge, S=Skills, and A=Attitude). You may have more than one
+annotation for a given learning outcome.
+• Content-area Categorization: It is advisable to categorize learning
+profession. The midwifery curriculum specialty modules will be based
+on the essential competencies for midwifery practice as per the ICM
+competencies framework Figure 2.
+• Trainees: Trainees are expected to progress from the novice to expert
+level in a certain set of professional competencies. The SCFHS endorsed
+the One 45 system to articulate professional competencies. The
+curriculum applies the principles of competency –based education.
+2. Program Duration
+The Advanced midwifery diploma Program is a two-year program.
+3. Program Rotations
+Hospital rotations
+Trainees were required to complete 13 blocks (1 block = 4 weeks) of
+training each year. Clinical rotation covers all maternity units for trainees to
+attain the relevant competencies.
+
+--- Page 21 ---
+The table below provides further description of each rotation.
+Mandatory core rotations*
+Training Year
+Rotation name Duration Setting
+• Hospital and Maternity
+Orientation 2 w
+Theory (Module 1: Conception
+and normal pregnancy/ module Training classroom
+6 w
+2: Normal childbirth, Clinical skills laboratory
+puerperium and neonate)
+Pre-pregnancy and antenatal Antenatal department and OPD,
+9 w
+care ER
+Care of women during labor
+16 w L&D, OR, ER
+Care of postpartum women 4 w Postnatal department
+Care of newborns 2 w Nursery
+Research and Evidence- Based
+8 w • Maternity setting
+Practice
+Theory (Module 3: High-risk
+pregnancy and childbirth/ training classroom & clinical
+6 w
+Module 4: High-risk skills laboratory
+puerperium and neonate)
+Care of high-risk pregnancy 8 w Antenatal department, OPD, ER
+Women’s Health and family Gynecology inpatient, OPD,
+6 w
+planning family planning clinic, IVF
+Care of high-risk labor and
+10 w L&D, OR, ER
+Assisting with high-risk
+5 w NICU department
+Care of high-risk postpartum
+4 w Postnatal department
+
+--- Page 22 ---
+Mandatory core rotations*
+Training Year
+Rotation name Duration Setting
+Leadership and Management 8 w Maternity setting
+Annual Vacation: 30 days 4 w
+Eid Vacation: One of the two Eid
+D1 and D2
+holidays/ year or according to
+standards.
+*PD are authorized to allocate the trainees within units and departments
+that assist in meeting the objectives required.
+*PD are authorized to reallocate the number of weeks of training according
+to the trainees' learning needs.
+4. Mapping of learning objectives and competency
+roles to programme rotations:
+This section aims to match the competencies and objectives related to each
+rotation. Trainees and trainers should work together to achieve these
+objectives during teaching and formative assessment. Expectations from
+trainees should evolve as the training level progresses (training stage and
+milestones). (Appendices A and B, respectively).

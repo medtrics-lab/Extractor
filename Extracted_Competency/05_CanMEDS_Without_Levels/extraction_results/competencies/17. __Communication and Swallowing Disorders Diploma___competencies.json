@@ -1,0 +1,12 @@
+{
+  "document": "17. __Communication and Swallowing Disorders Diploma__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 14,
+    "end": 15
+  },
+  "candidates_found": 32,
+  "validation": "Valid CanMEDS without levels (score: 188/268, 4/7 roles)",
+  "content_length": 5972,
+  "success": true
+}

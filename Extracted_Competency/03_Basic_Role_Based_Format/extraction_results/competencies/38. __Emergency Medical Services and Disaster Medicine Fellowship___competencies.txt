@@ -1,0 +1,373 @@
+Document: 38. __Emergency Medical Services and Disaster Medicine Fellowship__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 14-22
+TOC Entries Found: 3
+Validation: Valid legacy format (score: 163/399, 2/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - Learning Outcomes -> Page 14
+  - Mapping Learning Objectives and Competency Roles                   
+            for Program Rotations -> Page 22
+  - Rotation: Field response skills (ICU, ECMO, and OR) -> Page 28
+
+================================================================================
+
+--- Page 14 ---
+VIII. THE SAUDI EMS
+AND DM FELLOWSHIP
+1. Learning Outcomes
+Learning outcomes are descriptions of an educational program’s
+results, while competencies are descriptions of the graduates. The
+former is more detailed and specific, while the latter tends to be a
+general statement about a graduate. We chose to describe this
+fellowship using learning outcomes since DM and EMS are relatively
+new.
+Graduates of the DM and EMS fellowship programs are expected to
+be able to:
+1. Design an EMS system that values service and clinical quality,
+improvement, resilience, accountability, and economy in an
+emerging healthcare system’s context.
+1.1. Analyze an EMS system’s components and optimize its
+integration with public safety, public health, and healthcare.
+1.2. Depict a patient’s journey through an EMS episode of care
+and highlight opportunities for improvement.
+1.3. Justify alterations to the point of entry (POE) for emergency
+response vehicles, in a healthcare facility, based on the
+patient’s condition
+1.4. Debate the benefits and harms of ambulance diversion, the
+patient’s input on destination choice, and hospital bypass.
+1.5. Compare the different types of EMS systems and their
+advantages/disadvantages.
+1.6. Compare service delivery models, which include fire and
+public safety response, third service, and privatization.
+1.7. Utilize the latest evidence-based guidelines to develop
+an EMS system.
+1.8. Develop and implement quality assurance and quality
+promote patient safety in a prehospital setting.
+1.9. Critique system status management to achieve a more
+cost-effective resource management model.
+14 14
+
+--- Page 15 ---
+1.10 Propose costing and billing schemes that enhance the
+service’s quality and ensure economic viability.
+2. Operate an EMS system that provides triage, pre-arrival
+instructions, basic and advanced life support, specialized EMS,
+assessment and treatment, overwhelming response, critical care
+transport, aeromedical transport, prevention and public
+education, event response, and community paramedicine in a
+clinical expert’s capacity.
+2.1. Dispatch operations:
+2.1.1. Debate medical dispatch design—from a public safety access
+monitoring.
+2.1.2. Integrate emergency medical dispatch operations with public
+safety incident detection programs.
+2.1.3. Compare medical dispatch systems that are event-based with
+those that are disease-based, by listing their advantages and
+disadvantages.
+2.1.4. Design prearrival instructions to be used by an emergency
+medical dispatcher for an event-based dispatch system.
+2.1.5. Monitor the quality of dispatch center operations in a medical
+director’s capacity.
+2.2. Offline medical control:
+2.2.1. Write a clinical practice guideline for a common clinical
+condition, which passes a vigorous review process and can be
+used by prehospital providers.
+2.2.2. Develop a patient care protocol that is specific to a common
+clinical condition, which passes a vigorous review process and
+can be used by a prehospital healthcare provider.
+2.2.3. Update an existing patient care protocol based on scientific
+evidence and direct field feedback.
+2.2.4. Design a patient care protocol review process, based on
+scientific evidence, that enhances frontline workers
+engagement.
+2.3. Online medical control:
+2.3.1. Provide online medical control to prehospital healthcare
+providers, using approved patient care protocols.
+2.3.2. Review the quality of online medical control provided by
+another physician, using approved patient care protocols.
+2.3.3. Provide specialized online medical control for other healthcare
+providers in healthcare facilities, including physicians in
+remote settings.
+
+--- Page 16 ---
+2.3.4. Judge the need to transfer a patient from one healthcare
+transfer while evaluating the patient’s ability to tolerate the
+transfer.
+2.3.5. Evaluate other healthcare providers’ requests for patient
+transfers.
+2.4. Medical direction:
+2.4.1. Review prehospital providers’ scope of practice and propose
+alterations based on scientific evidence and frontline workers’
+feedback.
+2.4.2. Defend the dynamic scope of practice’s approach in ensuring
+patient safety.
+2.4.3. Describe due process and pillars of malpractice.
+2.4.4. Conduct performance review sessions with prehospital
+improvement.
+2.4.5. Review complaints related to inferior quality provision and
+devise a response plan.
+2.4.6. Review patient care records to identify areas for improvement.
+2.4.7. Monitor prehospital healthcare providers’ performance using
+evidence-based practices that maximize their engagement.
+2.4.8. Design didactic educational programs for EMS personnel in
+collaboration with EMS education program directors and EMS
+instructors.
+2.5. Medical oversight:
+2.5.1. Represent EMS in national and international forums,
+advocating the specialty and its providers.
+2.5.2. Review EMS provision strategies and provide evidence-based
+input on modifications.
+2.5.3. Educate healthcare providers, public safety officers, leaders,
+and others on the roles and responsibilities of EMS systems.
+2.6. Specialized EMS care:
+2.6.1. Teach prehospital care providers about healthcare provisions,
+in austere environments, including:
+2.6.1.1. Tactical events
+2.6.1.2. Wilderness events
+2.6.1.3. Hazardous material response
+2.6.1.4. Critical care transport
+2.6.1.5. Aeromedical transport
+2.6.1.6. Resource to patient transport
+
+--- Page 17 ---
+2.6.2. Provide prehospital care in austere environments and solve
+issues that are commonly encountered.
+3. Assess the three dimensions of an EMS system—healthcare
+provision, public health, and public safety—and propose
+interventions to improve its performance.
+3.1. Devise an assessment plan for an EMS agency and
+provide suggestions for its improvement.
+3.2. Assess a national EMS system model, by highlighting its
+strengths and weaknesses.
+3.3. Participate in an audit program that grants or reviews the
+accreditation of an EMS agency as an auditing team
+member.
+3.4. Summarize an EMS agency’s performance using simple
+makers.
+3.5. Develop and implement specific quality assurance and
+quality improvement systems.
+3.6. Defend the epidemiologic approach to trauma and other
+safety risks in the environment.
+3.7. Study public safety hazards using Haddon matrix and
+summarize the interventions to be implemented.
+4. Respond to scenes of incidents as an expert healthcare provider
+with a unique skill set that accelerates patients’ recovery.
+4.1. Lead a safe approach to scene response while teaching
+other healthcare providers about occupational safety’s
+importance.
+4.2. Perform certain tasks, in a prehospital environment when
+required, including:
+4.2.1. Field amputation
+4.2.2. Emergency thoracotomy
+4.2.3. Blood products transfusion
+4.2.4. Extra corporal membrane oxygenation initiation
+4.2.5. Critical care management for pinned patients
+4.2.6. Difficult airway management
+4.3. Act as a competent prehospital provider in all capacities,
+including emergency medical technicians, emergency
+medical specialists (senior paramedics), senior emergency
+medical specialists (paramedics), and consultant
+emergency medical specialists (consultant paramedics).
+
+--- Page 18 ---
+4.4. Lead the field response during a major incident by
+agencies.
+5. Investigate the validity of new interventions in EMS through
+research and scholarly activities.
+5.1. Apply the fundamental principles of epidemiology and
+scientific critique including:
+5.1.1. Risk measurement
+5.1.2. A test’s characteristics
+5.1.3. Sensitivity and specificity
+5.1.4. Statistical analysis
+5.2. Write a successful research proposal that addresses a
+clinical question.
+5.3. Participate in investigating an intervention’s validity by
+patient care.
+5.4. Discuss relevant research questions related to EMS that
+need to be investigated.
+6. Build an EM program for a healthcare facility or a system that
+contains an emergency organizational structure, disaster cycle
+plans, and an educational program, and meets international
+accreditation standards.
+6.1. Compare different leadership organization systems, during
+an emergency response, include the Incident Command
+System, and Major Incident Management System.
+6.2. Justify unity of command, chain of command, devolution,
+emergency management.
+6.3. Validate emergency management’s role in healthcare.
+6.4. Analyze disaster response phases and the key activities
+within each phase.
+6.5. Perform incident command functions during a disaster
+exercise or response.
+6.6. Use the Incident Command System efficiently during an
+emergency response.
+6.7. Build an organizational chart that is to be used by a
+healthcare institution during an emergency.
+6.8. Formulate and execute a triage plan to sort patients based
+on the injury’s severity, their medical needs, and the
+prehospital resources.
+18 18
+
+--- Page 19 ---
+6.9. Apply knowledge of evacuation principles to implement a
+systematic patient evacuation plan.
+6.10. Analyze and design casualty evacuation policies and
+protocols.
+6.11. Demonstrate mastery of various mass casualty triage
+methods.
+6.12. Conduct a successful full-scale exercise in the capacity of
+a conductor or an evaluator.
+6.13. Classify services in a healthcare institution into mission
+essential and non-essential functions.
+6.14. Define the maximum tolerable downtime for healthcare
+services as part of a business continuity management plan.
+6.15. Use common risk assessment methods and prioritization
+techniques.
+6.16. Build a business continuity management program for a
+healthcare institution.
+6.17. Participate in writing and reviewing an emergency
+operations plan, mitigation plan, preparedness plan,
+continuity of operations plan, and recovery plan.
+7. Collaborate in building healthcare resilience against weapons of
+mass destruction, consequences of conflict, consequences of
+terrorism and urban violence, and other major incidents as the
+healthcare experts. Such collaborations would involve mitigating,
+preparing for, responding to, and recovering from such events in
+a highly efficient manner.
+7.1. Apply the core concepts behind the planning and response
+to chemical, biological, radiological, nuclear, and explosive
+(CBRNE) events.
+7.2. Map the roles and responsibilities of all agencies which
+respond to CBRNE events.
+7.3. Describe the principles of scene safety which relates to the
+EMS’ response to toxins/poisons/HAZMAT (hazardous
+materials) events.
+7.4. Identify the common substances/chemicals/situations that
+may constitute a toxin/poison/HAZMAT response.
+7.5. Select appropriate personal protective equipment (PPE)
+level in response to these events. Assess and mitigate
+PPE’s effects on emergency responders’ health.
+7.6. Overcome the difficulties in delivering medical care while
+wearing PPE (levels 1, 2, 3, and 4).
+7.7. Formulate and execute an appropriate treatment plan to
+manage patients in austere environments.
+
+--- Page 20 ---
+7.8. Apply decontamination principles, including differentiating
+between dry, wet, general, and secondary
+decontamination.
+8. Act as expert healthcare consultants for healthcare policies,
+disaster medicine toxicology, disaster medicine public health, and
+emergency management in a healthcare system, when requested
+by policymakers.
+8.1. Apply fundamental principles and methods to plan and
+gatherings/special events.
+8.2. Mitigate the unique challenges related to field medical care
+provisions at mass gatherings/special events.
+8.3. Analyze data from previous events to determine
+events.
+8.4. Coordinate with event workers, emergency responders,
+and public officials to design large-scale medical care
+plans.
+8.5. Locate, design, and implement temporary medical
+treatment facilities.
+8.6. Determine the proper types and distribution of medical
+resources at mass gatherings/special events.
+8.7. Develop and implement a comprehensive documentation
+delivery of medical care at mass gatherings/special events.
+8.8. Execute and supervise the delivery of medical care at mass
+gatherings/special events.
+8.9. Collect and analyze event data and apply quality
+future events.
+8.10. Collaborate with response agencies, event planners, public
+health departments, and definitive care facilities to optimize
+event reporting, surveillance, patient management, and
+follow-up.
+9. Coach healthcare providers and leaders on crisis leadership and
+major incidents.
+9.1. Teach the difference between crisis response decision-
+making and regular decision-making techniques.
+9.2. Provide psychological first aid during a critical incident
+response.
+
+--- Page 21 ---
+9.3. Explain resource classification and resource management
+cycle.
+9.4. Guide the planning for increasing the providers’ capacity
+and capability during crisis response.
+9.5. Analyze healthcare consequences related to common
+disasters.
+9.6. Describe the difference between an incident-based and all-
+hazard approach in emergency response planning.
+9.7. Advocate emergency management’s importance as a
+leadership function in healthcare.
+10. Represent healthcare and their nation as experts of humanitarian
+response in national and international forums; such
+in humanitarian aid.
+10.1. Review the international humanitarian law, Geneva
+Convention, and the additional protocols pertaining to the
+crisis.
+10.2. Advocate for disadvantage groups’ rights in diplomatic
+forums as a healthcare representative.
+10.3. Plan an international healthcare provision response using
+international agencies’ standards.
+2. Program Durations
+The duration of the fellowship program in EMS and DM is two years.
+3. Program Rotations
+Mandatory core rotations*
+Training
+Rotation name Duration
+EMS 1 (System design and management) 3 blocks
+EMS 2 (Online and offline medical control) 3 blocks
+EMS 3 (Medical direction [quality and administration]) 3 blocks
+EMS 4 (Specialized EMS and scene response: austere environment
+response, aeromedical services, tactical response, critical care transport, and 2 blocks
+HazMat response)
+Field response skills (ICU, ECMO, and OR) 1 block
+F1 Annual leave 1 block
+
+--- Page 22 ---
+Emergency management in healthcare 2 blocks
+Humanitarian response, conflict zone response, refugee camp healthcare,
+2 blocks
+Healthcare planning and response for mass gatherings. 1 block
+Developing and conducting of emergency management training and
+2 blocks
+Risk assessment and management in healthcare 3 blocks
+CBRNE, WMD, and counterterrorism medicine 2 blocks
+F2 Annual leave 1 block
+(*Mandatory core rotation: Set of rotations that represent the
+program’s core components are mandatory.
+4. Mapping Learning Objectives and
+Competency Roles for Program Rotations
+This section aims to match each rotation’s competencies and
+objectives. Trainees and trainers should work together to fulfill these
+objectives during teaching and formative assessment. Expectations
+should evolve as the training level progresses (training stage).
+Rotation: EMS 1 (System design and
+management)
+Rotation’s
+Rotation Training Training Competency
+(Months/w Rotation specific outcomes
+sitting stage years roles**
+eeks/
+block)
+Design an EMS system that values service
+and clinical quality, improvement, resilience,
+EMS Junior 1 3 blocks L, HA, S
+accountability, and economy in an emerging
+healthcare system’s context.
+Draw a patient journey through an EMS
+episode of care and highlight opportunities for L
+improvement.
+Justify alterations to the point of entry (POE),
+for emergency response vehicles, in a
+L, HA
+healthcare facility, based on patients’
+condition.
+Debate the benefits and harms of ambulance
+diversion, patients’ input on destination choice S
+and hospital bypass.

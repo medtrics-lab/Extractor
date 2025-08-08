@@ -1,0 +1,129 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 7,
+  "successful_extractions": 7,
+  "extraction_rate": "100.0%",
+  "format_breakdown": {
+    "CanMEDS Without Levels": {
+      "total": 6,
+      "successful": 6,
+      "avg_confidence": 0.8076190476190476,
+      "success_rate": 100.0
+    },
+    "Legacy Dotted TOC": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.8033057851239669,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {
+    "CanMEDS Without Levels": {
+      "total_attempts": 6,
+      "successful_extractions": 6,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.6,
+        1.0,
+        0.9142857142857141,
+        0.7999999999999999,
+        0.5714285714285714,
+        0.96
+      ]
+    },
+    "Legacy Dotted TOC": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.8033057851239669
+      ]
+    }
+  },
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/17. __Communication and Swallowing Disorders Diploma__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.60",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 188/268, 4/7 roles)",
+      "content_length": 5972,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/05_CanMEDS_Without_Levels/extraction_results/competencies/17. __Communication and Swallowing Disorders Diploma___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/30. __Arthroscopy and Orthopedic Sport Injuries Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "1.00",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 263/268, 7/7 roles)",
+      "content_length": 22695,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/05_CanMEDS_Without_Levels/extraction_results/competencies/30. __Arthroscopy and Orthopedic Sport Injuries Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/33. __Family Dental Medicine Diploma__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.80",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 291/399, 6/7 roles)",
+      "content_length": 11474,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/05_CanMEDS_Without_Levels/extraction_results/competencies/33. __Family Dental Medicine Diploma___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/18. __Occupational Therapy Diploma__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.91",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 235/268, 6/7 roles)",
+      "content_length": 4955,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/05_CanMEDS_Without_Levels/extraction_results/competencies/18. __Occupational Therapy Diploma___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/70. __Pediatric Neurology Board__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.80",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 253/268, 7/7 roles)",
+      "content_length": 23947,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/05_CanMEDS_Without_Levels/extraction_results/competencies/70. __Pediatric Neurology Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/99. __Reproductive Medicine and Surgery Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.57",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 177/268, 3/7 roles)",
+      "content_length": 5551,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/05_CanMEDS_Without_Levels/extraction_results/competencies/99. __Reproductive Medicine and Surgery Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/60. __Colon and Rectal Surgery Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.96",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 252/268, 7/7 roles)",
+      "content_length": 3500,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/05_CanMEDS_Without_Levels/extraction_results/competencies/60. __Colon and Rectal Surgery Fellowship___competencies.txt",
+      "failure_reason": null
+    }
+  ]
+}

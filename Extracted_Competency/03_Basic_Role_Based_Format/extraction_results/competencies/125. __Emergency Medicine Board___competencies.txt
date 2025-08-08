@@ -1,0 +1,87 @@
+Document: 125. __Emergency Medicine Board__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 110-111
+Candidates Found: 30
+Validation: Valid CanMEDS without levels (score: 189/268, 3/7 roles)
+================================================================================
+
+--- Page 110 ---
+CanMEDS competencies published by the Royal College of Physicians and
+Surgeons are provided below for guidance. Upon completion of training, the
+resident will have acquired the following competencies and will function
+effectively as a:
+Medical Expert
+Definition
+As medical experts, specialist emergency physicians integrate all of the CanMEDS
+roles, applying medical knowledge, clinical skills, and professional attitudes to
+their provision of patient-centered care. The medical expert is the central
+physician in the CanMEDS framework.
+Key and enabling competencies: specialist emergency physicians are able to do
+the following:
+1. Function effectively as consultants, integrating all of the CanMEDS roles
+to provide optimal, ethical, patient-centered medical care
+1.1 Perform consultations, including the presentation of well-documented
+assessments and recommendations in written and/or verbal format,
+effectively in response to requests from other healthcare professionals,
+including community family physicians, referring emergency
+physicians, and other specialists, on behalf of patients requiring
+emergency care.
+1.2 Recognize and respond to the ethical dimensions of medical decision
+making, particularly in the context of practicing emergency medicine,
+for which consent is not always obtainable.
+1.3 Demonstrate compassionate and patient-centered care.
+1.4 Demonstrate medical expertise in situations other than patient care,
+such as advising hospital and/or regional health authorities or
+government agencies or providing expert legal opinion.
+2. Establish and maintain the clinical knowledge, skills, and attitudes
+necessary to assess and manage a full spectrum of patients, rapidly and
+often concomitantly with acute or undifferentiated illness and injury
+2.1 Describe the CanMEDS framework of competencies relevant to
+emergency medicine.
+2.2 Possess knowledge of the clinical, sociobehavioral, and fundamental
+biomedical sciences relevant to emergency medicine.
+109 SAUDI BOARD EMERGENCY MEDICINE CURRICULUM
+
+--- Page 111 ---
+2.3 Apply the basic scientific and clinical knowledge necessary to rapidly
+assess and manage patients with acute and/or undifferentiated illness
+or injury, ranging from life-threatening events to common minor
+presentations.
+2.4 Contribute to the improvement of quality care and patient safety in the
+practice of emergency medicine, integrating the best evidence and
+practices available.
+2.5 Be aware of his/her knowledge, skills, and personal limitations and be
+able to seek advice as necessary, resulting in subsequent performance
+enhancement.
+2.6 Apply the lifelong learning skills applicable to the role of scholar to the
+implementation of a personal program to maintain and enhance areas
+of professional competence in emergency medicine.
+3. Perform a complete and appropriate patient assessment consisting of a
+selective, accurate, and well-organized history and physical examination
+3.1 Triage and set appropriate priorities when dealing with any number of
+critically ill patients.
+3.2 Perform accurate and complete clinical assessment of patients
+presenting with nonspecific clinical complaints and syndromes.
+3.3 Identify and explore issues to be addressed, including the patient’s
+context, beliefs, and preferences, in patient encounters within
+emergency medicine practice.
+3.4 For the purposes of prevention, health promotion, diagnosis, and
+management, elicit a history that is relevant, concise, and accurate with
+respect to context, beliefs, and preferences.
+3.5 When necessary, make appropriate use of alternative sources of
+information to complete or substantiate clinical information.
+3.6 For the purposes of prevention, health promotion, diagnosis, and
+management, perform a focused physical examination that is relevant
+and accurate in emergency medicine practice.
+3.7 Generate differential diagnoses that are well organized and compatible
+with known clinical and laboratory information and include both likely
+entities and less common but serious or life-threatening conditions.
+3.8 Demonstrate effective clinical problem solving and judgment, including
+interpreting available data and integrating information to generate
+differential diagnoses and management plans, to address patient
+problems.
+3.9 Understand the concept of diagnostic uncertainty and use presumptive
+management appropriately in the resolution of these circumstances.
+3.10 Use timely and selective clinical reassessment to optimize and
+facilitate patient care.
+110 SAUDI BOARD EMERGENCY MEDICINE CURRICULUM

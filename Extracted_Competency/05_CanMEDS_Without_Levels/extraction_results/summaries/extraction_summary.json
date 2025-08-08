@@ -1,0 +1,101 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 7,
+  "successful_extractions": 0,
+  "extraction_rate": "0.0%",
+  "format_breakdown": {
+    "Unknown": {
+      "total": 7,
+      "successful": 0,
+      "avg_confidence": 0.0,
+      "success_rate": 0.0
+    }
+  },
+  "performance_tracking": {},
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/17. __Communication and Swallowing Disorders Diploma__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/30. __Arthroscopy and Orthopedic Sport Injuries Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/33. __Family Dental Medicine Diploma__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'ImprovedLegacyDottedTOCExtractor' object has no attribute 'extract_from_pdf'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'ImprovedLegacyDottedTOCExtractor' object has no attribute 'extract_from_pdf'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/18. __Occupational Therapy Diploma__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/70. __Pediatric Neurology Board__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/99. __Reproductive Medicine and Surgery Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/05_CanMEDS_Without_Levels/60. __Colon and Rectal Surgery Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'"
+    }
+  ]
+}

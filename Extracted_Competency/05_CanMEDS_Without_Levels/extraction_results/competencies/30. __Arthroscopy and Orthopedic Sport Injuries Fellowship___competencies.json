@@ -1,0 +1,12 @@
+{
+  "document": "30. __Arthroscopy and Orthopedic Sport Injuries Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 7,
+    "end": 24
+  },
+  "candidates_found": 2,
+  "validation": "Valid CanMEDS without levels (score: 263/268, 7/7 roles)",
+  "content_length": 22695,
+  "success": true
+}

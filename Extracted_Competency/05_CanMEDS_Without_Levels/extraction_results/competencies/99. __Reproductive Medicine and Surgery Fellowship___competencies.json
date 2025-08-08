@@ -1,0 +1,12 @@
+{
+  "document": "99. __Reproductive Medicine and Surgery Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 13,
+    "end": 14
+  },
+  "candidates_found": 11,
+  "validation": "Valid CanMEDS without levels (score: 177/268, 3/7 roles)",
+  "content_length": 5551,
+  "success": true
+}

@@ -1,0 +1,129 @@
+Document: 106. __Adult Critical Care Nursing Diploma__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 15-18
+TOC Entries Found: 1
+Validation: Valid legacy format (score: 234/399, 5/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - LEARNING AND COMPETENCIES -> Page 15
+
+================================================================================
+
+--- Page 15 ---
+VIII. LEARNING AND
+COMPETENCIES
+1. Introduction to Learning Outcomes and
+Competency-Based Education
+Training should be guided by well-defined “learning objectives” driven
+by targeted “learning outcomes” of a particular program to serve
+specific specialty needs. Learning outcomes are supposed to reflect
+the professional “competencies” and tasks to be “entrusted” by
+trainees upon graduation. This will ensure that graduates meet the
+particular specialty. Competency-based education (CBE) is an “adult
+learning” approach based on achieving predefined, fine-grained, and
+well-paced learning objectives driven by complex professional
+competencies.
+Professional competencies related to healthcare are usually
+(knowledge, skills, and attitude). CBE is expected to change the
+traditional method of postgraduate education. For instance, although
+it is a precious resource, training time should not be considered a
+proxy for competence (e.g., rotation time in certain hospital areas is
+not the primary marker of competence achievement). Furthermore,
+CBE emphasizes the critical role of an informed judgment of learners’
+driven by multiple workplace-based observations. Several CBE
+models have been developed for postgraduate healthcare education,
+
+--- Page 16 ---
+for example, Critical Care Networks – National Nurse Leads )CC3N).
+The CC3N framework was designed to move the learner through a
+independent practitioner.
+The following are concepts to enhance the implementation of CBE in
+this curriculum:
+ Competency: Competency is a cognitive construct that assesses
+the profession's standard. Professional roles (e.g., experts,
+advocates, communicators, leaders, scholars, collaborators, and
+professionals) are used to define the competency role and make it
+mendable for learning and assessment.
+ Milestones: Milestones are the stages of the developmental
+journey throughout the competency continuum. Trainees
+throughout their learning journey, from junior and senior levels,
+will be assisted in transforming from being novice/supervised to
+master/unsupervised practitioners. This should not undermine
+the role of supervisory/regulatory bodies toward the malpractice
+of independent practitioners. Milestones are expected to enhance
+the learning process by pacing training/assessment to match the
+developmental level of the trainees (junior vs. senior).
+ Learning Domains: Whenever possible, efforts should be directed
+(K=Knowledge, S=Skills, and A=Attitude). You may have more than
+one annotation for a given learning outcome.
+ Content-area Categorization: It is advisable to categorize the
+of the profession—for example, diagnostic versus therapeutic,
+simple versus complex, and urgent versus chronic.
+Trainees are expected to progress from the novice to mastery levels
+in a particular set of professional competencies. This curriculum
+applies the principles of competency-based medical education.
+
+--- Page 17 ---
+2. Program Durations
+The Advanced Practice Nursing Program in Adult Critical Care is a
+two-year program.
+3. Program Rotations
+Hospital rotations
+Most critically ill patients are admitted to the ICU. Therefore, to
+experience the role of adult critical care nurses, trainees are provided
+with adequate specialty experience, irrespective of the name of the
+ICU rotations in their respective training centers. Consequently, the
+following program rotations were considered mandatory.
+See Appendix A for further description of each rotation.
+Training Duration per
+Mandatory Core Rotation * Setting
+Year Week
+Critical Care
+Orientation 2
+Settings
+Module 1: Foundations of Intensive Care Critical Care
+Nursing Settings
+7 blocks with
+each block 4
+Module 2: Intensive Care Nursing 1
+to 6 weeks
+ Respiratory System 1 6
+Critical Care
+ Respiratory System 2 6 Settings
+ Cardiovascular System 1 6
+ Cardiovascular System 2 6
+ Renal System 1 4
+
+--- Page 18 ---
+Training Duration per
+Mandatory Core Rotation * Setting
+Year Week
+ Renal System 2 4
+ Gastrointestinal System 5
+Total 47
+Module 3: Intensive Care Nursing 2 (Systems-
+7 blocks with
+based approach including Advanced Health
+each block 4
+Assessment, Pathophysiology, Pharmacology,
+to 6 weeks
+and Nursing Management) for the following
+systems:
+ Neurological System 1 4
+ Neurological System 2 4
+ Endocrine System 4
+Critical Care
+ Hematologic and Immune Systems 4 Settings
+ Integumentary System 4
+ Multisystem Dysfunction 4
+ Special Situations in Critical Care 6
+Module 4: Nursing Research and Evidence-
+Based Practice in Nursing
+Module 5 : Leadership and Management 8
+Total 47
+Annual Vacation: 30 days 4
+D1 and D2
+Eid Vacation: One of the two Eid holidays
+according to the training institution standards.
+(*Mandatory core rotation: Set of rotations that represent program

@@ -1,0 +1,428 @@
+Document: 30. __Arthroscopy and Orthopedic Sport Injuries Fellowship__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 7-24
+Candidates Found: 2
+Validation: Valid CanMEDS without levels (score: 263/268, 7/7 roles)
+================================================================================
+
+--- Page 7 ---
+OBJECTIVES
+“Learning outcomes”
+The main objective for creating this curriculum map is to provide a core curriculum
+for a two-years sports medicine fellowship. This fellowship will be a competency-based
+training. CanMEDS roles will be utilized to structure the objectives of the training.
+Because this is the first sport medicine fellowship to create in Saudi Arabia, a special
+attention will be made in order to define and establish the appropriate objectives for
+medical experts meets the community requirements at Saudi Arabia. Additionally, The
+Orthopaedic Sports Medicine Fellowship Curriculum and Structure of American
+Orthopaedic Society for Sports Medicine (AOSSM) will be used to guide us in building the
+objectives for the medical expert role.
+Communicator
+The fellow will be able to:
+a) Effectively demonstrate skills as a communicator and work and communicate
+effectively with other physicians, allied health professionals, patients and families.
+b) Deliver information to the patient and their support group in a way which is
+understandable.
+c) Demonstrate the ability to describe procedures to the patient and patient’s support
+group.
+d) The ability to obtain an appropriate informed consent for patients undergoing
+interventions.
+Collaborator
+The fellow will be able to:
+a) Show awareness of a team approach to the management of athletic problems
+involving physician, surgeon, therapist, coach/trainer and nutritionist.
+
+--- Page 8 ---
+b) Interacts and consults effectively with all allied health professionals and
+acknowledges their roles and expertise.
+c) Understand and develop patient care plan with other members of the inter-
+professional health care team.
+d) Demonstrate the ability to work within an inter-professional team in regards to
+research and administrative duties.
+e) Delegate appropriately and effectively to other members of the healthcare team.
+Manager
+The fellow will be able to:
+a) Cost effectively use of investigative tools and therapeutic modalities including
+complementary and alternative therapies and procedures
+b) Exhibit an ability to effectively organize his/her work and work effectively as part of a
+team to ensure total and continuing care of his/her patients.
+Health Advocate
+The fellow will be able to:
+a) Show an ability to act as an effective healthcare advocate for the patient, society, and
+the community.
+b) Recognize and understands the psychological, social, and physical determinants of
+patient health.
+c) Identify and advise on risk factors for prevention of injury including issues specific for
+gender, age and return to activity
+d) Counsel athletes on the risks and side effects of performance enhancing drugs and
+substance abuse
+Scholar
+The fellow will be able to:
+a) Develops an ability to critically evaluate and appraise medical literature.
+
+--- Page 9 ---
+b) Show an ability and interacts in teaching residents, medical students and allied
+healthcare workers and patients.
+c) Organize and successfully complete a research project.
+Professional
+The fellow will be able to:
+a) Display dependability, reliability, honesty and is forthright with patients and
+colleagues.
+b) Display an understanding and sensitivity to age, gender, culture and ethnicity issues.
+c) Display responsibility and self-discipline and punctuality.
+d) Communicates with patients with compassion and empathy.
+e) Recognizes his/her own limitations and is able to seek and give advice/assistance
+when necessary.
+f) Understand the principles and practice of biomedical ethics as it relates to sports
+medicine and minimally invasive orthopedic surgery.
+g) Demonstrate the ability to work within the scope of clinical and technical acumen and
+obtains responsible and timely patient referrals.
+h) Practice ethically consistent with the obligations of a physician and expectations of
+the community in regards to gender, culture, ethnicity, race, spiritual values and
+socioeconomic standard.
+i) Demonstrate the ability to put patient and parents at ease and inspire confidence in
+the treatment plan.
+
+--- Page 10 ---
+Medical expert focus content:
+1. Knowledge
+o Basic Science: gross anatomy, microanatomy, rehabilitation and kinesiology,
+pathophysiology, tissue healing, inflammation, and cartilage
+o Demonstrates knowledge of applied and functional anatomy (e.g.,
+meniscopopliteal ligaments, Buford complex, zona obliqularis)
+o Demonstrates knowledge of the details of rehabilitation protocols and
+preventive techniques (e.g., ACL reconstruction, concussion, ankle sprains)
+o Demonstrates knowledge of the details of tissue healing and cellular
+physiology of treatment modalities (e.g., cartilage microfracture, platelet rich
+plasma [PRP], corticosteroid injections)
+o Musculoskeletal: acute and chronic orthopaedic disorders, acute non-
+orthopaedic disorders, acute non-orthopaedic traumatic injuries (eye and ear)
+o Demonstrates full knowledge and preventive measures of MSK conditions in
+sports medicine (e.g., training biomechanics, braces, taping)
+o Demonstrates knowledge of intervention techniques to prevent reinjures
+o Demonstrates knowledge of surgical indications and variables associated with
+surgical timing in athletes and non-operative management of the in-season
+athlete
+o Demonstrates complete knowledge of etiology, pathophysiology, treatment,
+and prevention of complications
+o Demonstrates knowledge of more advanced imaging studies for MSK
+conditions
+o Demonstrates full knowledge of routine and accessory portal placements and
+associated complications
+
+--- Page 11 ---
+o Medical Issues: cardiopulmonary, skin, heat/cold intolerance, concussions,
+gastrointestinal (GI)/GU, and gender-related
+o Demonstrate full knowledge and preventive measures of medical conditions in
+sports medicine (e.g., nutrition/supplements)
+o Demonstrates knowledge in controversies and complications of medical
+conditions in sports medicine
+o Demonstrates full knowledge in return to play guidelines for common medical
+conditions in sports medicine (e.g., H. gladatorium, mono, concussions)
+2. Clinical skills
+o Non-operative: history and physical examination, imaging interpretation,
+common medical issues treatment and referral
+o Independently provides patient care in all aspects of sports medicine
+conditions
+o Manages all musculoskeletal aspects and acute sports medicine injuries
+o Refers medical sports medicine conditions to specialists (e.g., recurrent
+concussions, hyphema, cardiomegaly, eating disorders) appropriately
+o Correlates imaging studies with clinical findings
+3. Operative Skills
+o Performs all steps for primary reconstruction of the knee, shoulder, and ankle
+(see the surgical cases logbook)
+o Performs common revision reconstruction for the ACL, anterior shoulder, and
+lateral ankle
+o Performs surgical repair and reconstructive techniques for the hip, and ankle
+(e.g. hip labral and femoroacetabular impingement [FAI] treatment)
+o Recognizes, corrects, and avoids potential intra-operative complications
+
+--- Page 12 ---
+4. Working with inter-professional teams (consultants, certified athletic trainer,
+physical therapist, occupational therapist, etc.) to enhance athletic care and safety
+o Maintains a team approach and has situational awareness to the care of the
+athlete
+o Incorporates clinical quality improvement and athletic safety into clinical care
+o Contributes to the reduction of risks of errors and promotes "speaking up" with
+concerns by members of the inter-professional team
+
+--- Page 13 ---
+Curriculum’s contents
+The AOSSM fellowship committee has established the ideal topics need to be
+covered during the fellowship. These topics represent the core curriculum for the sport
+medicine fellowship ideal curriculum. However, to address the gaps in the taught
+curriculum’s contents, a prioritizing, categorizing and identifying the type of knowledge
+and surgical skills required is considered important during preparing the curriculum’s
+content.
+A. Types of knowledge are required for surgical practice
+Fundamentally, there are three types of knowledge: 1) knowing what (declarative
+knowledge), 2) knowing how (procedural knowledge), and 3) knowing when and why
+(conditional knowledge). Often confusing and potentially problematic for orthopaedic
+education is the relationship between knowing how (procedural knowledge) and being
+able to deal proficiently with a particular type of injury or illness. Command of all three
+types of knowledge is required for surgical practice. Procedural knowledge (i.e. knowing
+the steps one is to follow in doing a particular procedure) and being able to implement the
+procedure proficiently are both important in orthopaedic sports medicine.
+B. Prioritizing Levels of Knowledge, clinical and surgical skills For Curriculum
+It was realized that the graduate of a fellowship program should handle certain
+difficult and sports medicine cases in a highly proficient manner; others routinely and still
+others only well enough to make a responsible referral. Similarly, graduates should
+possess an in-depth understanding of certain types of knowledge from the basic sciences
+because of their importance to the practice of sports medicine, while other optionally
+relevant knowledge, which is not essential to this subspecialty, may be known at only a
+minimal level.
+The rating used in this curriculum applies functional ratings to topic areas. The
+curriculum is designed to separate: 1) Topics which should be mastered by all fellows
+
+--- Page 14 ---
+(rating of “A”) with increasing proficiency and with increasingly complex and challenging
+issues and problems during the fellowship. 2) Topics (rating “B”) in which fellows are not
+expected to become proficient during the fellowship (rather they may assist experts in
+managing such cases for which diagnosis and treatment procedures have only been
+partly developed by the field). 3) Topics (rating “C”) pertaining to aspects of orthopaedic
+sports medicine for which fellows are to learn to triage, since the topics are in “unknown
+territory” from the perspective of orthopaedic sports medicine. Diagnosis and treatment of
+such cases is typically left to the other experts. Table 1 shows some examples in how the
+content of the curriculum will be prioritized.
+C. Contents categories:
+AOSSM curriculum topics will be utilized in this curriculum while some minor
+adjustment regarding the categorizing and prioritizing of the topics in order to address the
+preexisted gaps in this area. The contents of the curriculum focusing in medical expert
+competency will cover all of surgical and medical aspect of sport medicine. Topic will
+organize to cover the major joints of the body. Every topic related to the single joint will
+be categorized in to three main categories: basic science, clinical, and surgical
+knowledge and skills. In addition to that, the curriculum will include topics about medical
+aspect of athletes’ health and sport medicine. Table 2 shows some examples of the
+topics need to be covered in the curriculum
+
+--- Page 15 ---
+Surgical Cases Logbook
+The AOSIF created a case Logbook for Orthopaedic Sports Medicine allows fellows to
+document their operative experience during the 24-month educational program and enables
+the fellowship Committee to monitor programs to ensure that fellows have an adequate volume
+and variety of experiences appropriate for fellowship education. The Committee has identified
+defined case categories (listed here on the following pages) as appropriate for the focused
+education of orthopaedic sports medicine fellows.
+To log a case, fellows will continue to identify the patient type (adult or pediatric), and must
+also identify their role in the case as either Level 1 (primary or supervising fellow surgeon) or
+Level 2 (assisting fellow surgeon). All procedures at both levels require appropriate faculty
+member supervision and participation in the case. At this time, both Level 1 and Level 2
+participation will count. The fellowship committee will continue to review the fellows’ Case Log
+reports as a measure of the depth and breadth of fellow experience.
+GLENOHUMERAL INSTABILITY
+1 Diagnostic arthroscopy
+1 Arthroscopic OR open anterior capsulorrhaphy; with labral repair
+(e.g., Bankart procedure)
+2 Arthroscopic OR open anterior capsulorrhaphy; with bone block
+2 Arthroscopic OR open anterior capsulorrhaphy; with coracoid process
+transfer
+2 Arthroscopic OR open posterior capsulorrhaphy, with or without bone
+block
+2 Arthroscopic OR open Glenohumeral joint capsulorrhaphy for multi-
+directional instability
+2 Arthroscopic repair of SLAP lesion
+
+--- Page 16 ---
+ROTATOR CUFF
+1 Arthroscopic OR open decompression of subacromial space with
+acromioplasty, with or without coracoacromial ligament release
+1 Arthroscopic OR open repair of acute ruptured musculotendinous cuff
+(e.g., rotator cuff)
+1 Arthroscopic OR open repair of chronic ruptured musculotendinous cuff
+(e.g., rotator cuff)
+2 Reconstruction of chronic massive rotator cuff tear
+1 Arthroscopic OR open tenodesis of long tendon of biceps
+1 Tenotomy of long tendon of biceps
+ACOMIOCLAVICULAR INSTABILITY
+1 Arthroscopic distal clavicle resection
+1 Open distal clavicle resection
+1 Open treatment of acromioclavicular dislocation, acute or chronic; with
+or without tendon graft reconstruction (includes obtaining graft)
+HIP ARTHROSCOPY
+2 Diagnostic hip arthroscopy, with or without synovial biopsy
+2 Diagnostic hip arthroscopy; with removal of loose body or foreign body
+2 Diagnostic hip arthroscopy; with debridement/shaving of articular
+cartilage (chondroplasty), abrasion arthroplasty, and/or resection of
+labrum
+2 Diagnostic hip arthroscopy; with synovectomy
+
+--- Page 17 ---
+KNEE INSTABILITY
+1 Primary repair of torn collateral ligament
+2 Primary repair (ORIF or arthroscopically) of avulsed cruciate ligament
+(ACL or PCL)
+2 Ligamentous reconstruction (augmentation) of PLC
+2 Ligamentous reconstruction (augmentation) of the collateral ligaments
+(MCL/LCL)
+1 Arthroscopically aided anterior cruciate ligament reconstruction
+2 Arthroscopically aided posterior cruciate ligament reconstruction
+KNEE MULTI-LIGAMENT REPAIR AND RECONSTRUCTION
+2 Open treatment of knee dislocation, with or without internal or external
+fixation; with primary ligamentous repair or
+augmentation/reconstruction
+2 Arthroscopic treatment of knee dislocation with multiple ligaments
+reconstruction
+KNEE OSTEOTOMY
+1 High tibial osteotomy for correction of genu varus
+1 Distal femur osteotomy for correction of genu valgus
+PATELLOFEMORAL INSTABILITY
+1 MPFL reconstruction
+1 Reconstruction of dislocating patella; with extensor realignment and/or
+muscle advancement or release
+1 Reconstruction of dislocating patella; with tibial tubercle and/or distal
+femur osteotomy osteotomy
+1 Arthroscopic lateral retinacular release
+1 Arthroscopic or open treatment of acute patella dislocation with
+osteochondral fracture+ ORIF or removal+ MPFL and medial retincular
+repair
+
+--- Page 18 ---
+KNEE ARTICULAR CARTILAGE
+1 Arthroscopic debridement/shaving of articular cartilage
+(chondroplasty)
+1 Arthroscopic microfracture
+2 Arthroscopic/ open allograft osteochondral transplantation for OCD
+2 Arthroscopic/ open osteochondral autograft transplantation (e.g.,
+mosaicplasty) (includes harvesting of the autograft(s)
+1 Arthroscopic drilling for osteochondritis dissecans with/without bone
+grafting, with or without internal fixation (including debridement of
+base of lesion)
+MENISCUS
+1 Arthroscopic partial, subtotal or total meniscectomy (medial OR lateral
+including any meniscal shaving)
+1 Arthroscopic meniscus all-inside repair (medial OR lateral)
+2 Open meniscus repair inside-out or out-in (medial OR lateral)
+FOOT AND ANKLE
+1 Open or percutaneous primary repair ruptured Achilles tendon
+1 Open repair of chronic ruptured Achilles tendon with graft reconstruction
+1 Acute repair of superior peroneal retinaculum and deepening of the
+fibular groove for dislocating peroneal tendons
+1 Groove-deepening with soft tissue transfer and/or osteotomy for chronic
+dislocating peroneal tendons
+1 Primary repair/ reconstruction of disrupted lateral collateral ankle
+ligament
+1 Arthroscopic excision of osteochondral defect of talus and/or tibia,
+including drilling
+1 Open or Arthroscopically aided ORIF of large osteochondritis dissecans
+lesion, talar dome fracture
+1 Arthroscopic ankle joint debridment
+1 Arthroscopic removal of loose body or foreign
+
+--- Page 19 ---
+Application requirements
+Candidate for this fellowship will be an orthopaedic fellow who successfully
+finished his/her residency-training program. A total of two fellows will be accepted in this
+fellowship.
+The following documents are required:
+• KKUH Orthopaedic Sports Medicine Fellowship Application
+• Current curriculum vitae
+• Three letters of recommendation
+• Saudi Orthopaedic Board Certificate or equivalent.
+
+--- Page 20 ---
+Structure & Rotation
+The fellowship is two years in length. The program begins on March 1st and terminates
+on Feburary 29. Fellows will spend the two-year in doing different rotations to cover most
+aspect of sport medicine. Currently we have five surgeons with different expertise area in
+different sport medicine subspecialties (shoulder + upper extremities, and Knee+ lower
+extremities).
+Most of the Fellowship is a one-on-one learning experience. This is accomplished by
+assigning the Fellow to two of the sports medicine attending staff. While with this
+attending, the Fellow's schedule mirrors the both attending staff's schedule which is two
+days a week in the clinic, two days a week in the operating room, and one day free to
+pursue research and prepare for conferences. This allows a very close exposure to the
+attendings' thought processes regarding clinical evaluation and test ordering, decision
+making in the clinic, preoperative counseling and preparation, intra-operative decision
+making and post-operative decision making involving wound care, precautions, physical
+therapy and activity progression. This exposure to the continuity of care for the athletic
+patient care is important in the fellowship program.
+Elective rotation:
+Each fellow will have a chance to do an elective rotation (3-6 months) outside the KKUH.
+Fellow can conduct this rotation only at accredited sports center with a qualified sports
+medicine surgeon who is the arthroscopy and sports medicine represent at least more
+than 80% of his practice.
+
+--- Page 21 ---
+Fellows’ Scholarly Activities
+The KSU institution and AOSIF program will allocate all adequate educational resources to
+facilitate fellow involvement in scholarly activities
+Each fellow must demonstrate scholarship through at least one of the following activities:
+1. Participation in sponsored research;
+2. Preparation of an article for a peer-reviewed publication;
+3. Presentation of research at a regional or national meeting; OR,
+4. Participation in a structured literature review of an important topic.
+As part of their educational experience, all fellows are required to perform a clinical
+or laboratory research project (at least ONE) during the 2 years of training.
+Completion of one scholarly activity is MUST and MANDATORY.
+
+--- Page 22 ---
+Learning resources, place, and events
+Learning resources:
+During the training and in addition to the formal teaching, fellows will have the chance to
+get a free access to the educational resources, which are rich of educational materials
+specifically related to sport medicine. Details of the learning resources are shown on
+table 1.
+Learning places and events
+For orthopaedic surgeons to gain proficiency in sport medicine, an appropriate
+setting for efficient learning and teaching is fundamental. Competency in surgical
+arthroscopy and sport medicine typically develops during completion of the residency
+curriculum as defined by the residency review committees, with standard of care as
+defined by community norms. Additional training is often provided by focused fellowships
+in arthroscopy and sports medicine. Therefore, a carful planning of teaching to address
+gaps around residency teaching and exposure to sport medicine is crucial and should be
+well planned.
+In addition to learning and teaching take place at the operative room, clinics, and
+attending international or local conferences and meetings, a structured and well planned
+formal learning, which will be conducted through the two years curriculum.
+• Weekly combined residents and fellows Case-Based Teaching:
+• Teaching will take place at conference room.
+• Supervised by the teaching faculty.
+• Fellows will participate in preparing the clinical cases and teaching.
+• Time protected teaching, where the fellows will be freed from any
+clinical and surgical duties.
+
+--- Page 23 ---
+• Sport medicine rounds:
+• Weekly at the conference room.
+• Will be prepared and organized by chief residents and fellows and
+supervised by teaching faculty.
+• Only difficult and more challenging cases will be discussed.
+• Journal club meeting:
+• Monthly at one of the attending staff’s house or at the restaurant.
+• Scope of teaching will be focus on research methodology, athletes’
+population, and basic science research related to sport medicine.
+• Simulation lab:
+Traditional orthopaedic training in arthroscopy and sport medicine surgical skills has
+relied heavily on the apprenticeship model in which fellows observe experienced
+surgeons in the operating room and increase their level of involvement with subsequent
+procedures. This method of learning is inefficient in terms of both time and cost, and it is
+associated with patient morbidity. These concerns illustrate the limitations of the current
+system and demonstrate a rationale for improving the acquisition of technical skill outside
+the operating room. Therefore, alternative education tools like simulation (cadavers,
+bench top model, and virtual reality) will be utilized in this fellowship.
+
+--- Page 24 ---
+Assessment
+Purpose: The purposes of the assessment during the training are to:
+o Support learning
+o Develop professional growth
+o Monitor progression
+o Competency judgment and certification
+o Evaluate the quality of the training programs
+General Principles:
+o Judgement should be based on holistic profiling of a trainee rather than individual traits
+or instruments
+o Assessment should be continuous in nature
+o Trainee and faculty must meet together to review portfolio and logbook once every two
+months and at the of a given rotation
+o Assessment should be strongly linked to the curriculum and the content
+Type of assessment:
+o Formative:
+o Self-assessment MCQ exam by AOSSM
+o Continuous assessment including the workplace-based assessment
+• 360-degree/Multi-source feedback
+o Peer
+o Nurse
+! In-Patient nurses
+! Out-Patient nurses
+! ER nurses

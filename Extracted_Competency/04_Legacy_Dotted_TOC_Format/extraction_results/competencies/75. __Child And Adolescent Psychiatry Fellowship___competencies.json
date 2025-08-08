@@ -1,0 +1,12 @@
+{
+  "document": "75. __Child And Adolescent Psychiatry Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 86,
+    "end": 87
+  },
+  "candidates_found": 42,
+  "validation": "Valid CanMEDS without levels (score: 182/268, 7/7 roles)",
+  "content_length": 2385,
+  "success": true
+}

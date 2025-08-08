@@ -1,0 +1,130 @@
+Document: 104. __Emergency Nursing Diploma__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 18-21
+TOC Entries Found: 1
+Validation: Valid legacy format (score: 234/399, 5/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - LEARNING AND COMPETENCIES -> Page 18
+
+================================================================================
+
+--- Page 18 ---
+VIII. LEARNING AND
+COMPETENCIES
+1. Introduction to Learning Outcomes and
+Competency-Based Education
+Training should be guided by well-defined learning objectives that are
+specific specialty needs. Learning outcomes are supposed to reflect the
+trainees upon graduation. This will ensure that graduates meet the
+to their specialty. Competency-based education (CBE) is an approach of
+adult-learning that is based on achieving pre-defined, fine-grained, and
+well-paced learning objectives driven by complex professional
+competencies.
+Professional competencies related to healthcare are usually complex,
+involving multiple learning domains (knowledge, skills, and attitude). CBE
+is expected to change the conventional format of postgraduate education.
+For instance, the time of training, though a precious resource, should not
+be considered as a proxy for competence (e.g., time of rotation in certain
+hospital areas is not the primary marker of competence achievement).
+Furthermore, CBE emphasizes the critical role of informed judgment in
+learners’ competency progress, which is based on a staged and formative
+assessment that is driven by multiple workplace-based observations.
+Several CBE models have been developed for postgraduate education in
+healthcare (e.g., the Royal College of Nursing’s National Curriculum and
+
+--- Page 19 ---
+Competency Framework for Emergency Nursing). The following concepts
+enhance the implementation of CBE in this curriculum:
+Competency: Competency is a cognitive construct that assesses the
+of the profession. Professional roles (e.g., experts, advocates,
+communicators, leaders, scholars, collaborators, and professionals) are
+and assessment.
+Milestones: Milestones are the stages of the developmental journey
+through the competency continuum. Throughout their learning journey,
+from junior to senior levels, trainees will be assisted to transform
+themselves form novice/supervised to master/unsupervised
+practitioners. This should not undermine the role of
+supervisory/regulatory bodies towards malpractice of independent
+practitioners. Milestones are expected to enhance the learning process
+by pacing training/assessment to match the developmental level of the
+trainees (junior vs. senior).
+Learning-Domains: Whenever possible, efforts should be directed to
+(K=Knowledge, S=Skills, and A=Attitude). You may have more than one
+annotation for a given learning outcome.
+Content-area Categorization: It is advisable to categorize learning
+outcomes in broad content areas related to the practice of a profession.
+For example, diagnostic versus therapeutic, simple versus complex, and
+urgent versus chronic.
+The National Curriculum and Competency Framework for Emergency
+Nursing by the Royal College of Nursing
+(https://www.rcn.org.uk/professional-development/publications/pub-
+005883) was used as a competency framework in this curriculum and
+Benner’s theory of the stages of nursing clinical competence (1948) was
+
+--- Page 20 ---
+used as the competency level of the learning journey (https://nursing-
+theory.org/theories-and-models/from-novice-to-expert.php).
+This emergency nursing competency framework was selected after a
+advanced clinical program. This competency framework had an inclusive
+nursing competencies (Appendix A). These levels include:
+1. Good nursing practice (GNP) that represents the core or center of the
+framework. GNP forms the basis of all nursing care and is central to
+the Nursing Midwifery Council Code (UK). The behaviors outlined in
+GNP should be applied when approaching other competencies within
+the framework.
+2. Cross-cutting themes (CCT) that are generic themes applying to
+patients in any emergency care setting, irrespective of their
+presenting complaint. The cross-cutting themes (CCT) are grouped
+into competencies related to eight themes.
+3. Emergency care clinical domains (CD) that specify the competencies
+required to care for emergency patients throughout their lifespan.
+There are seven clinical domains.
+2. Program Durations
+To successfully obtain an Emergency Nursing Diploma, the candidate
+must fulfil the following requirements:
+1. They must complete the program which is of a period of two calendar
+years.
+2. Trainees may complete clinical rotations as an 8-hour shift per day,
+excluding lunchtime, or as a 12-hour shift to complete no more than
+48 hours per week.
+
+--- Page 21 ---
+3. They must be able to communicate in English as that will be the
+language of instruction.
+Leaves & Vacations
+Refer to the SCFHS policies for more specific details (link).
+3. Program Rotations
+Table 1: Clinical Rotations for Emergency Nursing Diploma Program
+Duration Duration
+Rotation 1st Year by Setting 2nd Year by Setting
+Levels 1 & 2:
+Hospital & ER Resuscitation
+Orientation 1 w Trauma 12 w
+divisions Room
+/Resuscitation
+Level 3: Acute
+care & Levels Acute Care
+Triage 4 w Triage Unit 4 & 5: Fast 8 w Unit Fast
+track/ track Unit
+Observation
+Pediatric
+*Mandator Levels 1 & 2: Resuscitation Pediatric
+8 w 6 w Emergency
+y Core Resuscitation Room Emergency
+Units
+Rotation
+Maternity
+Level 3: Adult Acute Care Maternity
+9 w 5 w Emergency
+Acute Care Unit Emergency
+Units
+Fast track
+Leadership &
+Level 4 & 5: Unit ER
+Management
+Fast track/ 9 w 2 w administratio
+/healthcare
+Observation Observation n
+Unit

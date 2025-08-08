@@ -1,0 +1,84 @@
+{
+  "total": 11,
+  "successful": 11,
+  "failed": 0,
+  "details": [
+    {
+      "category": "01_Advanced_Key_and_Enabling_Format",
+      "document_count": 23,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:31:21.865669"
+    },
+    {
+      "category": "02_Standard_CanMEDS_Format",
+      "document_count": 67,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:35:07.618569"
+    },
+    {
+      "category": "03_Basic_Role_Based_Format",
+      "document_count": 9,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:35:33.561089"
+    },
+    {
+      "category": "04_Legacy_Dotted_TOC_Format",
+      "document_count": 4,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:35:53.957978"
+    },
+    {
+      "category": "05_CanMEDS_Without_Levels",
+      "document_count": 7,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:36:09.476412"
+    },
+    {
+      "category": "06_Role_Based_Only",
+      "document_count": 1,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:36:11.660528"
+    },
+    {
+      "category": "07_Diploma_Programs",
+      "document_count": 2,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:36:15.743835"
+    },
+    {
+      "category": "08_Fellowship_Programs",
+      "document_count": 9,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:37:08.930704"
+    },
+    {
+      "category": "09_Board_Certifications",
+      "document_count": 3,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:37:16.103241"
+    },
+    {
+      "category": "10_Residency_Programs",
+      "document_count": 1,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:37:16.188785"
+    },
+    {
+      "category": "13_Other_Documents",
+      "document_count": 1,
+      "extractor": "unified_master_extractor.py",
+      "success": true,
+      "timestamp": "2025-08-08T12:37:16.705416"
+    }
+  ]
+}

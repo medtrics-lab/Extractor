@@ -1,0 +1,12 @@
+{
+  "document": "125. __Emergency Medicine Board__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 110,
+    "end": 111
+  },
+  "candidates_found": 30,
+  "validation": "Valid CanMEDS without levels (score: 189/268, 3/7 roles)",
+  "content_length": 4549,
+  "success": true
+}

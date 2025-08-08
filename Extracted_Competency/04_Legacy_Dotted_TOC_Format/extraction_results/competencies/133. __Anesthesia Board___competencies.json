@@ -1,0 +1,33 @@
+{
+  "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/04_Legacy_Dotted_TOC_Format/133. __Anesthesia Board__.pdf",
+  "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/04_Legacy_Dotted_TOC_Format/extraction_results/competencies/133. __Anesthesia Board___competencies.txt",
+  "json_report": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/04_Legacy_Dotted_TOC_Format/extraction_results/competencies/133. __Anesthesia Board___competencies.json",
+  "pages_extracted": "36-66",
+  "extraction_method": "advanced_pattern_key_enabling",
+  "confidence_score": 1.0,
+  "quality_score": 138.23802042419481,
+  "key_enabling_score": 36,
+  "validation": "Acceptable Key & Enabling format (score: 100/150, 7/7 roles)",
+  "detailed_analysis": {
+    "role_count": 7,
+    "roles_found": [
+      "MEDICAL EXPERT",
+      "COMMUNICATOR",
+      "COLLABORATOR",
+      "LEADER",
+      "HEALTH ADVOCATE",
+      "SCHOLAR",
+      "PROFESSIONAL"
+    ],
+    "key_enabling_terms_count": 3,
+    "level_indicators_found": [],
+    "has_structured_content": false,
+    "content_length": 49687,
+    "key_enabling_score": 36,
+    "contamination_score": 0,
+    "page_range_size": 31
+  },
+  "content_length": 49687,
+  "extraction_successful": true,
+  "total_pages": 150
+}

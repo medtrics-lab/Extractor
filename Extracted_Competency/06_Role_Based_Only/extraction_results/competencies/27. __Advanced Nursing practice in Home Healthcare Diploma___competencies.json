@@ -1,0 +1,12 @@
+{
+  "document": "27. __Advanced Nursing practice in Home Healthcare Diploma__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 57,
+    "end": 58
+  },
+  "candidates_found": 1,
+  "validation": "Valid CanMEDS without levels (score: 154/268, 3/7 roles)",
+  "content_length": 4341,
+  "success": true
+}

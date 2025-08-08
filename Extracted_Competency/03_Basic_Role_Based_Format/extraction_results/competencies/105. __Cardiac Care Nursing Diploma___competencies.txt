@@ -1,0 +1,208 @@
+Document: 105. __Cardiac Care Nursing Diploma__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 17-22
+TOC Entries Found: 3
+Validation: Valid legacy format (score: 313/399, 7/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - LEARNING AND COMPETENCIES -> Page 17
+  - The SMART objectives of each module were mapped to the           
+                competencies to ensure that competency-based curriculum and       
+                training were achieved -> Page 20
+  - Mapping of learning objectives and competency roles              
+              to program rotations -> Page 22
+
+================================================================================
+
+--- Page 17 ---
+VII. LEARNING AND
+COMPETENCIES
+1. Introduction to learning outcomes and
+competency based-education
+Training should be guided by well-defined “learning objectives” that
+are driven by targeted “learning outcomes” of a particular program to serve
+specific specialty needs. Learning outcomes should reflect the
+professional “competencies” and tasks that are aimed to be “entrusted”
+and tasks that trainees aim to engage in upon graduation. This ensures
+patient care in relation to their specialties. Competency-based education
+(CBE) is an approach of “adult-learning” that is based on achieving pre-
+defined, fine-grained, and well-paced learning objectives that are driven
+from complex professional competencies.
+Professional competencies related to healthcare are usually complex
+and contain a mixture of multiple learning domains (knowledge, skills, and
+attitudes). CBE is expected to change traditional methods of postgraduate
+education. For instance, the time of training, though a precious resource,
+should not be considered a proxy for competence (e.g., time of rotation in
+achievement). Furthermore, CBE emphasizes the critical role of informed
+judgment in learners’ competency progress, based on a staged and
+formative assessment driven by multiple workplace-based observations.
+Several CBE models have been developed for postgraduate healthcare
+education.
+Several CBE models have been developed for postgraduate
+healthcare education including The New Zealand Cardiac Nursing (NZCN)
+Knowledge and Skills Framework. This framework was selected because
+context of specialized cardiac care nursing. This framework provides
+exceptional knowledge, skills, and attitudes for nurses caring for patients
+
+--- Page 18 ---
+with acute and chronic cardiac diseases. The following concepts enhance
+the implementation of CBE in the curriculum.
+• Competency: Competency is a cognitive construct that assesses
+one’s potential to perform efficiently in a given situation based on
+professional standards. Professional roles (e.g., medical experts,
+health advocates, communicators, leaders, scholars, collaborators,
+and professionals) are used to define competency roles to make them
+mendable for learning and assessment.
+• Milestones: Milestones are the stages of the developmental journey
+throughout the competency continuum. Throughout their learning
+journey from junior and senior levels, trainees will be assisted in
+transforming from novice/supervised to master/unsupervised
+practitioners. This should not undermine the role of
+supervisory/regulatory bodies towards malpractice of independent
+practitioners. Milestones are expected to enhance the learning process
+by pacing training/assessment to match the developmental level of the
+trainees (junior vs. senior).
+• Learning-domains: Whenever possible, efforts should be directed to
+(K=Knowledge, S=Skills, and A=Attitude). You may have more than
+one annotation for a given learning outcome.
+• Content-area categorization: It is advisable to categorize learning
+profession. Examples include diagnostic vs. therapeutic, simple vs.
+complex, and urgent vs. chronic.
+• Trainees are expected to progress from a novice level to a master’s
+level in a certain set of professional competencies.
+The New Zealand Cardiac Nursing (NZCN) Knowledge and Skills
+Framework (2018-CV-Nursing-Skills-and-Knowledge-Framework.pdf
+(cardiacsociety.org.nz) by the cardiac clinical nurses who are affiliated to
+the Cardiac Society of Australia and New Zealand (CSANZ) was used as
+a competency framework in this curriculum.
+2. Program Durations
+• The Advanced Practice Nursing Program in Adult Cardiac Care is a
+two calendar year program.
+
+--- Page 19 ---
+• The program consists of 52 weeks per calendar year including a 5-
+weeks of leaves.
+• A total of 48 hours of didactic and clinical sessions must be completed
+every week.
+• Trainees may complete clinical rotations as an eight-hour shift per day,
+excluding a lunch break, or as a 12-hour shift, to complete a total of no
+more than 40 hours per week.
+• The trainees are expected to complete certain numbers of night and
+• The language of instruction for the program is English.
+Leaves & vacations
+• The trainee is entitled to annual leave for four weeks, in addition to one
+of the two Eid holidays, according to the training institution standards.
+• Sick leave, maternity leave, and exceptional “emergency” leave for a
+period not exceeding 90 days shall be compensated for with an
+equivalent number of days before the trainee is awarded the Certificate
+of Training Completion.
+• Leaves not utilized in due time within the year shall not be shifted to
+the following year.
+Please Refer to the SCFHS policies for more specific details for all
+3. Program rotations
+Table 1: Clinical Rotations for Cardiac Nursing Diploma Program:
+The (NZCN) Knowledge and Skills Framework was used to review and
+develop cardiac diploma rotations. The framework delineates the key
+practice roles. These competencies include leadership, physiology and
+pathophysiology, assessment, diagnostics, and health education / cardiac
+rehabilitation /risk modification. Cardiac nurses perform these
+competencies in acute cardiac care and Chronic Heart Disease.
+
+--- Page 20 ---
+Table 1: Clinical Rotations for Cardiac Nursing Diploma Program
+Mandatory core rotations*
+Training
+Year Duration by
+Rotation name Setting ***
+D1 • General hospital and nursing • Nursing education
+orientation 2 weeks • Medical cardiology
+1. Foundational human anatomy • Medical cardiology
+and physiology of the 6 Weeks • Non-invasive cardiology
+2. Cardiovascular nursing: • Medical cardiology
+assessment, planning, and 9 weeks • Non-invasive cardiology
+managing care • Invasive cardiology
+3. Cardiovascular pharmacology • Medical cardiology
+7 weeks
+• ICUs
+4. Alterations in the cardiovascular • Medical cardiology
+10 weeks
+system I • Ambulatory cardiology
+5. Basic ECG interpretation • Medical cardiology
+5 weeks
+• ICUs
+6. Cardiovascular disease • Cardiac outpatient clinics
+promotion, prevention, and 6 weeks • Patient and family
+7. Ethics in cardiovascular nursing • Medical cardiology
+2. Weeks
+practice • ICUs
+Annual vacation (30 days) 4 weeks
+One of the two Eid holidays *1 week
+TOTAL 52 weeks
+1. Introduction to the nursing • Medical cardiology
+research and evidence-based 8 weeks • ICUs
+practice • Invasive cardiology
+D2 2. Alterations in the cardiovascular • ICUs
+18 weeks
+system II • Invasive cardiology
+• ICUs
+3. Advanced ECG interpretation 12 weeks
+• Invasive cardiology
+
+--- Page 21 ---
+Mandatory core rotations*
+Training
+Year Duration by
+Rotation name Setting ***
+• Medical cardiology
+• Non-invasive cardiology
+• Ambulatory cardiology
+4. Nursing leadership and
+4 weeks
+• Invasive cardiology
+• ICUs
+• Medical cardiology
+• Invasive cardiology
+• ICUs
+5. Elective cardiovascular rotation 5 weeks
+• Emergency Department
+Annual vacation (30 days) 4 weeks
+One of the two Eid holidays *1 week
+TOTAL 52
+(*Mandatory core rotation: Set of rotations that represent program core
+component and are mandatory to do.
+**Elective rotation: Set of rotations that are related to the specialty, as
+determined by the scientific council/committee, and the trainee is required
+to do some of them.)
+(*** Settings: Medical cardiology (cardiac ward/CCU/Telemetery/Step
+down); Non-invasive cardiology (Day cardiac/ non-invasive cardiac
+procedures); Ambulatory cardiology (OPD-cardiology/patient and family
+education/HHC/ public health); Invasive cardiology (cath lab/cardiac OR);
+ICUs (MICU/SICU/CSICU). The names of the setting areas may vary
+according to the training center). * Subject to changes based on SCFHS
+rules.
+
+--- Page 22 ---
+4. Mapping of learning objectives and
+This section aims to match the competencies and objectives of each
+rotation to map the competencies, learning domains, and milestones.
+Trainees and trainers should collaborate to achieve these objectives
+during teaching and formative assessments. Their expectations evolved
+as the training level progressed (training stage and milestones).
+Table 2 reflects the Junior-level Competency Metrix to map
+competencies, learning domains, and milestones, while Table 3 reflects
+the Senior-level Competency Metrix to map competencies, learning
+domains, and milestones.
+Five levels or degrees of competency were used to guide the training
+faculty in making decisions about the trainees’ clinical progress throughout
+their training period (Table 4). These levels are also useful for evaluating
+the trainees’ readiness to provide competent cardiac nursing care under a
+certain level of supervision until they become independent. The five levels
+were as follows (Tanner et al., 2020):
+• Level 1 ‘trainee is able to observe.’
+• Level 2 ‘trainee is able to perform the activity under direct supervision.’
+• Level 3 ‘trainee can perform the activity under indirect supervision. The
+immediately.
+• Level 4 ‘trainee is able to perform the activity under distant supervision.
+A supervisor was available over the phone.
+• Level 5 ‘trainee is able to supervise others in performing the activity.

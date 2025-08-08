@@ -1,0 +1,103 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 4,
+  "successful_extractions": 4,
+  "extraction_rate": "100.0%",
+  "format_breakdown": {
+    "CanMEDS Without Levels": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.7999999999999999,
+      "success_rate": 100.0
+    },
+    "Legacy Dotted TOC": {
+      "total": 2,
+      "successful": 2,
+      "avg_confidence": 0.8300840336134454,
+      "success_rate": 100.0
+    },
+    "Advanced Key & Enabling": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.5,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {
+    "CanMEDS Without Levels": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.7999999999999999
+      ]
+    },
+    "Legacy Dotted TOC": {
+      "total_attempts": 2,
+      "successful_extractions": 2,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.7142857142857143,
+        0.9458823529411764
+      ]
+    },
+    "Advanced Key & Enabling": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 138.23802042419481,
+      "format_detection_accuracy": [
+        0.5
+      ]
+    }
+  },
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/04_Legacy_Dotted_TOC_Format/75. __Child And Adolescent Psychiatry Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.80",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 182/268, 7/7 roles)",
+      "content_length": 2385,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/04_Legacy_Dotted_TOC_Format/extraction_results/competencies/75. __Child And Adolescent Psychiatry Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/04_Legacy_Dotted_TOC_Format/109. __Neurology Board__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.71",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 667/399, 7/7 roles)",
+      "content_length": 188984,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/04_Legacy_Dotted_TOC_Format/extraction_results/competencies/109. __Neurology Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/04_Legacy_Dotted_TOC_Format/133. __Anesthesia Board__.pdf",
+      "detected_format": "Advanced Key & Enabling",
+      "format_confidence": "0.50",
+      "extractor_used": "Advanced Key & Enabling",
+      "extraction_successful": true,
+      "quality_score": 138.23802042419481,
+      "validation": "Acceptable Key & Enabling format (score: 100/150, 7/7 roles)",
+      "content_length": 49687,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/04_Legacy_Dotted_TOC_Format/extraction_results/competencies/133. __Anesthesia Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/04_Legacy_Dotted_TOC_Format/66. __Diagnostic Radiology Board__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.95",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 364/399, 6/7 roles)",
+      "content_length": 6489,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/04_Legacy_Dotted_TOC_Format/extraction_results/competencies/66. __Diagnostic Radiology Board___competencies.txt",
+      "failure_reason": null
+    }
+  ]
+}

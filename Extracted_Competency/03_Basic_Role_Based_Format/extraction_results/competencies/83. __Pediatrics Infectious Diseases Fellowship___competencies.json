@@ -1,0 +1,12 @@
+{
+  "document": "83. __Pediatrics Infectious Diseases Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 7,
+    "end": 8
+  },
+  "candidates_found": 5,
+  "validation": "Valid CanMEDS without levels (score: 171/268, 6/7 roles)",
+  "content_length": 1344,
+  "success": true
+}

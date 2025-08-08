@@ -1,0 +1,3371 @@
+Document: 109. __Neurology Board__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 11-96
+TOC Entries Found: 7
+Validation: Valid legacy format (score: 667/399, 7/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - COMPETENCIES OF NEUROLOGY RESIDENCY PROGRAM -> Page 11
+  - Final In-training Evaluation Report (FITER)/Comprehensive Competency Report (CCR) -> Page 96
+  - Adult Neurology In-training Competencies Evaluation -> Page 100
+  - Neurology In-training Competencies/Evaluation - Junior Resident ..................... -> Page 104
+  - Neurology In-training Competencies/Evaluation - Senior Resident .................... -> Page 108
+  - Neuromuscular and EMG Rotation Competencies/Evaluation............................ -> Page 112
+  - Neuroradiology Competencies/Evaluation ......................................................... -> Page 117
+
+================================================================================
+
+--- Page 11 ---
+INTRODUCTION AND OVERVIEW
+In recognition of the importance of improving and enhancing the current curriculum to meet changes
+in the field, and to incorporate extensive and diversified clinical experiences, exposure to new
+knowledge, practical training in basic science and clinical research, evidence-based practice, and
+CanMEDS Physician Competency Framework. This Framework outlines the knowledge, skills, and
+abilities that physicians need for better patient outcomes. It is based on the seven roles that all
+physicians need to play in order to be better doctors: Medical Expert, Communicator, Collaborator,
+Manager, Health Advocate, Scholar, and Professional.[3]
+This handbook serves as an introduction to the Neurology Residency Program. It contains contact
+information for the Residency Program Committee, a detailed description of the Program goals and
+objectives, the educational curriculum, an outline of clinical rotations from R1 to R4, and other
+important guidelines. We hope you will find this handbook useful and informative.
+MOST PREVALENT NEUROLOGICAL CONDITIONS
+There are more than 600 diseases and disorders of the nervous system. Listed in the table below are a few of the
+most common (Order does not necessarily reflect prevalence):
+Cerebrovascular diseases
+Epilepsy
+Headaches
+Memory disorders
+Neuroinfectious diseases
+Peripheral neuropathy
+Multiple sclerosis
+Parkinson’s disease and other movement disorders
+Brain tumors
+Neuropsychological disorders
+REFERENCES
+1) Bergen DC, Silberberg D. Nervous system disorders: a global epidemic. Arch Neurol 2002; 59:1194–
+2) World Health Organization. http://www.who.int/features
+3) Royal College of Physicians and Surgeons of Canada.
+http://www.royalcollege.ca/portal/page/portal/rc/canmeds/framework
+8 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 12 ---
+STRUCTURE OF NEUROLOGY TRAINING PROGRAM
+STRUCTURE OF NEUROLOGY TRAINING PROGRAM
+The Saudi board program in “Neurology” consists of four years of full-time supervised residency
+Block R1 R2 R3 R4 R5
+training in adult neurology preceded by a full year of internal medicine training, a total of five years.
+The training institution must be accredited by SCFHS for a Saudi Specialty Certification in Neurology.
+The Saudi Board in Neurology Residency Training Program is divided into two levels of two years each:
+Junior and senior levels.
+The roadmap for the rotations, which is presented below, must be followed strictly. However, the
+sequence of rotations within each level can be changed according to the individual’s needs.
+SAUDI BOARD NEUROLOGY CURRICULUM 9
+
+--- Page 13 ---
+INTRODUCTION AND OVERVIEW
+1 General Neurology Paediatric Research 2 Neurology
+medicine (inpatient) neurology ( Specialty
+clinic** &
+inpatient)
+2 General Neurology Paediatric EMG Neurology
+medicine (inpatient) neurology ( Specialty clinic**
+& inpatient)
+3 Neurology EEG EEG Neurology
+Ne Neurosurgery (inpatient) ( Specialty clinic**
+& inpatient)
+4 Endocrinology Neurology EEG Neurology Neurology
+(inpatient) (clinics/Specialty ( Specialty clinic**
+clinic**) & inpatient)
+5 Rheumatology Neurology EMG Neurology Neurology
+(inpatient) (consult) ( ( Specialty clinic**
+& inpatient)
+6 Critical care Neurology EMG Neurology Neurology
+(or neuroICU) (consult) (consult) (inpatient)
+7 C Critical care Neurology Neurology Neurology Neurology
+(or neuroICU) (consult) (inpatient) (consult) (inpatient)
+8 Emergency Neurology Neurology Neurology Neurology
+Medicine (consult) (inpatient) (consult) (consult)
+9 Cardiology Neurology Neurology Neurology Neurology
+(clinics) (consult) (inpatient) (consult)
+10 Psychiatry Neurology Neurology Neurology Neurology
+(clinics) (consult) (inpatient) (consult)
+11 Psychiatry Neurology Neurology Neurology Elective ***
+(clinics) (clinics) (inpatient)
+12 Infectious Neuroradiology* Research 1 Neuroradiology Elective ***
+13 Leave Leave Leave Leave Leave
+10 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 14 ---
+STRUCTURE OF NEUROLOGY TRAINING PROGRAM
+The residency training year starts on October 1st annually and ends on September 30th.
+Each block is four weeks.
+* The neuroradiology rotation must be taken during the last six blocks of R2.
+**Specialty clinics: Multiple sclerosis, Movement disorders, Epilepsy, Stroke prevention, Headache,
+etc.
+***Elective blocks can be used for Neuro-ophthalmology and Neuropathology if available.
+• R1 Rotations:
+R1 internal medicine residents who applied and accepted in the neurology program; program directors need to
+take in consideration to fulfil the R1 neurology rotations before the end of academic year namely arrange for
+psychiatry and neurosurgery blocks.
+• Neurology clinic rotations (R2-R4)
+Residents are required to attend minimum of 3 half day clinics per week. The clinic rotation is supervised by
+neurology consultant or specialist.
+Clinics can be general neurology or specialized clinics.
+• Neurology speciality clinic (R5)
+Residents will cover speciality clinics and inpatients service.
+Resident should manage his/her time in order to cover both services efficiently.
+The aim is to prepare the residents for future career as a general neurologist.
+• EEG and EMG:
+Residents need to fulfil the requirements of these rotations including DOPS and log book
+SAUDI BOARD NEUROLOGY CURRICULUM 11
+
+--- Page 15 ---
+STRUCTURE OF NEUROLOGY TRAINING PROGRAM
+10 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 16 ---
+COMPETENCIES OF THE PROGRAM
+COMPETENCIES OF NEUROLOGY RESIDENCY PROGRAM
+Competencies for Rotation on the Neurology Inpatients Service: Senior Resident (R4, R5)
+Medical Expert
+By the end of the senior rotation, the resident will:
+1) Obtain complete histories from patients seen in the emergency department and on the inpatient
+ward, obtaining a collateral history where necessary
+2) Perform appropriate and efficient general and neurological physical examinations
+3) Determine whether a patient’s symptoms and signs are the result of an organic or psychological
+4) Provide accurate anatomical localization for the disease process in question
+5) Formulate appropriate differential and provisional diagnoses
+6) Develop appropriate investigative and therapeutic treatment and general management plans for
+7) Develop appropriate clinical judgment in formulating an investigative and therapeutic plan that
+takes into account matters such as the patient’s age, general health, risks and costs of investigative
+procedures, risks and costs of therapeutic interventions, and epidemiology of the disease
+8) Demonstrate the ability to independently manage neurological emergencies, including the
+following:
+a) Acute bacterial meningitis
+b) Acute encephalitis
+c) Coma
+d) Recurrent seizures and status epilepticus
+e) Acute intracranial hemorrhage
+f) Acute stroke
+g) Recurrent transient ischemic events and threatened stroke
+h) Incipient transtentorial herniation
+i) Acute paralytic illness
+j) Impending spinal cord compression
+9) Perform technical procedures, including lumbar puncture, Tensilon® Test, and Dix-Hallpike Test
+10) Demonstrate the ability to diagnose and manage neurological inpatients at the level of a junior
+Communicator
+By the end of the senior rotation, the resident will:
+1) When dealing with patients and their families, communicate effectively and regularly, responding
+to questions in a considerate, sympathetic, and factual manner, appropriate to the clinical
+situation, in terms that are understandable to the lay person
+2) Demonstrate effective communication with patients, family, and the health care team in the
+3) Anticipate problems of interpretation or expression by patients and their families
+4) Clearly explain the performance of all diagnostic procedures, the reasons for their performance,
+their risks, complications, and potential benefits, and the likely outcome of the anticipated results
+5) Explain the reason for consultations by other physicians or members of the health care team
+6) Address the issue of prognosis honestly and sensitively where possible
+SAUDI BOARD NEUROLOGY CURRICULUM 11
+
+--- Page 17 ---
+COMPETENCIES OF THE PROGRAM
+7) Maintain accurate and up-to-date clinical notes and records for each patient, including admission
+history and physical notes, daily progress notes, and discharge summaries
+8) Ensure that consultation requests provide sufficient information for the physician to understand
+9) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+10) When requesting investigative procedures, ensure that adequate information is provided about
+11) Ensure that informed consent has been obtained for procedures or treatments and that the
+requisitions for investigations or consultations have been filled out clearly, concisely, legibly, and
+Collaborator
+By the end of the senior rotation, the resident will:
+1) Consult appropriately and in a timely fashion with other physicians and health care professionals
+2) Interact in a collaborative fashion with other members of the health care team to maximize the
+appropriate use of everyone’s skills in caring for the patient
+3) Contribute effectively to interdisciplinary team activities, including attending multidisciplinary
+4) Work effectively with resident or medical student colleagues assigned to the Neurology Clinical
+Teaching Unit to form a collegial and efficient team
+5) Recognize that the optimal treatment of many patients with neurological disorders requires a
+team approach, and understand the role of other health care professionals (occupational
+therapists, physiotherapists, speech-language pathologists, and social workers) in managing
+6) Collaborate appropriately with patients and families on management decisions
+Manager
+By the end of the senior rotation, the resident will:
+1) Take responsibility for initiating and sequencing care activities for each patient, interpreting the
+outcomes, and clearly outlining the medical care plan to all members of the health care team
+2) Supervise more junior medical trainees and students in a manner that ensures the efficient and
+3) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+4) Set priorities for the timing of assessment of requested consultations based upon the acuity of the
+5) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+6) Formulate evidence-based (whenever possible) management plans that take into consideration
+7) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+By the end of the senior rotation, the resident will:
+12 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 18 ---
+COMPETENCIES OF THE PROGRAM
+1) Counsel patients and others on aspects of prevention of neurological disorders, including risk
+factors, and genetic and environmental concerns
+2) Recognize the role of lay organizations and community services in providing support for individuals
+with neurological diseases, and make appropriate referrals to such organizations and services
+3) Identify opportunities to contribute, as a neurologist, to improving the health of patients and
+4) Advocate effectively for timely access to investigations, consultations, and treatment interventions
+Scholar
+By the end of the senior rotation, the resident will:
+1) Develop effective teaching skills through teaching other physicians (including medical students and
+residents), other health care personnel, and patients
+2) Develop a strategy to maintain professional competence through various methods of continuing
+3) Demonstrate proficiency in critical appraisal of the neurological literature as it relates to patient
+diagnosis, investigation, and treatment
+4) Participate, when feasible, in clinical or basic-science studies as a member of a research team
+5) Present clinical cases and pertinent reviews of the literature at CNS Grand Rounds
+Professional
+During this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Show appropriate consideration for the opinions of other members of the health care team,
+including fellow Trainees, in the management of patient problems and be able to provide means
+4) Demonstrate self-awareness, including recognition of his or her own limitations
+5) Demonstrate professional behaviors, including punctuality and reliability
+6) Describe how ethical principles guide the practice of medicine
+SAUDI BOARD NEUROLOGY CURRICULUM 13
+
+--- Page 19 ---
+COMPETENCIES OF THE PROGRAM
+Neurology Inpatient Service
+Junior Resident
+Medical Expert
+By the end of the second year rotation, the resident will:
+1) Independently obtain complete histories from patients seen in the emergency department and on
+the inpatient ward, obtaining a collateral history where necessary
+2) Independently perform an appropriate general physical examination and a basic neurological
+3) Accurately assess the seriousness of a patient’s presenting illness
+4) Be able to evaluate whether a patient’s symptoms and signs are the result of an organic or
+5) Be able to provide the anatomical localization for the disease process in question
+6) Working with support from the senior resident and/or consultant, formulate appropriate
+7) Working with the senior resident and/or consultant, develop appropriate investigative,
+therapeutic, treatment, and general management plans for patients under their care
+8) Working with the senior resident and/or consultant, develop appropriate clinical judgment in
+patient’s age, general health, risks and costs of investigative procedures, risks and costs of
+therapeutic interventions, and epidemiology of the disease
+9) Recognize and provide initial emergency management for the following acute neurological
+problems:
+a) Acute bacterial meningitis
+b) Acute encephalitis
+c) Coma
+d) Recurrent seizures and status epilepticus
+e) Acute intracranial hemorrhage
+f) Acute stroke
+g) Recurrent transient ischemic events and threatened stroke
+h) Incipient transtentorial herniation
+i) Acute paralytic illness
+j) Impending spinal cord compression
+Communicator
+By the end of the second year rotation the resident will:
+1) When dealing with patients and their families, communicate effectively and regularly, responding
+to questions in a considerate, sympathetic, and factual manner, appropriate to the clinical
+situation, in terms that are understandable to the lay person
+2) Anticipate problems of interpretation or expression by patients and their families
+3) With support from the senior resident and/or consultant, clearly explain the performance of all
+diagnostic procedures, the reasons for their performance, their risks, complications, and potential
+benefits, and the likely outcome of the anticipated results
+4) With support from the senior resident and/or consultant, explain the reason for consultations with
+5) With support from the senior resident and/or consultant, address the issue of prognosis honestly
+14 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 20 ---
+COMPETENCIES OF THE PROGRAM
+6) Independently maintain accurate and up-to-date clinical notes and records for each patient,
+including admission history and physical notes, daily progress notes, and discharge summaries
+7) Ensure that consultation requests provide sufficient information for the physician to understand
+8) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+9) When requesting investigative procedures, ensure that adequate information is provided about
+10) With support from the senior resident and/or consultant, ensure that informed consent has been
+have been filled out clearly, concisely, legibly, and factually
+Collaborator
+By the end of the second year, the resident will:
+1) Recognize his/her limitations and consult with the senior resident and/or Neurology consultant
+2) Interact in a collaborative fashion with other members of the health care team to maximize the
+appropriate use of everyone’s skills in caring for the patient
+3) Demonstrate an understanding of the reasons to consult with other physicians and health care
+4) Work effectively with resident or medical student colleagues assigned to the Neurology Clinical
+Teaching Unit to form a collegial and efficient team
+5) Recognize that the optimal treatment of many patients with neurological disorders requires a
+team approach, and understand the role of other health care professionals (occupational
+therapists, physiotherapists, speech-language pathologists, social workers) in managing patients
+6) Collaborate appropriately with patient and families on management decisions
+Manager
+By the end of the second year the resident will:
+1) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+2) Formulate evidence-based (whenever possible) management plans that take into consideration
+3) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+By the end of the second year the resident will:
+1) Recognize and respect the diverse cultural, social, biological, economic, and religious factors that
+2) Demonstrate knowledge and skills in areas of Preventive Medicine and Community Health and the
+3) Recognize the role of lay organizations and community services in providing support for individuals
+SAUDI BOARD NEUROLOGY CURRICULUM 15
+
+--- Page 21 ---
+COMPETENCIES OF THE PROGRAM
+Scholar
+By the end of the second year the resident will:
+1) Formulate a personal plan of study to acquire the necessary knowledge, skills, and attitudes to
+successfully achieve the competencies of the Neurology training program.
+2) Demonstrate the ability to critically appraise the neurological literature as it relates to patient
+diagnosis, investigation, and treatment
+3) With support from the senior resident and consultant, present a clinical case and review of the
+literature at CNS Grand Rounds
+Professional
+By the end of the second year the resident will:
+1) Demonstrate professional attitudes and qualities, including honesty, integrity, compassion, and
+2) Demonstrate professional behavior, including punctuality and reliability
+3) Describe how ethical principles guide the practice of medicine
+4) Demonstrate self-awareness, including an awareness of his or her own limitations
+5) Show appropriate consideration for the opinions of other members of the health care team,
+including fellow Trainees, in the management of patient problems and be able to provide means
+Senior Resident
+By the end of the outpatient clinic experience provided during senior years of residency training in
+neurology, the resident will:
+Demonstrate proficiency at the level of an independent neurologist in evaluating and managing
+outpatients from all major subspecialty areas of neurology, including patients with multiple sclerosis,
+epilepsy, neuromuscular disease, headache, pain, neuro-oncology, cognitive neurology, movement
+disorders, and neurodegenerative disease
+Medical Expert
+By the end of this rotation the resident will:
+1) Obtain complete histories from patients seen in the outpatient clinic setting, obtaining a collateral
+2) Perform appropriate and efficient neurological and general examinations
+3) Determine whether a patient’s symptoms and signs are the result of an organic or psychological
+4) Provide accurate anatomical localization for the disease process in question
+5) Independently formulate appropriate differential and provisional diagnoses
+6) Independently develop appropriate investigative and therapeutic treatment and general
+7) Independently develop appropriate clinical judgment in formulating an investigative and
+therapeutic plan that takes into account matters such as the patient’s age, general health, risks
+and costs of investigative procedures, risks and costs of therapeutic interventions, and
+8) Perform procedures, including lumbar puncture, Tensilon® Test, and Dix-Hallpike Test with
+16 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 22 ---
+COMPETENCIES OF THE PROGRAM
+Communicator
+By the end of this rotation the resident will:
+1) When dealing with patients and their families in the clinical setting, communicate effectively and
+regularly, responding to questions in a considerate, sympathetic, and factual manner, appropriate
+to the clinical situation, in terms that are understandable to the lay person
+2) Anticipate problems of interpretation or expression by patients and their families
+3) Clearly explain the performance of all diagnostic procedures, the reasons for their performance,
+their risks, complications, and potential benefits, and the likely outcome of the anticipated results
+4) Explain the reason for consultations with other physicians or members of the health care team
+5) Address the issue of prognosis honestly and sensitively
+6) Communicate effectively with medical colleagues, including referring physicians, in person, by
+telephone, and through dictated consultation and follow-up letters
+7) Ensure that consultation requests provide sufficient information for the physician to understand
+8) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+9) When requesting investigative procedures, ensure that adequate information is provided about
+10) Ensure that clinical notes are up to date, and that the risks and benefits of proposed investigations
+11) Ensure that informed consent has been obtained and that the requisitions for investigations or
+consultations have been filled out clearly, concisely, legibly, and factually
+Collaborator
+During this rotation the resident will:
+1) Consult appropriately with other physicians and health care professionals
+2) Contribute effectively to interdisciplinary team activities
+3) Recognize that the optimal treatment of many patients with neurological disorders requires a
+team approach, and understand the role of other health care professionals (occupational
+therapists, physiotherapists, speech-language pathologists, social workers) in managing patients
+4) Collaborate appropriately with patients and families on management decisions
+Manager
+By the end of this rotation the resident will:
+1) Take responsibility for initiating and sequencing care activities for each patient, interpreting the
+outcomes, and clearly outlining the medical care plan to all members of the health care team
+2) Develop an approach to the scheduling of clinical patients in a way that suits his or her style of
+3) Identify basic principles of physician billing for medical services
+4) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+5) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+6) Use information technology to provide optimal patient care and life-long learning opportunities
+SAUDI BOARD NEUROLOGY CURRICULUM 17
+
+--- Page 23 ---
+COMPETENCIES OF THE PROGRAM
+Health Advocate
+During this rotation the resident will:
+1) Counsel patients and others on aspects of prevention of neurological disorders, including risk
+factors, and genetic and environmental concerns
+2) Recognize the role of lay organizations and community services in providing support for individuals
+with neurological diseases, and make appropriate referrals to such organizations and services
+3) Identify opportunities to contribute, as a neurologist, to improving the health of patients and
+4) Advocate effectively for timely access to investigations, consultations, and treatment interventions
+5) Access financial supports for patients when appropriate, including advocating for funding sources
+Scholar
+By the end of this rotation the resident will:
+1) Develop a strategy to maintain professional competence through various methods of continuing
+2) Critically assess the neurological literature as it relates to patient diagnosis, investigation, and
+3) Identify gaps in knowledge, and educational methods by which these gaps may be filled
+4) Develop the ability to pose good learning questions relevant to patient care
+Professional
+By the end of this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Recognize the ethical principles that guide the practice of neurology
+4) Demonstrate self-awareness, including recognition of his or her own limitations
+5) Demonstrate professional behaviors, including punctuality and reliability
+Neurology Outpatient Clinics
+Junior Resident
+At the end of the outpatient clinic experience provided during the junior years of residency training in
+neurology, the resident will gain experience in evaluating and managing outpatients from all major
+subspecialty areas of neurology, including patients with multiple sclerosis, epilepsy, neuromuscular
+disease, headache, pain, neuro-oncology, cognitive neurology, movement disorders, and
+Medical Expert
+By the end of this rotation the resident will:
+1) Obtain complete histories from patients seen in the outpatient clinic setting, obtaining a collateral
+2) Perform appropriate general and neurological physical examinations
+18 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 24 ---
+COMPETENCIES OF THE PROGRAM
+3) Determine whether a patient’s symptoms and signs are the result of an organic or psychological
+4) Provide accurate anatomical localization for the disease process in question
+5) In conjunction with the consultant, formulate appropriate differential and provisional diagnoses
+6) In conjunction with the consultant, develop appropriate investigative and therapeutic treatment
+7) In conjunction with the consultant, develop appropriate clinical judgment in formulating an
+investigative and therapeutic plan that takes into consideration matters such as the patient’s age,
+general health, risks and costs of investigative procedures, risks and costs of therapeutic
+interventions, and epidemiology of the disease
+8) Where appropriate, perform procedures, including lumbar puncture, Tensilon® Test, and Dix-
+Hallpike Test
+Communicator
+By the end of this rotation the resident will:
+1) In conjunction with the consultant, communicate effectively with clinic patients and their families,
+responding to questions in a considerate, sympathetic, and factual manner, appropriate to the
+clinical situation, in terms that are understandable to the layperson
+2) Anticipate problems of interpretation or expression by patients and their families
+3) In conjunction with the consultant, clearly explain the performance of all diagnostic procedures,
+the reasons for their performance, their risks, complications, and potential benefits, and the likely
+4) Explain the reason for consultations with other physicians or members of the health care team
+5) In conjunction with the consultant, address the issue of prognosis honestly and sensitively where
+6) Working with the consultant, communicate effectively with medical colleagues, including referring
+physicians, in person, by telephone, and through dictated consultation and follow-up letters
+7) Ensure that consultation requests provide sufficient information for the physician to understand
+8) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+9) When requesting investigative procedures, ensure that adequate information is provided about
+10) Ensure that clinical notes are up to date, and that the risks and benefits of proposed investigations
+11) Ensure that informed consent has been obtained and that the requisitions for investigations or
+consultations have been filled out clearly, concisely, legibly, and factually
+SAUDI BOARD NEUROLOGY CURRICULUM 19
+
+--- Page 25 ---
+COMPETENCIES OF THE PROGRAM
+Collaborator
+By the end of this rotation the resident will:
+1) Work with the consultant; consult appropriately with other physicians and health care
+2) Contribute effectively to interdisciplinary team activities
+3) Recognize that the optimal treatment of many patients with neurological disorders requires a
+team approach, and understand the role of other health care professionals (occupational
+therapists, physiotherapists, speech-language pathologists, social workers) in managing patients
+4) Collaborate appropriately with patients and families on management decisions
+Manager
+By the end of this rotation the resident will:
+1) Demonstrate the importance of initiating and sequencing care activities for each patient,
+interpreting the outcomes, and clearly outlining the medical care plan to all members of the health
+2) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+3) Begin to demonstrate an appreciation of the cost-benefit of various interventions, and develop
+4) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+By the end of this rotation the resident will:
+1) Demonstrate knowledge of aspects of prevention of neurological disorders, including risk factors,
+2) Recognize the role of lay organizations and community services in providing support for individuals
+with neurological diseases, and make appropriate referrals to such organizations and services
+3) Advocate effectively for timely access to investigations, consultations, and treatment interventions
+Scholar
+By the end of this rotation the resident will:
+1) Critically assess the neurological literature as it relates to patient diagnosis, investigation, and
+2) Identify gaps in knowledge, and educational methods by which these gaps may be filled
+3) Develop the ability to pose good learning questions relevant to patient care
+Professional
+By the end of this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+20 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 26 ---
+COMPETENCIES OF THE PROGRAM
+3) Recognize the ethical principles that guide the practice of neurology
+4) Demonstrate self-awareness, including recognition of his or her own limitations
+5) Demonstrate professional behaviors, including punctuality and reliability
+Neurology Consult Service
+Medical Expert
+By the end of the senior years, the resident will:
+1) Independently obtain complete histories from patients seen in consultation on inpatient wards,
+2) Independently perform appropriate general physical examinations and basic neurological
+3) Accurately assess the seriousness of a patient’s presenting illness
+4) Determine whether a patient’s symptoms and signs are the result of an organic or psychological
+5) Be able to provide the anatomical localization for the disease process in question
+6) Independently formulate appropriate differential diagnoses
+7) Independently develop appropriate investigative, therapeutic, treatment management plans for
+8) Demonstrate appropriate clinical judgment to formulate an investigative and therapeutic plan that
+takes into account matters such as: the patient’s age, general health, risks and costs of
+investigative procedures, risks and costs of therapeutic interventions, and epidemiology of the
+9) Demonstrate the ability to diagnose and manage neurological inpatient consultations at the level
+10) Demonstrate the ability to independently manage neurological emergencies, including the
+following:
+a) Acute bacterial meningitis
+b) Acute encephalitis
+c) Coma
+d) Recurrent seizures and status epilepticus
+e) Acute intracranial hemorrhage
+f) Acute stroke
+g) Recurrent transient ischemic events and threatened stroke
+h) Incipient transtentorial herniation
+i) Acute paralytic illness
+j) Impending spinal cord compression
+Communicator
+By the end of the fifth year, the resident will:
+1) When dealing with patients and their families, communicate effectively and regularly, responding
+to questions in a considerate, sympathetic, and factual manner, appropriate to the clinical
+situation, in terms that are understandable to the lay person
+2) Anticipate problems of interpretation or expression by patients and their families
+3) Clearly explain the performance of all diagnostic procedures, the reasons for their performance,
+their risks, complications, and potential benefits, and the likely outcome of the anticipated results
+SAUDI BOARD NEUROLOGY CURRICULUM 21
+
+--- Page 27 ---
+COMPETENCIES OF THE PROGRAM
+4) Demonstrate effective communication with patients, family, and the health care team in the
+5) Clearly explain the reason for consultations with other physicians or members of the health care
+6) Address the issue of prognosis honestly and sensitively where possible
+7) Independently complete an initial consultation note and relevant progress notes, including
+diagnosis, treatment plan, and outcome of investigations
+8) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+9) When requesting investigative procedures, ensure that adequate information is provided about
+10) Ensure that informed consent has been obtained for procedures or treatments and that the
+requisitions for investigations or consultations have been filled out clearly, concisely, legibly, and
+Collaborator
+By the end of the fifth year, the resident will:
+1) Interact in a collaborative fashion with other members of the health care team to maximize the
+appropriate use of everyone’s skills in caring for the patient
+2) Consult appropriately and in a timely fashion with other physicians and health care professionals
+3) Work effectively with the consulting medical or surgical service to form a collegial and efficient
+4) Recognize that the optimal treatment for many patients with neurological disorders requires a
+team approach, and support the role of other health care professionals (occupational therapists,
+physiotherapists, speech-language pathologists, social workers) in managing patients with
+neurological illness. This may involve teaching the consulting medical or surgical services about the
+5) Collaborate appropriately with patients and families on management decisions
+Manager
+By the end of the fifth year, the resident will:
+1) Take responsibility for initiating and sequencing care activities for each patient, interpreting the
+outcomes, and clearly outlining the medical care plan to all members of the health care team
+2) Supervise more junior medical trainees and students in a manner that ensures the efficient and
+3) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+4) Set priorities for the timing of assessment of requested consultations based upon the acuity of the
+5) Formulate evidence-based (whenever possible) management plans that take into consideration
+6) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+7) Use information technology to provide optimal patient care and life-long learning opportunities
+22 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 28 ---
+COMPETENCIES OF THE PROGRAM
+Health Advocate
+By the end of the fifth year, the resident will:
+1) Recognize and respect the diverse cultural, social, biological, economic, and religious factors that
+2) Counsel patients and others on aspects of prevention of neurological disorders, including risk
+factors, and genetic and environmental concerns
+3) Recognize the role of lay organizations and community services in providing support for individuals
+with neurological diseases, and make appropriate referrals to such organizations and services
+4) Identify opportunities to contribute, as a neurologist, to improving the health of patients and
+5) Advocate effectively for timely access to investigations, consultations, and treatment interventions
+Scholar
+By the end of the fifth year, the resident will:
+1) Develop effective teaching skills through teaching other physicians (including medical students and
+residents), other health care personnel, and patients
+2) Develop a strategy to maintain professional competence through various methods of continuing
+3) Demonstrate proficiency in critical appraisal of the neurological literature as it relates to patient
+diagnosis, investigation, and treatment
+4) Participate, when feasible, in clinical or basic-science studies as a member of a research team
+Professional
+By the end of the fifth year, the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Show appropriate consideration for the opinions of other members of the health care team,
+4) Demonstrate self-awareness, including recognition of his or her own limitations
+5) Demonstrate professional behaviors, including punctuality and reliability
+6) Show appropriate consideration for the opinions of other members of the health care team,
+Junior Resident
+Medical Expert
+By the end of the second year, the resident will:
+1) Independently obtain complete histories from patients seen in consultation on inpatient wards,
+2) Independently perform appropriate general physical examinations and basic neurological
+3) Accurately assess the seriousness of a patient’s presenting illness
+SAUDI BOARD NEUROLOGY CURRICULUM 23
+
+--- Page 29 ---
+COMPETENCIES OF THE PROGRAM
+4) Be able to evaluate whether a patient’s symptoms and signs are the result of an organic or
+5) Be able to provide the anatomical localization for the disease process in question
+6) Working with support from the consultant, formulate appropriate differential diagnoses
+7) Working with support from the consultant, develop appropriate investigative and therapeutic
+8) Working with the consultant, develop appropriate clinical judgment in formulating an investigative
+and therapeutic plan that takes into consideration matters such as: the patient’s age, general
+health, risks and costs of investigative procedures, risks and costs of therapeutic interventions, and
+9) Recognize and provide initial emergency management for the following acute neurological
+problems:
+a) Acute bacterial meningitis
+b) Acute encephalitis
+c) Coma
+d) Recurrent seizures and status epilepticus
+e) Acute intracranial hemorrhage
+f) Acute stroke
+g) Recurrent transient ischemic events and threatened stroke
+h) Incipient transtentorial herniation
+i) Acute paralytic illness
+j) Impending spinal cord compression
+Communicator
+By the end of the second year the resident will:
+1) When dealing with patients and their families, communicate effectively and regularly, responding
+to questions in a considerate, sympathetic, and factual manner, appropriate to the clinical
+situation, in terms that are understandable to the lay person
+2) Anticipate problems of interpretation or expression by patients and their families
+3) With support from the consultant, clearly explain the performance of all diagnostic procedures,
+the reasons for their performance, their risks, complications, and potential benefits, and the likely
+4) With support from the consultant, explain the reason for consultations by other physicians or
+5) With support from the consultant, address the issue of prognosis honestly and sensitively where
+6) Independently, complete an initial consultation note and relevant progress notes, including
+diagnosis, treatment plan, and outcome of investigations
+7) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+8) When requesting investigative procedures, ensure that adequate information is provided about
+9) With support from the consultant, ensure that informed consent has been obtained for
+filled out clearly, concisely, legibly, and factually
+24 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 30 ---
+COMPETENCIES OF THE PROGRAM
+Collaborator
+By the end of the second year, the resident will:
+1) Recognize his/her limitations and consult appropriately with the Neurology consultant.
+2) Interact in a collaborative fashion with other members of the health care team to maximize the
+appropriate use of everyone’s skills in delivering excellent care for the patient.
+3) Demonstrate an understanding of the rationale for consultation with other physicians and health
+4) Work effectively with the consulting medical or surgical service to form a collegial and efficient
+5) Recognize that the optimal treatment of many patients with neurological disorders requires a
+team approach, and support the role of other health care professionals (occupational therapists,
+physiotherapists, speech-language pathologists, social workers) in managing patients with
+neurological illness. This may involve teaching the consulting medical or surgical services about the
+role and importance of other health care professionals.
+6) Collaborate appropriately with patients and families on management decisions
+Manager
+By the end of the second year the resident will:
+1) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+2) Formulate evidence-based (whenever possible) management plans that take into consideration
+3) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+By the end of the second year rotation the resident will:
+1) Recognize and respect the diverse cultural, social, biological, economic, and religious factors that
+2) Demonstrate knowledge and skills in areas of Preventive Medicine and Community Health and the
+ability to apply these to the problems of individual patients or groups of patients.
+3) Recognize the role of lay organizations and community services in providing support for individuals
+Scholar
+By the end of the second year the resident will:
+1) Formulate a personal plan of study to acquire the necessary knowledge, skills, and attitudes to
+successfully achieve the competencies of the Neurology training program.
+2) Demonstrate the ability to critically appraise the neurological literature as it relates to patient
+diagnosis, investigation, and treatment
+Professional
+By the end of the second year the resident will:
+1) Demonstrate professional attitudes and qualities, including honesty, integrity, compassion, and
+2) Demonstrate professional behaviors, including punctuality and reliability
+3) Describe how ethical principles guide the practice of medicine
+SAUDI BOARD NEUROLOGY CURRICULUM 25
+
+--- Page 31 ---
+COMPETENCIES OF THE PROGRAM
+4) Demonstrate self-awareness, including an awareness of his or her own limitations
+5) Show appropriate consideration for the opinions of other members of the health care team,
+EMG/ Neuromuscular Service
+Medical Expert
+By the end of this rotation the resident will:
+1) Describe the clinical features of major neuromuscular disorders
+2) Obtain appropriate and complete histories from patients with neuromuscular complaints seen in
+the outpatient neuromuscular clinic and EMG laboratory
+3) Perform appropriate and efficient physical examinations, with particular emphasis on
+4) Provide accurate anatomical localization for the neuromuscular disease process in question,
+specifically being able to localize problems to muscle, neuromuscular junction, nerve, plexus, root,
+anterior horn cell, or spinal cord pathology
+5) Formulate appropriate differential diagnoses, and select appropriate investigations to evaluate the
+6) Construct, based upon clinical assessment, an appropriate electrodiagnostic approach specific to
+7) Describe the basic principles and techniques of nerve conduction studies and needle
+8) Describe the basic principles and techniques of other specialized studies, including repetitive nerve
+stimulation, single fiber EMG, blink responses, somatosensory evoked potentials and visual evoked
+9) Explain the physiology of normal nerve conduction in myelinated and unmyelinated fibers,
+neuromuscular transmission, and excitation-contraction coupling, and identify disease processes
+10) Recognize the characteristic physical examination findings and electrophysiological findings
+observed in myelopathies, motor neuron disease, radiculopathies, plexopathies, focal and
+generalized neuropathies, disorders of neuromuscular transmission, and myopathies
+11) Recognize when electrophysiological results do not fit the clinical picture and may represent
+technical errors, normal variations, or incidental findings
+12) Formulate appropriate management plans for common neuromuscular diseases.
+Communicator
+By the end of this rotation the resident will:
+1) Communicate effectively with patients and their families in the neuromuscular clinic and EMG
+laboratory, responding to questions in a considerate, sympathetic, and factual manner,
+appropriate to the clinical situation, in terms that are understandable to the lay person
+2) Anticipate problems of interpretation by patients and their families
+3) Clearly explain the performance of electrophysiological studies, the reasons for their performance,
+and their risks, complications, and potential benefits
+4) Communicate effectively with medical colleagues, including referring physicians, in person, by
+telephone, and through dictated consultation letters and EMG reports
+26 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 32 ---
+COMPETENCIES OF THE PROGRAM
+5) Request appropriate electrodiagnostic studies by providing sufficient information on an EMG
+6) Communicate courteously, clearly, effectively, and appropriately with EMG technicians and other
+Collaborator
+During this rotation the resident will:
+1) Recognize and respect the roles of other health care professionals involved in the care of patients
+with neuromuscular disease, including EMG technicians, nurse clinicians, physiotherapists,
+occupational therapists, speech-language pathologists, social workers, nutritionists, and clinical
+2) Recognize the importance of close collaboration with EMG technicians when designing studies
+Manager
+By the end of this rotation the resident will:
+1) Identify principles of quality assurance important in the management of an EMG laboratory
+2) Identify the measures required to ensure patient safety in the EMG laboratory setting
+3) Identify basic principles of physician billing for medical services, including billing for the technical
+4) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+5) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+6) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+During this rotation the resident will:
+1) Recognize the role of community services and lay organizations in providing support for individuals
+with neuromuscular diseases, and make appropriate referrals to such organizations and services
+2) Advocate effectively for timely access to specific electrodiagnostic, imaging, and muscle biopsy
+3) Recommend studies beyond those requested by the referring physicians when appropriate, to
+Scholar
+During this rotation the resident will:
+1) Develop a strategy to maintain professional competence through various methods of continuing
+2) Critically assess the neurological literature as it relates to patient diagnosis, investigation, and
+3) Identify gaps in knowledge, and educational methods by which these gaps may be filled, including
+4) Develop the ability to pose good learning questions relevant to patient care
+5) Attend and participate in formal and informal team learning sessions, including EMG lab
+educational sessions, daily reviews of EMG studies, and neuromuscular rounds
+SAUDI BOARD NEUROLOGY CURRICULUM 27
+
+--- Page 33 ---
+COMPETENCIES OF THE PROGRAM
+Professional
+During this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Recognize the ethical principles that guide the practice of neurology, including principles of
+informed consent for electrodiagnostic tests and specific treatments (such as IVIG and
+medications)
+4) Demonstrate self-awareness, including recognition of his or her own limitations
+5) Demonstrate professional behaviors, including punctuality and reliability
+Epilepsy and Electroencephalography (EEG)
+Medical Expert
+By the end of this rotation the resident will:
+1) Describe the basic principles of EEG recording, and discuss the indications for and limitations of
+EEG as a diagnostic tool
+2) Obtain complete histories from patients with epilepsy, recognizing the importance of collateral
+3) Perform appropriate and efficient physical examinations on patients presenting with seizures
+4) Correlate clinical features with EEG findings in patients with epilepsy
+5) Recognize the EEG features that are characteristic of common epilepsy syndromes
+6) Recognize the EEG features that are characteristic of certain non-epileptic disorders, including
+herpes simplex encephalitis, hepatic encephalopathy, and Creutzfeldt-Jakob disease
+7) Demonstrate proficiency in the medical management of epilepsy, including:
+a) Principles of anticonvulsant use
+b) Choice of drug
+c) Recognition of drug pharmacology and side effects
+d) Principles of monitoring anticonvulsant treatment
+e) Identify indications for surgical management of epilepsy, and describe an approach to the
+Communicator
+By the end of this rotation the resident will:
+1) When dealing with patients and their families, communicate effectively and regularly, responding
+to questions in a considerate, sympathetic, and factual manner, appropriate to the clinical
+situation, in terms that are understandable to a layperson
+2) Anticipate problems of interpretation or expression by patients and their families
+3) Clearly explain the performance of all diagnostic and therapeutic procedures, the reasons for their
+performance, their risks, complications, and potential benefits, and the likely outcome of the
+4) Explain the reason for consultations with other physicians or members of the health care team
+5) Address the issue of prognosis honestly and sensitively where possible
+6) Maintain accurate and up-to-date clinical notes and records for each patient
+7) Ensure that consultation requests provide sufficient information for the physician to understand
+28 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 34 ---
+COMPETENCIES OF THE PROGRAM
+8) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+9) When requesting investigative procedures, ensure that adequate information is provided about
+10) Ensure that informed consent has been obtained for procedures or treatments and that
+requisitions for investigations or consultations have been filled out clearly, concisely, legibly, and
+Collaborator
+During this rotation the resident will:
+1) Contribute effectively to interdisciplinary team activities on the epilepsy service
+2) Work effectively with resident or fellow colleagues assigned to the epilepsy service
+3) Recognize and respect the roles of other health care providers involved in the care of patients with
+epilepsy, including EEG technicians, neurosurgeons, psychologists, research nurses, and clinic
+Manager
+By the end of this rotation the resident will:
+1) Take responsibility for initiating and sequencing care activities for each patient, interpreting the
+outcomes, and clearly outlining the medical care plan to all members of the health care team
+2) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+3) Set priorities for the timing of assessment of requested consultations based upon the acuity of the
+4) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+5) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+During this rotation the resident will:
+1) Recognize the role of lay organizations and community services in providing support for individuals
+with epilepsy, and make appropriate referrals to such organizations and services
+2) Advocate effectively for timely access to investigations, consultations, and treatment interventions
+3) Identify important biological, psychological, social, cultural, and economic influences on the
+Scholar
+During this rotation the resident will:
+1) Develop a strategy to maintain professional competence through various methods of continuing
+2) Critically assess the neurological literature as it relates to the diagnosis, investigation, and
+3) Participate, when feasible, in clinical or basic-science studies as a member of a research team
+4) Participate in Epilepsy Rounds, including presenting and discussing interesting cases
+5) Attend EEG reading sessions to improve familiarity with normal and abnormal EEG patterns
+SAUDI BOARD NEUROLOGY CURRICULUM 29
+
+--- Page 35 ---
+COMPETENCIES OF THE PROGRAM
+Professional
+During this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Recognize the ethical principles that guide the practice of neurology
+4) Demonstrate self-awareness, including recognition of his or her own limitations
+5) Be punctual and reliable in all professional activities
+Neurocritical Care Rotation
+Medical Expert
+By the completion of this rotation, the resident will:
+1) Demonstrate proficiency in the recognition, assessment, investigation, and management of
+patients with life-threatening disorders of the nervous system, including the following:
+a) Comatose states
+b) Raised intracranial pressure
+c) Status epilepticus
+d) Acute myelopathy
+e) Neurogenic respiratory failure
+f) Acute peripheral nerve disease, including Guillain Barre syndrome
+g) Failure to wean from the ventilator
+h) Severe head injury
+i) Intracranial hemorrhage
+j) CNS infections
+k) Neurological consequences of systemic illness, including transplant-related neurological
+2) Demonstrate the steps and procedures involved in the determination of brain death
+3) Develop a strategy to offer prognostic advice and treatment recommendations for critically ill
+4) Recognize common abnormalities in cranial CT and MRI scans
+5) Correctly interpret CSF findings in critically ill patients
+6) Recognize the indications for and limitations of diagnostic tests used in neurocritical care,
+including:
+a) EEG
+b) Continuous EEG monitoring
+c) Evoked responses
+d) CSF analysis
+e) Neuro-imaging
+30 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 36 ---
+COMPETENCIES OF THE PROGRAM
+Communicator
+During this rotation the resident will:
+1) Demonstrate empathy and effective listening skills in interactions with patients and their families
+2) Deliver information to patients and their families about suspected or confirmed diagnoses,
+investigation results, management plans, treatment risks, and prognosis, in a humane and
+3) Communicate effectively with colleagues and other health care professionals
+4) Produce and maintain clear and accurate written records of clinical encounters
+5) Participate in and/or lead discussions with the families of critically ill patients when life- and-death
+decision-making is required
+Collaborator
+During this rotation the resident will:
+1) Demonstrate understanding of the roles of the different health care professionals involved in the
+2) Demonstrate respectful interactions with other members of the health care team
+3) Appropriately consult with other health care professionals to optimize care for critically ill patients
+4) Recognize the role of the neurologist within the larger context of a multidisciplinary care team for
+Manager
+By the completion of this rotation the resident will:
+1) Recognize and analyze the costs and benefits of available diagnostic procedures and therapeutic
+2) Manage time effectively, including providing consultation on patients with life-threatening
+neurological illnesses in a timely manner, and prioritize patient assessments based on the acuity of
+Health Advocate
+By the completion of this rotation the resident will:
+1) Recognize and respect the diverse cultural, social, and religious factors that may influence patient
+2) Recognize important risk factors for serious neurological diseases and counsel patients and their
+3) Demonstrate awareness of the medical and societal issue of brain death and organ donation, and
+Scholar
+During this rotation, the resident will:
+1) Participate actively in organized educational activities, including rounds and team meetings
+2) Critically assess the neurological literature and apply evidence-based principles to the investigation
+3) Identify gaps in his or her knowledge and develop appropriate learning questions and strategies to
+SAUDI BOARD NEUROLOGY CURRICULUM 31
+
+--- Page 37 ---
+COMPETENCIES OF THE PROGRAM
+Professional
+During this rotation the resident will:
+1) Demonstrate professional attitudes and qualities, including honesty, integrity, compassion, and
+2) Demonstrate professional behaviors, including punctuality and reliability
+3) Describe how ethical principles guide the approach to managing patients with life-threatening
+neurological diseases, including principles related to surrogate decision-making for critically ill
+4) Demonstrate self-awareness, including an awareness of his or her own limitations
+Stroke
+Medical Expert
+1) By the end of this rotation the resident will:
+2) Obtain complete histories from patients presenting with stroke-related symptoms in the
+emergency department and in stroke or TIA clinics, obtaining a collateral history where necessary
+3) Perform appropriate and efficient physical examinations on patients presenting with stroke-
+4) Identify and provide anatomic localization for the common symptoms and syndromes of stroke
+5) Distinguish the different pathological subtypes of stroke based upon clinical and radiological
+6) Describe the vascular supply to the central nervous system, and relate clinical stroke symptoms
+7) Discuss the principles of thrombolysis for acute stroke, including its indications and
+contraindications, and develop a protocol for screening patients for thrombolysis and for
+delivering tPA to appropriate candidates and providing appropriate monitoring and follow-up
+8) Discuss the role of the following interventions for acute stroke:
+a) Endovascular treatment
+b) Surgical treatment for intracerebral hemorrhage
+c) Surgical and medical management of subarachnoid hemorrhage
+Communicator
+By the end of this rotation the resident will:
+1) When dealing with patients and their families, communicate effectively and regularly, responding
+to questions in a considerate, sympathetic, and factual manner, appropriate to the clinical
+situation, in terms that are understandable to the lay person
+2) Anticipate problems of interpretation or expression by patients and their families
+3) Clearly explain the performance of all diagnostic therapeutic procedures (including thrombolysis),
+the reasons for their performance, their risks, complications, and potential benefits, and the likely
+4) Explain the reason for consultations with other physicians or members of the health care team
+5) Address the issue of prognosis honestly and sensitively where possible
+6) Maintain accurate and up-to-date clinical notes and records for each patient, including admission
+history and physical notes, daily progress notes, and discharge summaries
+7) Ensure that consultation requests provide sufficient information for the physician to understand
+32 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 38 ---
+COMPETENCIES OF THE PROGRAM
+8) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+of the health-care team
+9) When requesting investigative procedures, ensure that adequate information is provided about
+10) Ensure that informed consent has been obtained for procedures or treatments and that the
+requisitions for investigations or consultations have been filled out clearly, concisely, legibly, and
+Collaborator
+During this rotation the resident will:
+1) Contribute effectively to interdisciplinary stroke team activities
+2) Work effectively with residents or fellow colleagues assigned to the stroke team
+3) Recognize and respect the roles of other health care providers involved in the care of patients with
+stroke, including physiatrists, physiotherapists, occupational therapists, speech-language
+pathologists, social workers, research nurses, and clinic support staff
+Manager
+By the end of this rotation the resident will:
+1) Take responsibility for initiating and sequencing care activities for each patient, interpreting the
+outcomes, and clearly outlining the medical care plan to all members of the health care team
+2) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+3) Set priorities for the timing of assessment of requested consultations based upon the acuity of the
+4) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+5) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+During this rotation the resident will:
+1) Demonstrate understanding of the principles of secondary stroke prevention, including the role of
+anti-thrombotic agents, vascular risk factor management, and lifestyle modification
+2) Counsel patients and their families on aspects of stroke prevention
+3) Recognize the role of lay organizations and community services in providing support for individuals
+with stroke, and make appropriate referrals to such organizations and services
+4) Advocate effectively for timely access to investigations, consultations, and treatment interventions
+for patients, based upon the urgency of the presenting problem
+5) Recognize the role of the neurologist in advocating for timely access to acute stroke care, and
+describe opportunities for reducing barriers to such access, including education at the community
+Scholar
+During this rotation the resident will:
+1) Develop a strategy to maintain professional competence through various methods of continuing
+SAUDI BOARD NEUROLOGY CURRICULUM 33
+
+--- Page 39 ---
+COMPETENCIES OF THE PROGRAM
+2) Critically assess the neurological literature as it relates to the diagnosis, investigation, and
+3) Participate, when feasible, in clinical or basic-science studies as a member of a research team
+Professional
+During this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Recognize the ethical principles that guide the practice of neurology, including demonstrating
+4) Demonstrate self-awareness, including recognition of his or her own limitations
+5) Be punctual and reliable in all professional activities
+Pediatric Neurology Service
+Medical Expert
+By the end of this rotation the resident will;
+1) Obtain a relevant history from a child and/or the child’s parent or caregiver when presented with a
+2) Perform an appropriate neurological examination on a child, taking into consideration the effect of
+3) Perform a developmental assessment on a child presenting with neurological symptoms
+4) Develop evidence-based approaches to the investigation and management of children presenting
+with:
+a) Headache
+b) Altered level of consciousness
+c) Paroxysmal disorders, including seizures and their mimics
+d) Developmental delay and regression
+e) Hypotonia in infancy
+f) Ataxia
+g) Hemiplegia, monoplegia, paraplegia, and quadriplegia
+h) Movement disorders
+i) Disorders of vision and ocular motility
+j) Sensory and autonomic disturbances
+k) Lower brainstem and cranial nerve dysfunction
+5) Develop evidence-based diagnostic and management strategies for common diseases in pediatric
+neurology, including:
+a) Epilepsy
+b) Stroke in childhood
+c) Hydrocephalus
+d) Metabolic disorders
+e) Neuromuscular diseases such as Duchenne and other muscular dystrophies
+f) Pediatric migraine
+g) Tourette’s syndrome and other childhood movement disorders
+h) Neurocutaneous syndromes, including neurofibromatosis I and II, Sturge-Weber syndrome,
+34 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 40 ---
+COMPETENCIES OF THE PROGRAM
+i) Meningitis, encephalitis, and other CNS infections
+j) Inherited neuropathies, including Charcot-Marie-Tooth
+6) Describe the principles of rehabilitation involved in the management of the brain-injured child
+7) Identify important differences in the pharmacotherapy of children versus that of adults presenting
+Communicator
+By the end of this rotation the resident will:
+1) When dealing with children and their families, in the clinic or inpatient setting, communicate
+effectively and regularly, responding to questions in a considerate, sympathetic, and factual
+manner, appropriate to the clinical situation, in terms that are understandable to the lay person
+2) Anticipate problems of interpretation or expression by patients and their families
+3) Clearly explain the performance of all diagnostic procedures, the reasons for their performance,
+their risks, complications, and potential benefits, and the likely outcome of the anticipated results
+4) Explain the reason for consultations with other physicians or members of the health care team
+5) Address the issue of prognosis honestly and sensitively where possible
+6) Communicate effectively with all medical colleagues, including referring physicians in all settings,
+in person, by telephone, and through clinic or inpatient records, letters, and discharge summaries
+7) Ensure that consultation requests provide sufficient information for the physician to understand
+Collaborator
+During this rotation the resident will:
+1) Recognize and respect the roles of the multidisciplinary team members involved in providing care
+for children with neurological illnesses, including physicians, nursing staff, clinical nurse specialists,
+physiotherapists, occupational therapists, social workers, psychologists, music and art therapists,
+pharmacists, and clerical and support staff
+2) Consult appropriately with other physicians and health care professionals
+3) Contribute effectively to interdisciplinary team activities, providing leadership where appropriate
+Manager
+During this rotation the resident will:
+1) Take responsibility for initiating and sequencing care activities for each patient, interpreting the
+outcomes, and clearly outlining the medical care plan to all members of the health care team
+2) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+3) Set priorities for the timing of assessment of requested consultations based upon the acuity of the
+4) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+5) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+By the end of this rotation the resident will:
+1) Counsel patients and families on aspects of prevention of neurological disorders, including risk
+2) Provide genetic counseling regarding inherited neurological diseases
+SAUDI BOARD NEUROLOGY CURRICULUM 35
+
+--- Page 41 ---
+COMPETENCIES OF THE PROGRAM
+3) Recognize the role of lay organizations and community services in providing support for children
+with neurological diseases, and make appropriate referrals to such organizations and services
+4) Identify opportunities to contribute, as a neurologist, to improving the health of patients and
+5) Advocate effectively for timely access to investigations, consultations, and treatment interventions
+for patients, based upon the urgency of the presenting problem
+Scholar
+By the end of this rotation the resident will:
+1) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+2) Develop a strategy to maintain professional competence through various methods of continuing
+3) Critically assess the neurological literature as it relates to patient diagnosis, investigation, and
+Professional
+During this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Show appropriate consideration for the opinions of other members of the health care team,
+including fellow trainees, in the management of patient problems and be able to provide means
+4) Recognize the ethical principles that are especially relevant when providing care to children,
+5) Demonstrate self-awareness, including recognition of his or her own limitations
+Neuropathology
+Medical Expert
+By the end of this rotation the resident will:
+1) Demonstrate knowledge of the microscopic anatomy of the brain, including the identification of
+neurons, oligodendrocytes, astrocytes, microglia, ependymal cells, anterior pituitary cells, and
+2) Identify various tissues based on microscopic appearance, including:
+a) Cerebellar cortex
+b) 6-layer cerebral cortex
+c) Hippocampal formation
+d) Substantia niagra
+e) Occipital cortex
+f) Retina
+g) Anterior horn cells, dorsal root ganglion, spinal cord
+h) Anterior and posterior pituitary
+i) Skeletal muscle
+j) Peripheral nerve
+36 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 42 ---
+COMPETENCIES OF THE PROGRAM
+3) Describe the utility of the following techniques for examining the central and peripheral nervous
+system and muscle:
+a) Hematoxylin and eosin
+b) Nissl stain
+c) Golgi methods
+d) Myelin stains
+e) Sliver stains
+f) Congo red
+g) Histochemical staining of muscle
+h) Immunohistochemistry
+i) Teased fiber preparations of peripheral nerve
+j) In-situ hybridization techniques
+k) Electron microscopy
+4) Demonstrate understanding of the developmental anatomy of the brain and spinal cord, and its
+5) Recognize the histological appearance and features of the following:
+a) Open and closed head trauma
+b) Cerebral herniations
+c) Spinal cord trauma
+d) Cerebral edema
+e) Cerebral infarction
+f) Atheromatous lesions of carotid and intracranial vessels
+g) Subarachnoid hemorrhage and various types of cerebral aneurysm
+h) Vasculitis and arteritis
+i) Intracerebral hemorrhage
+j) HIV and AIDS and their effects on the central nervous system
+k) Meningitis, bacterial and otherwise
+l) Viral and other encephalitides
+m) Brain and spinal abscess and subdural empyema
+n) Wernicke’s encephalopathy
+o) Subacute combined degeneration of the spinal cord
+p) Multiple sclerosis
+q) Primary and secondary tumors of the brain, spinal cord, meninges, pituitary, and cranial and
+r) Anoxic cerebral injury
+s) Epilepsy, including mesial temporal sclerosis
+t) Degenerative diseases of the nervous system, including Alzheimer’s disease, Parkinson’s
+disease, motor neuron disease, and multiple systems atrophy
+u) Primary muscle and nerve diseases
+v) Common congenital malformations of the brain and spinal cord
+Communicator
+By the end of this rotation the resident will:
+1) Prepare written reports of neuropathological examinations that offer concise descriptions of
+2) Provide accurate verbal reports of neuropathological examinations to referring physicians when
+SAUDI BOARD NEUROLOGY CURRICULUM 37
+
+--- Page 43 ---
+COMPETENCIES OF THE PROGRAM
+Collaborator
+During this rotation the resident will:
+1) Demonstrate understanding of the roles of the different members of the neuropathology team,
+including physicians, laboratory technicians, and clerical and support staff
+2) Demonstrate respectful interactions with other members of the neuropathology team
+3) Work appropriately with other physicians (including neurologists and neurosurgeons) to ensure
+Manager
+During this rotation the resident will:
+1) Recognize and analyze the costs and benefits of available diagnostic procedures in neuropathology
+2) Manage time effectively, including prioritizing interpretation of neuropathology studies based on
+Health Advocate
+By the end of this rotation the resident will:
+1) Recognize opportunities for health advocacy within the field of neuropathology, including
+2) Appreciate the role of the neuropathologist in advocating for the best approach to diagnosis for
+patients, including discussing cases with referring physicians or advocating for additional studies
+Scholar
+By the end of this rotation the resident will:
+1) Participate actively in organized educational activities and teaching rounds
+2) Critically assess the literature and apply evidence-based principles to the use of neuropathological
+3) Identify gaps in his or her knowledge and develop appropriate learning questions and strategies to
+Professional
+During this rotation the resident will:
+1) Demonstrate professional attitudes and qualities, including honesty, integrity, compassion, and
+2) Demonstrate professional behaviors, including punctuality and reliability
+3) Describe how ethical principles guide the approach to neuropathology, including an understanding
+of consent for autopsy and/or use of tissue samples
+4) Demonstrate self-awareness, including an awareness of his or her own limitations
+38 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 44 ---
+COMPETENCIES OF THE PROGRAM
+Neurology Longitudinal Clinic
+Medical Expert
+By the end of this rotation the resident will:
+1) Demonstrate ability to obtain accurate medical histories from patients presenting for neurological
+2) Perform an efficient, detailed, and accurate neurological examination on patients presenting for
+3) Provide anatomic localization of the presenting symptoms and signs
+4) Formulate an appropriate differential diagnosis based upon the clinical presentation
+5) Outline a plan for investigation and management of a patient presenting with neurological
+symptoms and/or signs
+6) Demonstrate an organized and effective approach to the long-term follow-up of patients with
+neurological diseases, including:
+a) Anticipating and managing side effects of treatment
+b) Identifying alternative treatment approaches when initial lines of treatment are ineffective or
+c) Monitoring patients with serial directed clinical examination, supplemented as necessary with
+d) Recognizing new symptoms or signs that may require a revision of the original diagnostic
+Communicator
+By the end of this rotation the resident will:
+1) Demonstrate effective and accurate information gathering skills through history taking
+2) Demonstrate empathy and effective listening skills in interactions with patients and their families
+3) Deliver information to patients and their families about suspected or confirmed diagnoses,
+investigation results, management plans, risks of treatment, and prognosis in a humane and
+4) Communicate effectively with colleagues and other health care professionals
+5) Produce and maintain clear and accurate written records of clinical encounters, including the
+dictation of consultation and follow-up notes to send to referring physicians
+Collaborator
+1) During this rotation the resident will:
+2) Demonstrate effective consultation and collaboration with other health care professionals
+3) Work effectively within an interprofessional team of health care professionals to provide care for
+4) Recognize when referral to other health care professionals, including other physicians,
+physiotherapists, occupational therapists, speech-language pathologists, social workers,
+psychologists, and others is appropriate for patients with chronic neurological illnesses
+5) Recognize when referral for subspecialty neurology consultation is appropriate
+Manager
+During this rotation the resident will:
+1) Recognize and analyze costs and benefits of available diagnostic procedures and therapeutic
+SAUDI BOARD NEUROLOGY CURRICULUM 39
+
+--- Page 45 ---
+COMPETENCIES OF THE PROGRAM
+2) Develop a practice management plan that includes scheduling of office patients, maintenance of
+patient records, and billing for services
+3) Manage time effectively to balance career demands and personal responsibilities and needs
+4) Identify appropriate situations where patients can or should be discharged from the practice
+Health Advocate
+By the end of this rotation the resident will:
+1) Mobilize community resources as appropriate to meet the health needs of individual patients
+2) Counsel patients appropriately regarding modification of risk factors for neurological disease
+3) Recognize and respect the diverse cultural, social, biological, economic, and religious factors that
+Scholar
+By the end of this rotation the resident will:
+1) Recognize the need to engage in lifelong learning in neurological practice, and begin to develop a
+2) Critically assess the neurological literature and apply evidence-based medicine principles to
+3) Identify gaps in his or her knowledge and develop appropriate learning questions and strategies to
+Professional
+During this rotation the resident will:
+1) Demonstrate professional attitudes and qualities, including honesty, integrity, compassion, and
+2) Demonstrate professional behaviors, including punctuality and reliability
+3) Describe how ethical principles guide the approach to managing patients with neurological
+4) Demonstrate self-awareness, including an awareness of his or her own limitations
+5) Describe methods of ensuring patient privacy and confidentiality in an office setting and in a
+Neuroradiology
+Medical Expert
+By the end of this rotation, the resident will:
+1) Identify the detailed normal anatomy of the brain, skull, and spine, as seen on plain X-ray,
+computerized axial tomogram, and magnetic resonance images, and extracranial and intracranial
+arterial and venous systems, as seen on angiography
+2) Interpret changes in the plain X-ray, MRIs, and CT imaging of the neuraxis by stating a most
+3) Discuss the techniques and limitations of the various common protocols for neuroimaging,
+including plain X-rays, MRIs, and CT imaging of neuraxis and its appendages
+4) Discuss the techniques, risks, and interpretation of cerebral and spinal angiography
+5) Recognize and treat reactions to radiographic contrast material
+40 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 46 ---
+COMPETENCIES OF THE PROGRAM
+Communicator
+By the end of this rotation the resident will:
+1) Provide clinical summaries for appropriate neuroimaging protocol planning and interpretation
+2) Produce, with the assistance of a neuroradiologist, concise written reports of the results of
+3) Provide accurate verbal reports of neuroradiological procedures to referring physicians in
+Collaborator
+By the completion of this rotation the resident will:
+1) Demonstrate understanding of the roles of the different members of the neuroradiology team
+2) Demonstrate respectful interactions with other members of the neuroradiology team
+3) Work appropriately with other physicians (including neurologists and neurosurgeons) to ensure
+Manager
+By the completion of this rotation the resident will:
+1) Recognize and analyze the costs and benefits of available diagnostic procedures in neuroradiology
+2) Manage time effectively, including prioritizing imaging procedures for patients with neurological
+Health Advocate
+By the completion of this rotation, the resident will:
+1) Recognize opportunities for health advocacy within the field of neuroradiology, including
+2) Appreciate the role of the neuroradiologist in advocating for the best imaging for patients,
+Scholar
+During this rotation, the resident will:
+1) Participate actively in organized educational activities and teaching rounds
+2) Critically assess the neuroradiological literature and apply evidence-based principles to the
+3) Identify gaps in his or her knowledge and develop appropriate learning questions and strategies to
+Professional
+During this rotation the resident will:
+1) Demonstrate professional attitudes and qualities, including honesty, integrity, compassion, and
+2) Demonstrate professional behaviors, including punctuality and reliability
+3) Describe how ethical principles guide the approach to imaging patients with neurological signs and
+symptoms, including the process of obtaining informed consent for procedures and tests
+4) Demonstrate self-awareness, including an awareness of his or her own limitations
+SAUDI BOARD NEUROLOGY CURRICULUM 41
+
+--- Page 47 ---
+COMPETENCIES OF THE PROGRAM
+Research
+Communicator
+Present a completed research project, including design, results, and conclusions, in at least one
+scientific presentation (e.g., Resident Research Day)
+Collaborator
+1) Interact in a collaborative fashion with the research supervisor to develop a research design and
+2) Contribute effectively to the presentation materials for the research project (this may include an
+oral presentation, poster, or manuscript)
+Manager
+1) Take responsibility for initiating and sequencing activities of the research plan and project
+2) Utilize personal time and energy effectively to balance other residency responsibilities and the
+3) Set priorities for the timing of the implementation of the research project
+Scholar
+1) Participate in clinical or basic-science studies as a member of a research team
+2) Develop a research question, in conjunction with the research supervisor
+3) Review the literature using critical appraisal skills to support your research hypothesis
+4) Write a research proposal that may be used to apply for ethics submissions and/or grant funding
+(grant funding is not a requirement of the research objects)
+5) Implement a research project, with support from the research supervisor
+6) Analyze the study results with support from the research supervisor
+7) Interpret the findings of the study
+8) Present the research in a scholarly forum
+Professional
+1) Demonstrate professional attitudes, including integrity and honesty, as they relate to medical
+2) Describe how ethical principles guide the research process
+Neurosurgery Service
+Medical Expert
+By the end of this rotation the resident will:
+1) Describe the indications for, and provide a basic description of the performance of the following
+neurosurgical procedures:
+a) Craniotomy for tumor
+b) Brain biopsy (open and stereotactic)
+c) Craniotomy for aneurysm
+d) Epilepsy surgery, including awake craniotomy
+e) Ventriculoperitoneal shunt
+f) Lumbar and cervical discectomy
+42 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 48 ---
+COMPETENCIES OF THE PROGRAM
+g) Carotid endarterectomy
+h) Carpal tunnel release
+i) Nerve and muscle biopsy
+j) Craniotomy or burr hole procedures for trauma
+2) Identify important complications of common neurosurgical procedures
+3) Outline the principles of management for the following neurosurgical emergencies:
+a) Intracerebral hemorrhage
+b) Subarachnoid hemorrhage
+c) Acute hydrocephalus
+d) Acute cerebellar infarction
+e) Acute spinal cord compression
+f) Acute cauda equina compression
+g) Craniocerebral trauma
+h) Spinal cord and spinal column trauma
+4) Discuss the pathophysiology of increased intracranial pressure, recognize its clinical presentation,
+pressure, and demonstrate proficiency in its management
+5) Develop a clinical approach to the following scenarios, including the development of a differential
+diagnosis and an evidence-based plan for investigation and management:
+a) Bilateral weakness, including that due to spinal cord injury, spinal tumors, cervical spondolytic
+myelopathy, cervical disc herniation, epidural abscess, and spinal AVM
+b) Unilateral or focal weakness, including that due to carpal tunnel syndrome, other peripheral
+nerve lesions, radiculopathy, brain tumors, intracerebral hemorrhage, and acute stroke
+c) Bilateral numbness, including that due to spinal cord tumor or syringomyelia
+d) Focal or unilateral numbness, including that due to carpal tunnel syndrome, transient ischemic
+attacks, and partial seizures
+e) Anosmia, including that due to craniocerebral trauma and olfactory groove meningioma
+f) Visual loss, including that due to optic sheath meningioma, optic nerve or chiasmal glioma,
+g) Diplopia, including that due to posterior communicating artery aneurysm
+h) Altered hearing and vertigo, including that due to acoustic neuroma, other cerebellopontine
+angle tumors, and glomus tumors
+i) Ataxia and gait disturbance, including that due to cerebellar infarction, hemorrhage,
+neoplasm, or hydrocephalus
+j) Dementia with a surgically treatable etiology, including normal pressure hydrocephalus and
+k) Coma, including that due to intracerebral or subarachnoid hemorrhage or craniocerebral
+6) Identify indications for surgical management in neurological diseases, including Parkinson’s
+disease, epilepsy, and chronic pain syndromes
+Communicator
+By the end of this rotation the resident will:
+1) When dealing with patients and their families, communicate effectively and regularly, responding
+to questions in a considerate, sympathetic, and factual manner, appropriate to the clinical
+situation, in terms that are understandable to the lay person
+2) Anticipate problems of interpretation or expression by patients and their families
+SAUDI BOARD NEUROLOGY CURRICULUM 43
+
+--- Page 49 ---
+COMPETENCIES OF THE PROGRAM
+3) Clearly explain the performance of all diagnostic procedures, the reasons for their performance,
+their risks, complications, and potential benefits, and the likely outcome of the anticipated results
+4) Explain the reason for consultations with other physicians or members of the health care team
+5) Address the issue of prognosis honestly and sensitively where possible
+6) Maintain accurate and up-to-date clinical notes and records for each patient, including admission
+histories and physical notes, daily progress notes, and discharge summaries
+7) Ensure that consultation requests provide sufficient information for the physician to understand
+8) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+9) When requesting investigative procedures, ensure that adequate information is provided about
+10) Ensure that informed consent has been obtained for procedures or treatments and that the
+requisitions for investigations or consultations have been filled out clearly, concisely, legibly, and
+Collaborator
+During this rotation the resident will:
+1) Consult appropriately with other physicians and health care professionals
+2) Contribute effectively to interdisciplinary team activities, including attending multidisciplinary
+3) Work effectively with resident or medical student colleagues assigned to the Neurosurgical Service
+4) Recognize and respect the role of other health care professionals (neurosurgeons,
+neuroradiologists, neuropathologists, physiatrists, clinical nurse specialists, ward nurses, OR
+nurses, occupational therapists, physiotherapists, speech-language pathologists, pharmacists,
+social workers, and clerical staff) in managing patients requiring neurosurgical treatment
+Manager
+By the end of this rotation the resident will:
+1) Take responsibility for initiating and sequencing care activities for each patient, interpreting the
+outcomes, and clearly outlining the medical care plan to all members of the health care team
+2) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+3) Set priorities for the timing of assessment of requested consultations based upon the acuity of the
+4) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+5) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+During this rotation the resident will:
+1) Counsel patients and others on aspects of prevention of neurosurgical disorders, including risk
+factors, and genetic and environmental concerns
+2) Recognize the role of lay organizations and community services in providing support for individuals
+with neurosurgical diseases, and make appropriate referrals to such organizations and services
+44 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 50 ---
+COMPETENCIES OF THE PROGRAM
+3) Advocate effectively for timely access to investigations, consultations, and treatment interventions
+4) Counsel patients regarding a return-to-work plan following neurosurgical procedures
+Scholar
+During this rotation the resident will:
+1) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+2) Develop a strategy to maintain professional competence through various methods of continuing
+3) Critically assess the neurosurgical literature as it relates to patient diagnosis, investigation, and
+Professional
+During this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Show appropriate consideration for the opinions of other members of the health care team,
+including fellow trainees, in the management of patient problems and be able to provide means
+4) Recognize the ethical and medico-legal principles that guide the practice of neurosurgery,
+including principles of informed consent for procedures, emergency consent, and surrogate
+decision-making
+5) Demonstrate self-awareness, including recognition of his or her own limitations
+6) Be punctual and reliable in all professional activities
+General Internal Medicine Service
+Medical Expert
+By the end of this rotation the resident will:
+1) Demonstrate proficiency in assessment of patients presenting with undifferentiated medical
+complaints and problems, including:
+a) Eliciting a relevant history
+b) Performing an appropriate physical examination
+c) Employing diagnostic tests appropriately
+2) Develop evidence-based management approaches to common medical illnesses, as well as less
+3) Demonstrate effective, integrated management of multiple medical problems in patients with
+SAUDI BOARD NEUROLOGY CURRICULUM 45
+
+--- Page 51 ---
+COMPETENCIES OF THE PROGRAM
+4) Perform common procedures used in the diagnosis and management of medical patients,
+including:
+a) ECG interpretation
+b) Central line insertion
+c) Bone marrow aspiration/biopsy
+d) Thoracentesis
+e) Lumbar puncture
+f) Paracentesis
+g) Joint aspiration
+Communicator
+By the end of this rotation the resident will:
+1) Obtain thorough and relevant histories from patients with medical illnesses
+2) Demonstrate effective presentation of clinically relevant information at the bedside
+3) Convey information to patients and families about diagnosis, proposed investigations, and
+proposed management in a clear, understandable manner
+4) Produce clear and concise consultation notes that communicate effectively with referring
+5) Develop skills in presenting and discussing medical illness-related topics at teaching and patient
+Collaborator
+During this rotation the resident will:
+1) Participate effectively in the multidisciplinary management of medical patients
+2) Recognize and respect the roles of the various team members, including other physicians, nursing
+staff, respiratory therapists, social workers, occupational therapists, physiotherapists, pharmacists,
+nutritionists, and support staff
+3) Consult appropriately with other physicians and health care professionals
+Manager
+During this rotation the resident will:
+1) Participate in the functioning of the health care team, assuming leadership responsibilities where
+2) Demonstrate appropriate use of available resources, including diagnostic tests, inpatient
+services,and consultative services
+3) Recognize the economic implications of clinical decisions regarding resource allocation
+4) Develop an understanding of the costs of treatment for individual patients, and an awareness of
+5) Demonstrate effective time management to achieve balance between career and personal
+Health Advocate
+By the end of this rotation the resident will:
+1) Identify important determinants of health, including psychosocial, economic, and biological
+2) Adapt patient assessment and management based on health determinants
+46 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 52 ---
+COMPETENCIES OF THE PROGRAM
+3) Recognize the importance of preventative strategies in patients with medical illness or risk factors
+4) Demonstrate appropriate attention to prevention counseling in patient encounters
+5) Advocate where appropriate for timely patient access to tests or consultations, based upon the
+Scholar
+By the end of this rotation the resident will:
+1) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+2) Demonstrate the ability to generate clinical questions related to patient care and utilize and
+analyze available resources to develop and implement evidence-based solutions to such questions
+3) Demonstrate adequate knowledge of the basic sciences relevant to patient care, including
+physiology, pathophysiology, biochemistry, and pharmacology
+4) Develop a strategy to maintain professional competence through various methods of continuing
+5) Critically assess the medical literature as it relates to the diagnosis, investigation, and treatment of
+Professional
+During this rotation the resident will:
+1) Recognize his or her professional obligations to patients and colleagues
+2) Demonstrate awareness of the responsibility of the medical profession to society
+3) Demonstrate understanding of the ethical underpinnings of medical and research practice,
+including the ethics surrounding consent to treatment and end-of-life care
+4) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+5) Include the patient in discussions and decisions concerning appropriate diagnostic and
+6) Demonstrate self-awareness, including recognition of his or her own limitations
+7) Demonstrate professional behaviors, including punctuality and reliability
+Cardiology Service
+Medical Expert
+By the end of this rotation the resident will:
+1) Develop evidence-based approaches to the investigation and management of patients presenting
+with:
+a) Chest pain
+b) Heart failure/dyspnea
+c) Disturbances of cardiac rhythm
+d) Hypotension/shock/cardiac arrest
+e) Hypertensive crisis
+2) Develop evidence-based management strategies for the following diseases:
+a) Acute myocardial infarction
+b) Unstable angina
+c) Acute pulmonary edema and chronic heart failure
+SAUDI BOARD NEUROLOGY CURRICULUM 47
+
+--- Page 53 ---
+COMPETENCIES OF THE PROGRAM
+d) Cardiac arrest/life-threatening arrhythmias
+e) Disorders of cardiac rhythm and conduction
+f) Shock/hypotension
+g) Hypertensive urgency/emergency
+h) Common forms of valvular heart disease
+i) Endocarditis
+j) Pericardial diseases
+k) Atherosclerosis
+3) Demonstrate proficiency in the following procedures:
+a) Clinical examination of the cardiovascular system
+b) ECG interpretation
+c) Chest X-ray interpretation as it pertains to cardiovascular disease
+d) Resuscitative skills according to ACLS guidelines
+e) Arterial and venous catheterization
+4) Identify the indications for, limitations of, and risks associated with the following:
+a) Holter monitor/loop recorder
+b) Exercise ECG – stress test
+c) Echocardiography
+d) Myocardial perfusion imaging and radionuclide angiography
+e) Cardiac catheterization and angiography
+f) Revascularization strategies
+5) Recognize the neurological complications of cardiovascular diseases and cardiac procedures
+Communicator
+By the end of this rotation the resident will:
+1) Obtain thorough and relevant histories from patients with cardiovascular disease
+2) Demonstrate effective presentation of clinically relevant information at the bedside
+3) Convey information to patients and families about diagnosis, proposed investigation, and
+proposed management in a clear, understandable manner
+4) Produce clear and concise consultation notes that communicate effectively with referring
+5) Develop skills in presenting and discussing cardiac topics at teaching and patient care rounds
+Collaborator
+During this rotation the resident will:
+1) Participate effectively in the multidisciplinary management of cardiovascular patients
+2) Recognize and respect the roles of the various team members, including invasive and noninvasive
+cardiologists, cardiac surgeons, nursing staff, technicians in various cardiodiagnostic services,
+respiratory therapists, social workers, occupational therapists, physiotherapists, pharmacists,
+nutritionists, and clinic support staff
+3) Consult appropriately with other physicians and health care professionals
+Manager
+During this rotation the resident will:
+1) Participate in the functioning of the health care team, assuming leadership responsibilities where
+2) Demonstrate appropriate use of available resources, including diagnostic tests, inpatient services,
+48 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 54 ---
+COMPETENCIES OF THE PROGRAM
+3) Recognize the economic implications of clinical decisions regarding resource allocation
+4) Develop an understanding of the costs of treatment for individual patients, and an awareness of
+Health Advocate
+By the end of this rotation the resident will:
+1) Identify social, genetic, and economic factors that predispose to or exacerbate cardiovascular
+2) Recognize the importance of preventative strategies in cardiovascular disease, particularly as they
+relate to:
+a) Modification of risk factors for atherosclerosis, including smoking, hypertension, diabetes, and
+b) Prevention of cardiac thromboembolism
+c) Recognition of the importance of identifying and treating hypertension to prevent
+complications, including MI, stroke, renal dysfunction, and heart failure
+d) Antibiotic prophylaxis to prevent endocarditis
+e) Secondary prevention of asymptomatic LV dysfunction and congestive heart failure
+3) Demonstrate appropriate attention to prevention counseling in patient encounters
+4) Advocate where appropriate for timely patient access to tests or consultations, based upon the
+Scholar
+By the end of this rotation the resident will:
+1) Demonstrate understanding of key basic science principles relevant to the function of the
+cardiovascular system, including:
+a) Physiology of the cardiac cycle
+b) Normal cardiac rhythm/conduction
+c) Determinants of myocardial oxygen demand
+d) Pharmacology of cardioactive drugs
+e) Pathophysiology of common cardiovascular diseases, including atherosclerosis
+2) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+3) Develop a strategy to maintain professional competence through various methods of continuing
+4) Critically assess the medical literature as it relates to the diagnosis, investigation, and treatment of
+Professional
+During this rotation the resident will:
+1) Recognize his or her professional obligations to patients and colleagues
+2) Demonstrate awareness of the responsibility of the medical profession to society, including
+3) Demonstrate understanding of the ethical underpinnings of providing care for patients with
+cardiovascular diseases, including the ethics surrounding consent to treatment
+SAUDI BOARD NEUROLOGY CURRICULUM 49
+
+--- Page 55 ---
+COMPETENCIES OF THE PROGRAM
+4) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+5) Include the patient in discussions and decisions concerning appropriate diagnostic and
+6) Demonstrate self-awareness, including recognition of his or her own limitations
+7) Demonstrate professional behaviors including punctuality and reliability
+Emergency medicine
+Medical Expert
+By the end of this rotation the resident will:
+1) Demonstrate proficiency in assessment of patients presenting with undifferentiated complaints
+and problems, including:
+a) Eliciting a relevant history
+b) Performing an appropriate physical examination
+c) Employing diagnostic tests appropriately
+2) Develop an approach to the assessment, investigation, and emergency management of patients
+presenting with:
+a) Fever
+b) Dizziness and vertigo
+c) Weakness
+d) Confusion
+e) Decreased level of consciousness
+f) Seizures
+g) Headache
+h) Dyspnea
+i) Chest pain
+j) Syncope
+k) Nausea and vomiting
+l) Abdominal pain
+m) Gastrointestinal bleeding
+n) Diarrhea or constipation
+o) Jaundice
+p) Vaginal bleeding and acute pelvic pain
+q) Back pain
+r) Orthopedic trauma
+s) Wound management issues
+t) Intoxication
+u) Acute psychiatric symptoms
+3) Develop familiarity with common emergency procedures, demonstrating proficiency if possible in
+the following:
+a) Suturing
+b) Casting
+c) Foreign body removal
+d) Venous access
+e) Chest tube placement
+f) Intubation
+50 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 56 ---
+COMPETENCIES OF THE PROGRAM
+4) Distinguish problems requiring urgent care from those requiring emergent care, and develop
+5) Recognize the typical presentations of patients with neurological illnesses requiring emergent
+care, including status epilepticus, acute stroke syndromes, infectious diseases of the CNS, and
+Communicator
+By the end of this rotation the resident will:
+1) Obtain thorough and relevant histories in an efficient manner from patients presenting to the
+2) Anticipate problems of interpretation or expression by patients and their families
+3) Demonstrate effective presentation of clinically relevant information at the bedside
+4) Convey information to patients and families about diagnosis, proposed investigation, and
+proposed management in a clear, understandable manner
+5) Explain the reason for consultations with other physicians or members of the health care team
+6) Ensure that consultation requests provide sufficient information for the physician to understand
+7) When requesting investigative procedures, ensure that adequate information is provided about
+8) Maintain clear and concise written records that accurately reflect the clinical encounter
+Collaborator
+During this rotation the resident will:
+1) Participate effectively in the multidisciplinary management of patients in the emergency
+2) Recognize and respect the roles of the various team members, including other physicians, nursing
+staff, respiratory therapists, social workers, and support staff
+3) Consult appropriately with other physicians and health care professionals
+Manager
+During this rotation the resident will:
+1) Participate in the functioning of the health care team, assuming leadership responsibilities where
+2) Demonstrate appropriate use of available resources, including diagnostic tests, inpatient services,
+3) Recognize the economic implications of clinical decisions regarding resource allocation
+4) Develop an understanding of the costs of treatment for individual patients, and an awareness of
+5) Demonstrate effective time management to achieve balance between career and personal
+6) Assign priority to patient care tasks taking into account the acuity of the presenting problem
+SAUDI BOARD NEUROLOGY CURRICULUM 51
+
+--- Page 57 ---
+COMPETENCIES OF THE PROGRAM
+Health Advocate
+By the end of this rotation the resident will:
+1) Identify important determinants of health, including psychosocial, economic, and biological
+2) Adapt patient assessment and management based on health determinants
+3) Recognize the importance of preventative strategies, and demonstrate appropriate attention to
+4) Advocate where appropriate for timely patient access to tests or consultations, based upon the
+Scholar
+By the end of this rotation the resident will:
+1) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+2) Demonstrate the ability to generate clinical questions related to patient care and utilize and
+analyze available resources to develop and implement evidence-based solutions to such questions
+3) Demonstrate adequate knowledge of the basic sciences relevant to patient care, including
+physiology, pathophysiology, biochemistry, and pharmacology
+4) Develop a strategy to maintain professional competence through various methods of continuing
+5) Critically assess the medical literature as it relates to emergency medicine
+6) Participate actively in Emergency Medicine Grand Rounds and journal clubs
+Professional
+During this rotation the resident will:
+1) Recognize his or her professional obligations to patients and colleagues
+2) Demonstrate awareness of the responsibility of the medical profession to society
+3) Demonstrate understanding of the ethical underpinnings of medical practice, including the ethics
+4) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+5) Include the patient in discussions and decisions concerning appropriate diagnostic and
+6) Demonstrate self-awareness, including recognition of his or her own limitations
+7) Demonstrate professional behaviors, including punctuality and reliability
+Hematology
+Medical Expert
+By the end of this rotation the resident will:
+1) Develop evidence-based approaches to the investigation and management of patients presenting
+with:
+a) Anemia
+b) Polycythemia
+c) Thrombocytopenia
+d) Thrombocytosis
+e) Leukocytosis
+f) Neutropenia
+52 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 58 ---
+COMPETENCIES OF THE PROGRAM
+g) Pancytopenia
+h) Lymphadenopathy/splenomegaly
+i) Suspected venous thromboembolism
+j) Suspected bleeding disorder
+2) Develop evidence-based management strategies for the following diseases:
+a) Iron-deficiency anemia
+b) Megaloblastic anemia
+c) Anemia of chronic disease
+d) Thalassemia
+e) Sickling disorders
+f) Autoimmune hemolytic anemia
+g) Microangiopathic hemolytic anemia
+h) Immune thrombocytopenia
+i) Chronic and acute leukemias
+j) Polycythemia vera and primary thrombocytosis
+k) Myelodysplatic syndromes
+l) Aplastic anemia
+m) Lymphomas and myeloma
+n) Deep vein thrombosis and pulmonary embolism
+o) Bleeding disorders
+3) Recognize common neurological complications of hematological disorders, including thrombosis or
+4) Demonstrate proficiency in the following procedures:
+a. Clinical examination of superficial lymph nodes
+b. Clinical examination of the spleen
+c. Bone marrow aspiration and biopsy
+d. Interpretation of the complete blood count and blood smear
+5) Demonstrate appropriate use of hypercoagulability screening, particularly as it applies to patients
+6) Identify appropriate use of blood transfusion products and appreciate potential complications of
+Communicator
+By the end of this rotation the resident will:
+1) Obtain thorough and relevant histories from patients with hematological diseases
+2) Demonstrate effective presentation of clinically relevant information at the bedside
+3) Convey information to patients and families about diagnosis, proposed investigation, and
+proposed management in a clear, understandable manner
+4) Produce clear and concise consultation notes that communicate effectively with referring
+5) Develop skills in presenting and discussing hematological topics at teaching and patient care
+Collaborator
+During this rotation the resident will:
+1) Participate effectively in the multidisciplinary management of hematological patients
+SAUDI BOARD NEUROLOGY CURRICULUM 53
+
+--- Page 59 ---
+COMPETENCIES OF THE PROGRAM
+2) Recognize and respect the roles of the various team members, including nurse clinicians,
+pharmacists, palliative care team members, and clinic support staff
+3) Consult appropriately with other physicians and health care professionals
+Manager
+During this rotation the resident will:
+1) Participate in the functioning of the health care team, assuming leadership responsibilities where
+2) Demonstrate appropriate use of available resources, including diagnostic tests, inpatient services,
+3) Recognize the economic implications of clinical decisions regarding resource allocation
+4) Develop an understanding of the costs of treatment for individual patients, and an awareness of
+Health Advocate
+By the end of this rotation the resident will:
+1) Identify social, genetic, and economic factors that predispose to or exacerbate hematological
+2) Recognize the importance of preventative strategies in hematological disease
+3) Demonstrate appropriate attention to prevention counseling in patient encounters
+Scholar
+By the end of this rotation the resident will:
+1) Demonstrate understanding of key basic science principles from biochemistry and physiology that
+2) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+3) Develop a strategy to maintain professional competence through various methods of continuing
+4) Critically assess the hematological literature as it relates to patient diagnosis, investigation, and
+Professional
+During this rotation the resident will:
+1) Recognize his or her professional obligations to patients and colleagues
+2) Demonstrate awareness of the responsibility of the medical profession to society
+3) Demonstrate understanding of the ethical underpinnings of providing care for patients with
+hematological disease, including the ethics surrounding consent to transfusion of blood products
+and the ethical principles underlying decision-making for end-of-life care in patients with
+4) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+5) Include the patient in discussions and decisions concerning appropriate diagnostic and
+6) Demonstrate self-awareness, including recognition of his or her own limitations
+7) Demonstrate professional behaviors, including punctuality and reliability
+54 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 60 ---
+COMPETENCIES OF THE PROGRAM
+Infectious Diseases
+Medical Expert
+By the end of this rotation the resident will:
+1) Develop evidence-based approaches to the investigation and management of patients presenting
+with:
+a) Fever
+b) Leukocytosis
+c) Septic shock
+d) Stiff neck and headache
+e) Heart murmurs
+f) Lymphadenitis/lymphadenopathy
+g) Soft tissue inflammation
+h) Inflamed joints
+i) Cough and sputum production
+j) Embolic lesions
+k) Painful throat, ears, or sinuses
+2) Develop evidence-based management strategies for the following diseases:
+a) Fever of unknown origin
+b) Septicemia
+c) Meningitis
+d) Encephalitis
+e) Pneumonia, bronchitis
+f) Mediastinitis
+g) Endo- or pericarditis
+h) Intraabdominal sepsis
+i) Hepatitis
+j) Osteomyelitis and septic arthritis
+k) HIV infection and AIDS
+l) Viral syndromes
+m) Infections in immunosuppressed patients
+n) Pharyngitis, sinusitis, otitis
+o) Soft tissue infections
+p) Sexually transmitted diseases
+3) Recognize the neurological complications of infectious diseases, including HIV, Lyme disease, West
+Nile virus, and syphilis
+4) Demonstrate proficiency in the following procedures:
+a) Interpretation of microbiology laboratory investigations, including stains, cultures, and
+b) TB skin test
+c) Monitoring HIV infection with laboratory tests
+Communicator
+By the end of this rotation the resident will:
+1) Obtain thorough and relevant histories from patients with infectious diseases
+2) Demonstrate effective presentation of clinically relevant information at the bedside
+3) Convey information to patients and families about diagnosis, proposed investigations, and
+proposed management in a clear, understandable manner
+SAUDI BOARD NEUROLOGY CURRICULUM 55
+
+--- Page 61 ---
+COMPETENCIES OF THE PROGRAM
+4) Produce clear and concise consultation notes that communicate effectively with referring
+5) Develop skills in presenting and discussing infectious disease topics at teaching and patient care
+Collaborator
+During this rotation the resident will:
+1) Participate effectively in the multidisciplinary management of infectious disease patients
+2) Recognize and respect the roles of the various team members, including infection control nurses,
+pharmacists, clinical microbiology laboratory staff, and clinic support staff
+3) Consult appropriately with other physicians and health care professionals
+Manager
+During this rotation the resident will:
+1) Participate in the functioning of the health care team, assuming leadership responsibilities where
+2) Demonstrate appropriate use of available resources, including diagnostic tests, inpatient services,
+3) Recognize the economic implications of clinical decisions regarding resource allocation
+4) Develop an understanding of the costs of treatment for individual patients, including the costs of
+Health Advocate
+By the end of this rotation the resident will:
+1) Identify social, genetic, and economic factors that predispose to or exacerbate infectious disease
+2) Recognize the importance of preventative strategies in infectious disease, including the
+3) Demonstrate appropriate attention to prevention counseling in patient encounters
+4) Recognize the advocacy role of the infectious disease physician in controlling infectious diseases in
+hospitals, communities, and populations through methods such as advocating vaccinations,
+contact tracing in certain illnesses, use of prophylactic antibiotics for contacts of infected
+individuals where appropriate, and counseling to communities regarding methods of reducing the
+Scholar
+By the end of this rotation the resident will:
+1) Demonstrate understanding of key basic science principles, including microbial virulence factors
+2) Demonstrate understanding of the pharmacology of selected antimicrobial agents
+3) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+4) Develop a strategy to maintain professional competence through various methods of continuing
+5) Critically assess the medical literature as it relates to patient diagnosis, investigation, and
+56 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 62 ---
+COMPETENCIES OF THE PROGRAM
+Professional
+During this rotation the resident will:
+1) Recognize his or her professional obligations to patients and colleagues
+2) Demonstrate awareness of the responsibility of the medical profession to society
+3) Demonstrate understanding of the ethical underpinnings of providing care for patients with
+infectious diseases, including the ethics surrounding consent to investigation and treatment as
+well as ethical issues related to managing patients with HIV infection
+4) Identify diseases that are reportable to the Ministry of Health, and recognize the societal
+5) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+6) Include the patient in discussions and decisions concerning appropriate diagnostic and
+7) Demonstrate self-awareness, including recognition of his or her own limitations
+8) Demonstrate professional behaviors, including punctuality and reliability
+Rheumatology
+Medical Expert
+By the end of this rotation the resident will:
+1) Perform an organized, comprehensive MSK screening examination
+2) Demonstrate those components of the MSK appropriate for the identification of:
+a) Ankylosing spondylitis
+b) Lumbar disc disease with radiculopathy
+c) Fibromyalgia
+d) IP and MCP capsular distension, median nerve compression, de Quervain’s tenosynovitis,
+e) Medial and lateral elbow epicondylitis, elbow joint capsular distension, olecranon bursitis,
+f) Frozen shoulder, supraspinatus tendonitis, subacromial bursitis, rotator cuff tear
+g) Hip joint disease, trochanteric bursitis, meralgia paresthetica
+h) Knee joint effusions, patellofemoral dysfunction, ligamentous disease of the knee, bursitis at
+i) Achilles tendonitis, plantar fasciitis, posterior tibial tenosynovitis, MTP inflammation
+3) Recognize the neurological complications of common rheumatological illnesses, including
+rheumatoid arthritis, systemic lupus erythematosis, Sjogren’s syndrome, scleroderma, and
+4) Describe the settings in which the following investigations are appropriate:
+a) Synovial fluid analysis
+b) RF, ANA, anti-DNA, anti-ENA, uric acid
+c) Plain X-rays
+d) Bone scan
+e) MSK CT scan
+f) MSK MRI scan
+5) Detect and describe characteristic X-ray findings in patients with:
+a) Rheumatoid arthritis
+b) Osteoarthritis
+SAUDI BOARD NEUROLOGY CURRICULUM 57
+
+--- Page 63 ---
+COMPETENCIES OF THE PROGRAM
+c) CPPD
+d) Gout
+e) Psoriatic arthritis
+f) Ankylosing spondylitis
+6) Identify the features on history, examination, and laboratory investigation that permit diagnosis
+of:
+a) Osteoarthritis
+b) Rheumatoid arthritis
+c) SLE
+d) Psoriatic arthritis
+e) Fibromyalgia
+f) Gout
+g) Pseudo gout
+h) Palindromic rheumatism
+i) Septic arthritis
+j) Polymyalgia rheumatica
+7) Outline a treatment approach for patients with:
+a) New onset rheumatoid arthritis
+b) Recurrent gouty arthritis
+c) Fibromyalgia
+d) Osteoarthritis of the knee
+e) Acute low back pain
+Communicator
+By the end of this rotation the resident will:
+1) Obtain thorough and relevant histories from patients with rheumatological disease
+2) Demonstrate effective presentation of clinically relevant information at the bedside
+3) Convey information to patients and families about diagnosis, proposed investigation, and
+proposed management in a clear, understandable manner
+4) Produce clear and concise consultation notes that communicate effectively with referring
+5) Develop skills in presenting and discussing rheumatological topics at teaching and patient care
+Collaborator
+During this rotation the resident will:
+1) Participate effectively in the multidisciplinary management of rheumatological patients
+2) Recognize and respect the roles of the various team members, including occupational therapists,
+physiotherapists, pharmacists, and clinic support staff
+3) Consult appropriately with other physicians and health care professionals
+Manager
+During this rotation the resident will:
+1) Participate in the functioning of the health care team, assuming leadership responsibilities where
+2) Demonstrate appropriate use of available resources, including diagnostic tests, inpatient services,
+3) Recognize the economic implications of clinical decisions regarding resource allocation
+58 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 64 ---
+COMPETENCIES OF THE PROGRAM
+4) Develop an understanding of the costs of treatment for individual patients, and an awareness of
+Health Advocate
+By the end of this rotation the resident will:
+1) Identify social, genetic, and economic factors that predispose to or exacerbate rheumatological
+2) Recognize the importance of preventative strategies in rheumatological disease
+3) Demonstrate appropriate attention to prevention counseling in patient encounters
+4) Advocate where appropriate for timely patient access to tests or consultations, based upon the
+Scholar
+By the end of this rotation the resident will:
+1) Demonstrate understanding of key basic science principles from biochemistry and physiology that
+2) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+3) Develop a strategy to maintain professional competence through various methods of continuing
+4) Critically assess the medical literature as it relates to the diagnosis, investigation, and treatment of
+Professional
+During this rotation the resident will:
+1) Recognize his or her professional obligations to patients and colleagues
+2) Demonstrate awareness of the responsibility of the medical profession to society
+3) Demonstrate understanding of the ethical underpinnings of providing care for patients with
+rheumatological diseases, including the ethics surrounding consent to treatment
+4) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+5) Include the patient in discussions and decisions concerning appropriate diagnostic and
+6) Demonstrate self-awareness, including recognition of his or her own limitations
+7) Demonstrate professional behaviors, including punctuality and reliability
+Critical Care Medicine
+Medical Expert
+By the end of this rotation the resident will:
+1) Demonstrate applied knowledge of the following:
+a. Respiratory dysfunction
+i. Determine the presence of respiratory failure, provide for its emergency support, and
+b) Cardiovascular dysfunction
+SAUDI BOARD NEUROLOGY CURRICULUM 59
+
+--- Page 65 ---
+COMPETENCIES OF THE PROGRAM
+i. Recognize the nature of the problem, provide emergency life support including ACLS, and
+c) Neurological dysfunction
+i. Develop an approach to the patient with an altered level of consciousness, including
+instituting immediate life-sustaining measures, carrying out an appropriate neurological
+examination, deriving an anatomic localization and differential diagnosis, and making a
+ii. Recognize acute and chronic neuromuscular disorders requiring life sustaining treatment,
+and develop a plan for diagnosis, support, and specific therapy
+d) Renal dysfunction
+i. Recognize the problem of a patient with oliguria or advancing or established renal failure
+ii. Institute measures to preserve remaining renal function in such patients, while
+developing a plan for precise diagnosis, adequate supportive measures, and appropriate
+e) Gastrointestinal dysfunction
+i. Evaluate the nature of the illness in patients presenting with gastrointestinal crisis,
+including the provision of immediate life-sustaining support and the development of a
+f) Hepatic dysfunction
+i. Recognize the problem of jaundice and/or hepatic failure, and provide for immediate life-
+g) Hematological and oncological disorders
+i. Recognize the problem of a patient with malignancy, thrombotic, or thrombolytic
+disorder, bleeding, neutropenia, or anemia, and provide life sustaining support while
+devising a plan for investigation, support, and therapy
+h) Metabolic and endocrine disorders
+i. Recognize the nature and severity of common metabolic, endocrine, or fluid and
+electrolyte abnormalities, and develop a plan for precise diagnosis, emergency and long-
+term treatment, and appropriate monitoring
+i. Septic illness
+i. Identify the features of catastrophic septic illness, and provide for immediate life-
+sustaining treatment while devising a plan for definitive diagnosis, continued life support,
+j) Intoxication
+ii. Formulate a differential diagnosis for patients potentially suffering from toxic syndromes
+iii. Devise a plan to support organ function, prevent further absorption, alter distribution,
+k) Nutritional support
+i. Evaluate the nutritional status of a critically ill patient
+ii. Devise a management strategy for providing enteral and/or parenteral nutrition for
+l) Pharmacotherapy
+i. Demonstrate knowledge of the indications, risks, and side effects of drugs commonly
+used in the critical care environment, including pressor agents, analgesics, sedatives, and
+m) End-of-life issues
+60 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 66 ---
+COMPETENCIES OF THE PROGRAM
+i. Where death is inevitable, facilitate a dignified process of withdrawal of life-sustaining
+support, without withdrawal of care
+2) Demonstrate practical knowledge of the following technical skills:
+a) Airway assessment and maintenance
+b) Care of patients requiring conventional and non-invasive ventilation
+c) Central venous cannulation
+d) Resuscitation of patients in undefined shock and with cardiac rhythm disturbance
+e) Arterial cannulation
+f) Thoracentesis and chest tube insertion
+g) Application and maintenance of a pulmonary artery catheter
+h) Portable chest X-ray interpretation
+i) Lumbar puncture
+j) Brain death determination
+k) Peritoneal tap
+(Not all residents will have hands-on exposure to all these experiences during their limited time in the
+ICU, but residents should strive to become familiar with the indications for and general principles
+surrounding these interventions.)
+Communicator
+During this rotation the resident will:
+1) Obtain thorough and relevant histories
+2) Present a concise synopsis of a patient’s clinical problem to the team during rounds
+3) Discuss diagnosis, investigations, management, and prognosis with patients and their families in
+4) Obtain and document informed consent for tests and procedures
+5) Maintain clear and accurate clinical notes and records
+Collaborator
+During this rotation the resident will:
+1) Recognize and respect the roles of other physicians, nursing staff, respiratory therapists,
+physiotherapists, occupational therapists, nutritionists, pharmacists, social workers, secretarial
+staff, and support staff in the provision of optimal patient care in an ICU setting
+2) Recognize that effective teamwork is critical in the ICU setting, and demonstrate proficiency in
+working effectively within the ICU health care team
+3) Consult specialist physicians appropriately to optimize patient care
+Manager
+During this rotation the resident will:
+1) Utilize health care resources in a scientifically, ethically, and economically defensible manner
+2) Be aware of and utilize clinical practice guidelines where appropriate
+3) Demonstrate effective time management to achieve a balance between professional and personal
+SAUDI BOARD NEUROLOGY CURRICULUM 61
+
+--- Page 67 ---
+COMPETENCIES OF THE PROGRAM
+Health Advocate
+During this rotation the resident will:
+1) Recognize and respect the diverse cultural, social, and religious factors that may influence patient
+2) Recognize important risk factors for critical illness and counsel patients and their families
+3) Demonstrate awareness of the medical and societal issue of brain death and organ donation, and
+Scholar
+During this rotation the resident will:
+1) Develop an effective personal learning strategy
+2) Generate clinical questions related to patient care and utilize and analyze available resources to
+develop and implement evidence-based solutions to such questions
+3) Demonstrate effective teaching skills in dealings with more junior trainees, patients, families, and
+4) Participate actively in organized educational activities, including rounds and team meetings
+Professional
+During this rotation the resident will:
+1) Demonstrate professional attitudes and qualities, including honesty, integrity, compassion, and
+2) Demonstrate professional behaviors, including punctuality and reliability
+3) Describe how ethical principles guide the approach to managing patients with critical illness,
+including principles related to surrogate decision-making for critically ill patients unable to speak
+4) Demonstrate self-awareness, including an awareness of his or her own limitations
+Psychiatry service
+Medical Expert
+By the end of this rotation the resident will:
+1) Demonstrate proficiency in obtaining a psychiatric history, supplementing with collateral history
+2) Demonstrate proficiency in the assessment of mental status
+3) Recognize and classify important psychiatric symptoms and develop a differential diagnosis based
+4) Develop an evidence-based approach to the evaluation and management of patients presenting
+with:
+a) Mood disorders, including depression and bipolar mood disorder
+b) Anxiety disorders
+c) Psychotic disorders, including schizophrenia and other delusional disorders
+d) Suicidal ideation or attempt
+e) Somatoform disorders
+f) Personality disorders
+g) Dementia
+62 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 68 ---
+COMPETENCIES OF THE PROGRAM
+5) Identify circumstances where psychiatric symptoms may be due to neurological or systemic
+disease, and outline a plan for appropriate investigation of such patients
+6) Recognize the potential neurological complications of treatment for psychiatric illness, including
+drug-induced movement disorders, and describe a plan for managing such complications
+7) Describe the mechanisms of action of and indications for medications that have roles in the
+management of both psychiatric and neurological illnesses, including anticonvulsants,
+antidepressants, and typical and atypical antipsychotic agents
+Communicator
+By the end of this rotation the resident will:
+1) Communicate effectively and regularly with patients and their families, responding to questions in
+a considerate, sympathetic, and factual manner, appropriate to the clinical situation, in terms that
+2) Anticipate problems of interpretation or expression by patients and their families, including the
+3) Clearly explain the performance of all diagnostic procedures, the reasons for their performance,
+their risks, complications, and potential benefits, and the likely outcome of the anticipated results
+4) Explain the reason for consultations with other physicians or members of the health care team
+5) Address the issue of prognosis honestly and sensitively where possible
+6) Maintain accurate and up-to-date clinical notes and records for each patient, including admission
+history and physical notes, daily progress notes, and discharge summaries
+7) Ensure that consultation requests provide sufficient information for the physician to understand
+8) Communicate courteously, clearly, effectively, and appropriately with nurses and other members
+Collaborator
+During this rotation the resident will:
+1) Consult appropriately with other physicians and health care professionals
+2) Contribute effectively to interdisciplinary team activities, including attending multidisciplinary
+3) Work effectively with resident or medical student colleagues assigned to the Psychiatry Service to
+4) Recognize that the optimal treatment of many patients with mental illness requires a team
+approach, and understand the role of other health care professionals (nurses, psychologists,
+occupational therapists, social workers) in managing patients with psychiatric illness
+5) Identify community agencies that may play a key role in the management of patients with mental
+Manager
+By the end of this rotation the resident will:
+1) Take responsibility for initiating and sequencing care activities for each patient, interpreting the
+outcomes, and clearly outlining the medical care plan to all members of the health care team.
+2) Utilize personal time and energy effectively to balance patient care responsibilities, learning
+needs, and personal needs
+3) Set priorities for the timing of assessment of requested consultations based upon the acuity of the
+SAUDI BOARD NEUROLOGY CURRICULUM 63
+
+--- Page 69 ---
+COMPETENCIES OF THE PROGRAM
+4) Demonstrate an appreciation of the cost-benefit of various interventions, and develop strategies
+5) Identify indications for inpatient care for patients with mental illness, and demonstrate awareness
+6) Use information technology to provide optimal patient care and life-long learning opportunities
+Health Advocate
+During this rotation the resident will:
+1) Demonstrate understanding of biological, social, cultural, and economic determinants of mental
+2) Counsel patients appropriately regarding prevention strategies for exacerbations of psychiatric
+3) Recognize the role of lay organizations and community services in providing support for individuals
+with psychiatric diseases, and make appropriate referrals to such organizations and services
+4) Mobilize resources to assist patients with the personal financial costs of psychiatric illness and its
+treatment, including advocating for funding support for medications and for income support via
+Scholar
+During this rotation the resident will:
+1) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+2) Develop a strategy to maintain professional competence through various methods of continuing
+3) Critically assess the psychiatric literature as it relates to patient diagnosis, investigation, and
+4) Develop the ability to ask and answer learning questions that address gaps in knowledge and
+Professional
+During this rotation the resident will:
+1) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+2) Include the patient in discussions and decisions concerning appropriate diagnostic and
+3) Show appropriate consideration for the opinions of other members of the health care team,
+ncluding fellow trainees, in the management of patient problems and be able to provide means
+4) Recognize the ethical and medico legal principles that guide the practice of psychiatry, including
+guidelines for involuntary hospitalization, consent to treatment in the mentally ill, and patient
+5) Demonstrate self-awareness, including recognition of his or her own limitations
+6) Be punctual and reliable in all professional activities
+64 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 70 ---
+COMPETENCIES OF THE PROGRAM
+Endocrinology
+Medical Expert
+By the end of this rotation the resident will:
+1) Develop evidence-based approaches to the investigation and management of patients presenting
+with:
+a) Polyuria and polydipsia
+b) Weight loss and gain
+c) Palpitations, shakiness, and/or sweating
+d) Fatigue
+e) Visual field loss or blurred vision
+f) Delayed or premature sexual development
+g) Sexual dysfunction
+2) Develop evidence-based management strategies for the following diseases:
+a) Diabetes (Types 1 and 2) and its complications
+b) Hyper- and hypothyroidism
+c) Clinically significant and incidentally found nodules of endocrine glands
+d) Pituitary dysfunction
+e) Dysfunction of the adrenal cortex and medulla
+f) Hyper- and hypocalcemia
+g) Hypogonadism
+h) Hyperandrogenism
+i) Hypoglycemia
+j) Hypertension
+3) Recognize the neurological complications that may occur in endocrine diseases, including diabetes,
+thyroid disease, parathyroid disease, and adrenal disease
+4) Demonstrate proficiency in the following procedures:
+a) Clinical examination of the thyroid
+b) Clinical examination to detect complications of diabetes
+c) Visual field testing and extra ocular muscle testing
+Communicator
+By the end of this rotation the resident will:
+1) Obtain thorough and relevant histories from patients with endocrinological diseases
+2) Demonstrate effective presentation of clinically relevant information at the bedside
+3) Convey information to patients and families about diagnosis, proposed investigation, and
+proposed management in a clear, understandable manner
+4) Produce clear and concise consultation notes that communicate effectively with referring
+5) Develop skills in presenting and discussing endocrinological topics at teaching and patient care
+Collaborator
+During this rotation the resident will:
+1) Participate effectively in the multidisciplinary management of endocrine patients
+2) Recognize and respect the roles of the various team members, including nurse educators,
+nutritionists, pharmacists, and clinic support staff
+3) Consult appropriately with other physicians and health care professionals
+SAUDI BOARD NEUROLOGY CURRICULUM 65
+
+--- Page 71 ---
+COMPETENCIES OF THE PROGRAM
+Manager
+During this rotation the resident will:
+1) Participate in the functioning of the health care team, assuming leadership responsibilities where
+2) Demonstrate appropriate use of available resources, including diagnostic tests, inpatient services,
+3) Recognize the economic implications of clinical decisions regarding resource allocation
+4) Develop an understanding of the costs of treatment for individual patients, and an awareness of
+Health Advocate
+By the end of this rotation the resident will:
+1) Identify social, genetic, and economic factors that predispose to or exacerbate endocrine disease
+2) Recognize the importance of preventative strategies in endocrine disease
+3) Demonstrate appropriate attention to prevention counseling in patient encounters
+Scholar
+By the end of this rotation the resident will…
+1) Demonstrate understanding of key basic science principles from biochemistry and physiology that
+2) Develop effective teaching skills through teaching other physicians (including medical students and
+house officers), other health care personnel, and patients
+3) Develop a strategy to maintain professional competence through various methods of continuing
+4) Critically assess the endocrinological literature as it relates to patient diagnosis, investigation, and
+Professional
+During this rotation the resident will:
+1) Recognize his or her professional obligations to patients and colleagues
+2) Demonstrate awareness of the responsibility of the medical profession to society
+3) Demonstrate understanding of the ethical underpinnings of providing care for patients with
+endocrine disease, including the ethics surrounding consent to investigation and treatment
+4) Demonstrate personal and professional attitudes, including integrity, honesty, and compassion,
+5) Include the patient in discussions and decisions concerning appropriate diagnostic and
+6) Demonstrate self-awareness, including recognition of his or her own limitations
+7) Demonstrate professional behaviors, including punctuality and reliability
+66 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 72 ---
+TEACHING AND LEARNING OPPORTUNITIES
+TEACHING AND LEARNING OPPORTUNITIES
+There are two major components to this chapter: Didactic centralized components of curriculum and
+Rotation-based components of curriculum.
+Didactic centralized components of curriculum
+Morning Meetings 2-3 times per week: The competencies from the morning meetings are to:
+a) Educate all attending residents, monitor patient care, and review management decisions and
+b) Develop competence in short presentations of all admitted patients in a scientific and
+c) Learn and gain confidence in presenting long cases in a systematic fashion
+d) Develop appropriate differential diagnoses and proper management plans
+e) Present 5-minute-topic presentations on the disease of interest
+Morbidity and Mortality Rounds
+Mortality and morbidity rounds are conducted at least once every 4-8 weeks. The program director
+cases for all department members. The proceedings are generally kept confidential by law. The
+competencies of the mortality and morbidity conference are to:
+a) Focus on the goal of improving patient care and identify areas of improvement for clinicians
+b) Prevent errors that lead to complications
+c) Modify behavior and judgment based on previous experience
+d) Identify systems issues that may affect patient care, such as outdated policies and changes in
+Grand Rounds/Guest Speaker Lectures
+Experienced senior staff members from different neuroscientific disciplines will present these rounds
+on a weekly basis. The topics will be selected from the core knowledge of the curriculum.
+The competencies of the grand rounds are to:
+a) Increase neurology residents’ knowledge and skills, and ultimately, improve patient care
+b) Understand and apply current practice guidelines in the field of neurology and its branches
+c) Describe the latest advances in the field of neurology and research
+d) Identify and explain areas of controversy in the field of neurology
+Case Presentations
+Assigned residents, under the supervision of specialized seniors, conduct case presentations weekly.
+The presented cases are those that have interesting findings, unusual presentations, or difficult
+diagnoses or management. The competencies of case presentations are to:
+1) Present a comprehensive history and physical examination with details pertinent to the
+patient’s problem
+2) Formulate a list of all problems identified in the history and physical examination
+3) Develop a proper differential diagnosis for each problem
+4) Formulate a diagnosis/treatment plan for each problem
+SAUDI BOARD NEUROLOGY CURRICULUM 67
+
+--- Page 73 ---
+TEACHING AND LEARNING OPPORTUNITIES
+5) Present a follow-up patient’s case, in a focused, problem-based manner that includes
+6) Demonstrate a commitment to improving case presentation skills by regularly seeking
+7) Accurately and objectively record and present data
+Journal Clubs, Critical Appraisal, and Evidence-based Medicine
+Journal club meeting is conducted at least once every 4 weeks. The chief resident or program director
+two weeks before the scheduled meeting.
+The competencies of journal club are to:
+1) Promote continuing professional development
+2) Keep up-to-date with the literature
+3) Disseminate information on and build up debate concerning good practice
+4) Ensure that professional practice is evidence-based
+5) Learn and practice critical appraisal skills
+6) Provide an enjoyable educational and social occasion
+Joint Specialty Meetings (Neuroradiology, Neuropathology, Neurosurgery) Weekly, biweekly, or
+The competencies of the joint specialty meeting are to:
+a) Provide the knowledge, technical skills, and experience necessary to interpret and correlate
+clinical findings, and laboratory dates, such as radiological imaging, with the pathological
+b) Promote effective communication and sharing of expertise with peers and colleagues
+c) Promote the development of investigative skills to better understand pathological processes
+d) Promote the acquisition of knowledge; provide experience in laboratory direction and
+management; encourage residents to assume a leadership role in the education of other
+Academic Half Day (AHD)
+The half-day curriculum will be organized around themes. As much as possible, sessions related to the
+same theme will be delivered over consecutive weeks to ensure continuity of learning.
+The curriculum will consist of 45 half-day teaching sessions per year (90 teaching hours). The entire
+curriculum will be presented twice during a resident’s training (i.e., a 225-hour curriculum, repeated
+every 30 months).
+68 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 74 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Theme 1: Neuro-Ophthalmology/Otology
+Core Topics
+• Optic nerve disorders (1h)
+• Approach to diplopia (1h)
+• Nystagmus and other disorders of gaze (1h)
+• Transient monocular/binocular vision loss (1h)
+• Optic neuropathy/neuritis (1h)
+• Interpretation of visual fields (1h)
+• Ischemic ocular motor cranial neuropathy (1h)
+• Pupil abnormality (1h)
+• Approach to dizziness and vertigo (1h)
+Special Topics
+• Basic neuroscience (2h)
+o Visual pathways
+o Control of eye movements
+o Vestibular system
+o CanMEDS Scholar (Evidence-based Neurology) (1h)
+Total: 10 hours
+Theme 2: Neuro-Oncology
+Core Topics
+• Primary brain and spinal cord tumors (2 hours)
+• Metastatic involvement of the nervous system (1 hour)
+• Paraneoplastic syndromes (1 hour)
+• Neuroradiology of brain tumors (1-2 hrs.)
+Special Topics
+• CanMEDS Communicator: “Breaking Bad News” (1-2 hrs.)
+• Neuropathology: Primary brain tumors (1-2 hrs.)
+• Basic neuroscience: Molecular biology of brain tumor development (1h)
+• CanMEDS Scholar (Evidence-based Neurology)
+Total: 8-10 hours
+Theme 3: Pain And Headache
+Core Topics
+• Primary headache syndromes - migraine, cluster headache, tension (2 h)
+• Less common headache syndromes – IIH, intracranial hypotension, post-concussive, SUNCT,
+etc. (1h)
+• Neuropathic pain and its treatment (1h)
+• Cancer pain syndromes (1h)
+• CanMEDS Collaborator: Multidisciplinary approach to management of back pain
+Special Topics
+• Basic neuroscience (2h)
+o Pain pathways
+o Migraine pathophysiology
+o Pathophysiology of neuropathic pain
+o CanMEDS Scholar (Evidence-based Neurology) (1h)
+SAUDI BOARD NEUROLOGY CURRICULUM 69
+
+--- Page 75 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Total: 8 hours
+Theme 4: Infectious Diseases In Neurology
+Core Topics
+• Bacterial/fungal meningitis (1h)
+• Viral and aseptic meningitis (1h)
+• Viral encephalitis (1h)
+• Neurological complications of HIV infection (1h)
+• Prion diseases, including Creutzfeldt-Jakob disease (1h)
+• West-Nile, leprosy, brain abscess, syphilis, and other rarely seen but important infectious
+diseases (1h)
+• Medical microbiology
+Special Topics
+• Neuropathology: Infectious diseases of the nervous system (1h)
+• CanMEDS Scholar (Evidence-based Neurology) (1h)
+• CanMEDS Health Advocate: Community health issues related to infectious diseases (e.g., West
+Nile, meningitis) (1h)
+Total: 10 hours
+Theme 5: Demyelinating Disease
+Core Topics
+Diagnosis and differential diagnosis of multiple sclerosis (1h)
+Management of MS (1h)
+Other demyelinating diseases (1h)
+Special Topics
+• Basic neuroscience: Current concepts of MS pathogenesis (1h)
+• Basic neuroscience: Imaging in demyelinating diseases (1h)
+• CanMEDS Scholar (Evidence-based Neurology)
+• Neuropathology: MS and other demyelinating diseases (1h)
+Total: 7 hours
+70 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 76 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Theme 6: Neurological Complications Of Systemic Disease
+Core Topics
+• Neurological complications of cardiac disease and cardiac procedures (1h)
+• Neurological complications of connective tissue disease (1h)
+• Neurological complications of diabetes (1h)
+• Neurological complications of pituitary and other endocrine diseases (1h)
+• Neurological complications of pregnancy (1h)
+• Neurotoxicology, including alcohol (1h)
+• Nutritional deficiencies (1h)
+• Liver disturbance and hepatic encephalopathy (1h)
+Special Topics
+• CanMEDS Communicator: The family meeting – techniques for discussing life-and-death
+decision-making with families of critically ill patients (1h)
+• CanMEDS Scholar (Evidence-based Neurology) (1h)
+Total: 8 hours
+Theme 7: Pediatric Neurology
+Core Topics
+• Approach to the floppy infant (1h)
+• Approach to the child with developmental delay or regression (1h)
+• Chromosomal abnormalities and inborn errors of metabolism (1h)
+• Neurocutaneous syndromes (1h)
+Special Topics
+• NSR: Developmental milestones, primitive reflexes, and their significance (1 h)
+• NSR: Neuroembrology – structures, primary neurulation, neuronal migration, stages of CNS development, cortical
+architecture layers, Brodmann’s areas (1-2h)
+• Neuropathology: Congenital anomalies of the brain and spinal cord (1h)
+• CanMEDS Communicator: Dealing with “difficult” patients and families (1h)
+• CanMEDS Scholar (Evidence-based Neurology) (1h)
+Total: 7-8 hours
+Theme 8: Neurogenetics
+Core Topics
+• Genetic principles and mechanisms of human disease (2h)
+o Types of inheritance
+o Mitochondrial genetics
+o Genetic heterogeneity
+o Penetrance, other important concepts
+• Trinucleotide repeat disorders in neurology (1h)
+• CanMEDS Communicator/Professional: Genetic counseling: techniques, bioethics, consent (1h)
+• CanMEDS Scholar (Evidence-based Neurology) (1h)
+Total: 5 hours
+SAUDI BOARD NEUROLOGY CURRICULUM 71
+
+--- Page 77 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Theme 9: Cerebrovascular Disease
+Core Topics
+• Clinical presentation/localization of stroke syndromes (1h)
+• Management of stroke
+o Acute management, including tPA (1h)
+o Secondary prevention (1h)
+• Cardiogenic stroke (1h)
+• Less common etiologies (i.e., MELAS/vasculitis/venous thrombosis) (1h)
+• Intracerebral hemorrhage (1h)
+Special Topics
+• Stroke in the young/children (1h)
+• Basic neuroscience: Vascular anatomy of the nervous system (1h)
+• Basic neuroscience: Consequences of cerebral ischemia (1h)
+• CanMEDS Health Advocate: Effective counseling of patients regarding risk factor modification (1h)
+• CanMEDS Scholar (Evidence-based Neurology)
+• CanMEDS Communicator/Ethics: Management of post stroke neurological patient
+• Neuropathology: Cerebrovascular disease (1h)
+Total: 10 hours
+Theme 10: Neuromuscular Disease
+Core Topics
+• Approach to peripheral neuropathy (1-2h)
+• AIDP and CIDP (1h)
+• Approach to myopathy (1-2h)
+• Diseases of the neuromuscular junction and their treatment (1h)
+• The myotonias (1h)
+• IVIg
+• Neuromuscular pearls
+• Clinical examination and investigation for autonomic dysfunction (1h)
+• Disorders of the autonomic nervous system (1h)
+• Management of respiratory failure in neuromuscular disease
+• Physiological basis of normal EMG/NCS and common EMG/NCS abnormalities (1 h)
+Special Topics
+• Basic neuroscience (2h)
+o Genetics of inherited neuropathies/myopathies
+o Immunopathogenesis of immune-mediated neuropathies
+o Autonomic nervous system
+• Neuropathology: Muscle and nerve pathology (1h)
+• CanMEDS Scholar (Evidence-based Neurology) (1h)
+• CanMEDS Collaborator: Neuromuscular disease & the multidisciplinary team (1h)
+Total: 10-12 hours
+72 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 78 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Theme 11: Movement Disorders
+Core Topics
+• Approach to and differential diagnosis of Parkinsonism (1h)
+• Therapy of Parkinson’s Disease (1h)
+• Hyperkinetic movement disorders
+o Tics, myoclonus, and tremor (1h)
+o Chorea and Huntington’s disease (1h)
+o The dystonias (1h)
+• Acquired and inherited ataxias (1h)
+Special Topics
+• Basic neuroscience: Basal ganglia anatomy and physiology (1h)
+• Basic neuroscience: Spinocerebellar pathways and disorders (1h)
+• Neuropathology of key movement disorders (1h)
+• CanMEDS Scholar (Evidence-based Neurology) (1h)
+Total: 9 hours
+Theme 12: Epilepsy
+Core Topics
+• Childhood epilepsies (1h)
+• Approach to new-onset seizures in an adult (1h)
+• Medical treatment of epilepsy (1h)
+o Rational pharmacotherapy
+o AED pharmacology
+• Surgical treatment of epilepsy (1h)
+• Status epilepticus (1h)
+Special Topics
+• EEG: Basic concepts (1h)
+• Basic mechanisms underlying epilepsy and treatment, including the action potential, ion channels, neurotransmitters, and
+epileptogenesis (1-2h)
+• Epilepsy and driving, flying, swimming, diving (1h)
+• CanMEDS Scholar (Evidence-based Neurology) (1h)
+Total: 8 hours
+SAUDI BOARD NEUROLOGY CURRICULUM 73
+
+--- Page 79 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Theme 13: Cognitive Neurology
+Core Topics
+• Clinical approach to suspected dementia (1h)
+• Clinical approach to aphasia (1h)
+• Behavioral neurology examination: Apraxia, agnosia, etc. (1h)
+• Alzheimer’s disease (1h)
+• Vascular dementia (1h)
+• Other dementias – FTD, CBD, DLB (1h)
+Special Topics
+• Neuropathology: The dementias (1h)
+• Pathophysiology of the dementias (1h)
+• CanMEDS Scholar (Evidence-based Neurology) (1h)
+• CanMEDS: Communicator, Health Advocate, Collaborator: Care planning for individuals with dementia (1h)
+• CanMEDS Professional: Bioethics around life-sustaining treatment and the demented (1h)
+Total: 11 hours
+Theme 14: Sleep Neurology
+Core Topics
+• Approach to sleep studies (1h)
+• Sleep disorders, i.e., parasomnias, narcolepsy, sleep disordered breathing (1h)
+• Restless leg syndrome (1h)
+Total: 3 hours
+Theme 15: Trauma Of The Central Nervous System
+Core Topics
+• Acquired Brain Injury (1 h)
+• Approach to mild and severe brain injury
+• Pathophysiology and management, including seizures
+• CanMEDS: Health Advocate: Returning to sports after mild head injury (1 h)
+• Spinal cord injury: Management and pathophysiology (1 h)
+• CanMEDS: Collaborator: Rehabilitation of head injury and spinal cord injury (1 h)
+Total: 4 hours
+Theme 16: Neuro-Intensive Care
+Core Topics
+• Diagnosis of brain death (1 h)
+• Coma (1 h)
+o Post-hypoxic coma: Acute management, prognostic investigations
+o Metabolic encephalopathy
+• Critical illness polyneuropathy (1 h)
+Special topics
+• CanMEDS professional/communicator: End-of-life and the dying patient discussion with families (1h)
+• Discussing Do-Not-Resuscitate Orders (1 h)
+• Medical error disclosure (1 h)
+Total: 5 hours
+74 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 80 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Theme 17: “Orphan” Topics
+Core Topics
+• Disorders of smell and taste: Clinical aspects (1h)
+• Approach to disorders of bowel, bladder, and sexual function (1h)
+• Clinical disorders of CSF circulation, including hydrocephalus (1h)
+Special Topics
+• Basic neuroscience: Anatomy/physiology of smell and taste (1h)
+• Basic neuroscience: Autonomic nervous system (1h)
+• Basic neuroscience: CSF pathways (1h)
+• Basic neuroscience: Neurotransmitters (Glutamate, GABA, Dopamine, Serotonin, Ach, Opiate)
+Total: 10 hours
+Neurological emergencies that must be immediately recognized and promptly managed include the
+following:
+• Acute bacterial meningitis
+• Acute encephalitis
+• Coma
+• Recurrent seizures and status epilepticus
+• Acute intracranial hemorrhage
+• Acute stroke
+• Recurrent transient ischemic events and threatened stroke
+• Incipient transtentorial herniation
+• Acute paralytic illness
+• Impending spinal cord compression
+Procedures to be mastered by neurology residents while rotating in internal medicine year:
+• ECG interpretation
+• Central line insertion
+• Bone marrow aspiration/biopsy
+• Thoracentesis
+• Lumbar puncture
+• Paracentesis
+• Joint aspiration
+SAUDI BOARD NEUROLOGY CURRICULUM 75
+
+--- Page 81 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Residents must have clinical and basic sciences knowledge to practice neurology, which includes, but
+is not limited to*:
+Core topic Detailed components:
+Vascular diseases of the • Anatomy of cerebral and spinal vascular systems
+central nervous system • Physiology of cerebral and spinal blood flow
+• Risk factors, prevention, etiology, pathophysiology, clinical features, investigation
+and management of cerebral ischemia, infarction, and related disorders, including:
+o Atherothrombotic infarction and carotid stenosis
+o Embolic infarction and cardio-embolic disorders
+o Lacunar infarction
+o Arterial dissection
+o Prothrombotic conditions
+o Vasculitis
+o Thrombosis of cerebral veins and venous sinuses
+o Strokes in adolescents, children, and neonates
+o Management of acute ischemia
+• Risk factors, prevention, etiology, pathophysiology, clinical features, investigation,
+malformations, including but not limited to:
+o Intracerebral hematomas
+o Subarachnoid hemorrhage and cerebral aneurysms
+o Vascular malformations, including arteriovenous fistulas
+• Risk factors, prevention, etiology, pathophysiology, clinical features, investigation,
+Neuro-oncology • Epidemiology, etiology, pathogenesis, pathology, clinical features
+(including localization), investigation, management, and prognosis of
+neoplasms of the nervous system in adults and children, including but not
+limited to:
+o Primary neoplasms of brain and spinal cord
+o Meningiomas
+o Metastatic neoplasms of brain, spinal cord, and meninges, including spinal
+o Neoplasms of the skull base and anterior visual pathways, including pituitary
+o Neoplasms of cranial nerves, peripheral nerves, and nerve roots
+• Pathogenesis, pathology, clinical features, investigation, management, and
+• Pathogenesis, clinical features, and management of intracranial hypertension due to
+central nervous system (CNS) tumors
+• Neurological complications of cancer treatment, including chemotherapy and
+Disorders of cerebrospinal • Physiology and anatomy of CSF production, flow, and reabsorption, and the blood-
+fluid (CSF) flow and brain barrier
+intracranial pressure • Etiology, pathophysiology, clinical manifestations, investigation, and management of
+disorders of CSF flow and intracranial pressure, including:
+o Obstructive hydrocephalus
+o Non-obstructive hydrocephalus, including normal pressure hydrocephalus
+o Idiopathic intracranial hypertension (pseudotumor cerebri)
+o Intracranial hypotension
+o Cerebral edema
+76 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 82 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Core topic Detailed components:
+Infectious and • Analysis of the CSF and interpretation of the results in CNS infections
+transmissible diseases • Etiology, pathogenesis, pathology, epidemiology, clinical manifestations,
+affecting the CNS investigation, and management of infectious diseases of the CNS, including:
+o Meningitis, meningoencephalitis, and encephalitis due to bacterial or viral
+o Cerebral abscess
+o Epidural abscess, subdural empyema, and intracranial thrombophlebitis
+o CNS tuberculosis
+o Neurosyphilis
+o Lyme disease
+o Fungal infections of the nervous system
+o CNS infections caused by protozoa, Rickettsia species, and parasites
+o Neurological complications of human immunodeficiency virus
+o Opportunistic CNS infections in the immunocompromised patient
+o Prion diseases
+Demyelinating and • Pathogenesis, genetics, pathology, epidemiology, clinical manifestations,
+inflammatory diseases of investigation, diagnostic criteria, management, and prognosis of multiple sclerosis
+the CNS (MS)
+• Etiology, pathogenesis, pathology, epidemiology, clinical manifestations,
+investigation, management, and prognosis of demyelinating and inflammatory CNS
+diseases other than MS, including:
+o Acute disseminated encephalomyelitis and its variants
+o Cerebellitis
+o Brainstem encephalitis
+o Transverse myelitis
+o Optic neuritis
+o Neuromyelitis optica
+o Neurosarcoidosis
+• Etiology, pathogenesis, pathology, epidemiology, clinical manifestations,
+investigation, management, and prognosis of diseases that can mimic MS
+Epilepsy • Basic mechanisms underlying epilepsy and its treatment, including the action
+potential, ion channels, neurotransmitters, and epileptogenesis
+• Classification of epileptic seizures and syndromes
+• Epidemiology, genetics, clinical manifestations, treatment, and prognosis of epileptic
+• Pharmacological principles, complications, and teratogenic effects of anti-epileptic
+• Non-pharmacological treatment of epilepsy, including ketogenic diet, surgery, and
+• Effects of pregnancy on epilepsy and its management
+• Diagnosis and management of status epilepticus
+• Diagnosis and differential diagnosis of non-epileptic seizures
+Headache and craniofacial • Anatomy and physiology of craniofacial pain pathways
+pain • Classification of headache
+• Pathophysiology, clinical features, and management of headache and craniofacial
+pain disorders, including but not limited to:
+o Primary headaches, including:
+— Migraine and its variants
+— Tension-type headaches
+— Trigeminal autonomic cephalgias
+— Other primary headaches
+o Secondary headaches
+o Thunderclap headache, including reversible cerebral vasoconstriction
+o Cranial neuralgias and primary facial pain
+SAUDI BOARD NEUROLOGY CURRICULUM 77
+
+--- Page 83 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Core topic Detailed components:
+Dementia and amnesia • Anatomy and physiology of memory and the limbic system
+• Classification, diagnostic criteria, pathogenesis, pathology, clinical features, and
+management of dementia and memory disorders, including:
+o Mild cognitive impairment
+o Alzheimer’s disease
+o Frontotemporal degeneration and dementia
+o Dementia with Lewy bodies
+o Vascular dementia
+o Other secondary dementias, including Korsakoff syndrome
+o Pseudodementia
+o Transient global amnesia and epileptic amnesia
+o Amnestic states
+Delirium and other acute • Etiology, pathophysiology, clinical features, diagnosis, and management of delirium
+Syndromes caused by • Anatomy and physiology of cerebral cortical function Pathophysiology and clinical
+focal CNS lesions features of syndromes caused by focal cerebral lesions, including:
+o Lesions of frontal, temporal, parietal, or occipital lobe
+o Brainstem lesions
+o Cerebellar lesions
+o Lesions of white matter tracts, including disconnection syndromes
+Movement disorders • Anatomy and physiology of the extrapyramidal motor pathways
+• Etiology, genetics, pathophysiology, pathology, and clinical features of movement
+disorders, including but not limited to:
+o Primary Parkinsonian disorders, including Parkinson’s disease and atypical
+Parkinsonian disorders
+o Secondary Parkinsonian disorders
+o Chorea/ballismus
+o Dystonia and related disorders
+o Tremor
+o Tics and Tourette’s syndrome
+o Paroxysmal dyskinesias
+o Drug-induced movement disorders
+o Myoclonus
+• Management of movement disorders and treatment complications
+Cerebellar and • Anatomy and physiology of the cerebellum and its pathways
+spinocerebellar disorders • Etiology, genetics, pathophysiology, pathology, clinical features, and management of
+cerebellar and spinocerebellar disorders, including but not limited to:
+o Cerebellar malformations
+o Inherited ataxias and spinocerebellar ataxias
+o Infectious and post-infectious ataxias
+o Cerebellar disorders caused by metabolic dysfunction and inborn errors of
+o Cerebellar disorders caused by toxins
+o Episodic ataxias
+o Motor neuron disorders
+78 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 84 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Core topic Detailed components:
+Motor neuron disorders • Anatomy and physiology of the pyramidal pathways and reflex arc
+• Mechanisms and management of spasticity
+• Etiology, pathophysiology, clinical features, and management of motor neuron
+disorders:
+o Disorders primarily affecting upper motor neurons (UMN), including:
+— Cerebral palsy
+— Primary lateral sclerosis
+— Hereditary spastic paraplegias
+— Human T-lymphotrophic virus (HTLV) infections
+— UMN disorders caused by toxins
+o Disorders primarily affecting lower motor neurons (LMN), including:
+— Pediatric and adult-onset spinal muscular atrophies
+— Benign focal amyotrophy
+— Infectious causes of lower motor neuron disorders
+— Post-polio syndrome
+— Genetic causes of LMN disorders
+— LMN disorders caused by inborn errors of metabolism
+— LMN disorders caused by toxins, radiation, and neoplasms
+o Disorders affecting both upper and lower motor neurons, including:
+— Amyotrophic lateral sclerosis (ALS), including sporadic and familial ALS
+— ALS syndromes with dementia or parkinsonism
+— Disorders caused by inborn errors of metabolism
+Peripheral neuropathies • Histology and macroscopic anatomy of peripheral nerves, including muscle
+• Physiology of axons and peripheral nerves and their reactions to injury
+• Etiology, genetics, pathophysiology, pathology, clinical features, investigation, and
+management of peripheral nerve disorders, including:
+o Hereditary neuropathies
+o Traumatic, entrapment, and idiopathic mononeuropathies
+o Inflammatory and demyelinating polyradiculoneuropathies, including acute and
+o Neuropathies caused by metabolic, toxic, and nutritional disorders, including
+o Neuropathies caused by systemic inflammatory and vasculitic disorders
+o Neuropathies cause by paraproteinemias, monoclonal gammopathies, and
+neoplasms, including paraneopastic disorders
+o Infectious neuropathies
+Nerve root and plexus • Anatomy of nerve roots and brachial and lumbosacral plexi, including muscle
+• Etiology, pathophysiology, pathology, clinical features, investigation, and
+management of nerve root and plexus disorders, including:
+o Traumatic and congenital radiculopathy and plexopathy
+o Disc herniation
+o Diabetic polyradiculopathy, amyotrophy, and other ischemic plexopathies
+o Neoplastic and radiation-induced polyradiculopathy and plexopathy
+o Idiopathic brachial plexopathy and neuralgic amyotrophy
+o Dorsal root ganglion disease
+Neuromuscular junction • Etiology, pathophysiology, pathology, clinical features, investigation, and
+disorders management of diseases affecting the neuromuscular junction, including:
+o Myasthenia gravis
+o Congenital myasthenic syndromes
+o Lambert-Eaton syndrome
+o Botulism
+o Disorders caused by drugs and toxins
+SAUDI BOARD NEUROLOGY CURRICULUM 79
+
+--- Page 85 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Core topic Detailed components:
+Muscular disorders and • Histology and physiology of normal muscle
+myopathies • Etiology, genetics, pathophysiology, pathology, clinical features, investigation, and
+management of diseases affecting muscle, including:
+o Muscular dystrophies
+o Congenital myopathies
+o Muscle disorders caused by channelopathies
+o Metabolic and mitochondrial myopathies
+o Inflammatory myopathies
+o Myopathies caused by endocrinological and electrolyte disorders
+o Myopathies caused by drugs and toxins
+o Critical illness myopathy
+Neurological • Etiology, pathophysiology, pathology, clinical manifestations, investigation,
+complications of acquired management, and prognosis of neurological disorders caused by acquired systemic
+systemic and metabolic and metabolic disorders, including:
+o Hypo- and hyperglycemia
+o Disorders of electrolytes and water balance
+o Vitamin deficiencies
+o Cardiovascular disorders, including syncope and ischemic-hypoxic
+o Respiratory disorders
+o Hematological disorders
+o Hepatic and gastrointestinal disorders
+o Renal disorders and dialysis
+o Rheumatological disorders and vasculitis
+o Endocrinological disorders, including diseases of the thyroid, parathyroid,
+o Complications of organ transplantation and immune suppression
+Neurological
+Neurological disorders • Pathophysiology, pathology, clinical manifestations, investigation, management, and
+caused by drugs and prognosis of neurological disorders caused by drugs and toxins, including:
+toxins o Ethanol and other alcohols, including fetal alcohol syndrome
+o Psychoactive drugs, including opioids, stimulants, and hallucinogens
+o Dopamine and dopaminergic agents
+o Anticonvulsants, including fetal teratogenesis
+o Antineoplastic and immunosuppressive agents
+o Cardioactive drugs
+o Bacterial toxins, including botulism, tetanus, and diphtheria
+o Environmental and occupational toxins, including metals, organic chemicals,
+Traumatic injury of the • Anatomy and physiology of consciousness
+nervous system and coma • Clinical features, classification, and management of mild brain injury, including
+• Clinical features, pathophysiology, pathology, and management of moderate-severe
+• Prognosis for neurological recovery and seizures after traumatic brain injury
+• Diagnosis of brain death, minimally conscious state, and persistent vegetative state
+• Clinical features and management of traumatic spinal cord injury
+80 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 86 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Core topic Detailed components:
+Inborn errors of • Pathophysiology, genetics, clinical manifestations, investigation, management, and
+metabolism affecting the prognosis of neurological disorders caused by inborn errors of metabolism,
+nervous system including:
+o Amino acid disorders
+o Organic acidemias
+o Galactosemia
+o Disorders associated with hyperammonemia
+o Pyrimidine disorders
+o Disorders of copper and iron metabolism
+o Lipoprotein deficiencies
+o Mitochondrial and oxidative metabolism disorders
+o Peroxisomal and lysosomal disorders
+Developmental • Embryology and clinical, radiological, and pathological features of the major
+abnormalities of the developmental abnormalities of the nervous system, including:
+nervous system o Neural tube defects
+o Disorders of segmentation and cleavage, including holoprosencephaly, septo-
+optic dysplasia, and dysgenesis of corpus callosum
+o Disorders of proliferation
+o Disorders of migration
+o Disorders of organization
+o Disorders of myelination
+o Posterior fossa malformations
+• Normal developmental milestones and primitive reflexes
+• Clinical features, differential diagnosis, and management of delayed development,
+developmental regression, and behavioral disorders, including:
+o Global developmental delay
+o Intellectual impairment
+o Developmental regression/neurodegenerative disorders
+o Motor development disorders
+o Language development disorders
+o Behavioral and attention disorders
+o Autism and pervasive development disorders
+Neurogenetic disorders • Basic knowledge of genetics as applied to neurological diseases
+• Ethical considerations in neurogenetics
+• Genetics, clinical presentation, management, and testing of the major neurogenetic
+syndromes, including:
+o Neurocutaneous syndromes
+o Trisomy 21
+o Fragile X syndrome
+o Turner syndrome
+o Noonan syndrome
+o Aicardi syndrome
+o Angelman and Prader-Willi syndromes
+o Cockayne syndrome
+o Rett syndrome
+SAUDI BOARD NEUROLOGY CURRICULUM 81
+
+--- Page 87 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Core topic Detailed components:
+Sleep disorders • Anatomy and physiology of sleep and wakefulness
+• Etiology, pathophysiology, classification, clinical features, and management of sleep
+disorders, including:
+o Intrinsic sleep disorders, including:
+— Insomnia
+— Narcolepsy
+— Hypersomnia
+— Central sleep apnea
+— Restless legs syndrome
+o Extrinsic sleep disorders
+o Parasomnias
+o Sleep disorders associated with neurological disorders
+Somatoform (functional) • Clinical manifestations, investigation, and management of somatoform disorders with
+disorders with neurological manifestations, including:
+neurological o Conversion disorder, including non-epileptic seizures
+manifestations o Somatization disorder
+Neurointensive care • Recognize and manage neurological conditions requiring an intensive care unit
+Neuro-ophthalmological • Anatomy and physiology of the afferent visual pathways, ocular motor system,
+disorders pupillary pathways, and accommodation
+• Etiology, genetics, pathophysiology, clinical features (including visual field findings),
+investigation, and management of neuro-ophthalmological disorders, including:
+o Disorders of optic nerve, optic chiasm, retrochiasmal pathways, calcarine
+cortex, and extrastriate visual cortex
+o Neurologically relevant retinal disorders, including retinal ischemia and
+infarction Papilledema
+o Central and peripheral disorders of eye movement, including those causing
+strabismus, nystagmus, and saccadic oscillations
+o Pupillary disorders
+o Ptosis
+o Orbital disorders and proptosis
+Neuro-otological disorders • Anatomy and physiology of the auditory, vestibular, and vestibulo-ocular systems
+• Etiology, pathophysiology, clinical features, investigation, and management of neuro-
+otological disorders, including:
+o Sensorineural hearing loss and tinnitus
+o Vertigo and unilateral loss of vestibular function
+o Bilateral loss of vestibular function
+Disorders of other cranial • Disorders of smell and taste
+nerves and related o Anatomy and physiology of olfaction and taste sensation
+disorders o Etiology, pathogenesis, clinical features, investigation, and management of
+• Anatomy and physiology of cranial nerves V, VII, and IX – XII and related brainstem
+• Etiology, pathogenesis, clinical features, investigation, and management of disorders
+of other cranial nerves and related disorders, including:
+o Disorders of trigeminal nerve and corneal and facial sensation
+o Disorders of facial nerve and facial movement
+o Glossopharyngeal neuralgia
+o Disorders of the vagus nerve and dysphagia
+o Disorders of the spinal accessory nerve
+o Disorders of the hypoglossal nerve
+o Bulbar and pseudobulbar palsy
+o Multiple cranial nerve palsies
+82 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 88 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Core topic Detailed components:
+Autonomic nervous • Anatomy and physiology of the autonomic nervous system
+system disorders • Etiology, pathophysiology, clinical features, investigation, and management of
+disorders of the autonomic nervous system, including:
+o Acute autonomic paralysis (pure pandysautonomia)
+o Primary autonomic failure
+o Dysautonomia and orthostatic hypotension caused by peripheral neuropathy
+o Autonomic dysfunction in neurodegenerative disorders
+o Autonomic dysreflexia after spinal cord lesions
+o Neurological disorders of bladder function
+Pain disorders • Anatomy and physiology of nociception and pain pathways
+• Etiology, pathogenesis, clinical features, investigation, and management of pain
+disorders, including:
+o Central and peripheral neuropathic pain disorders
+o Complex regional pain syndrome
+o Post-herpetic neuralgia
+o Back pain
+Electroencephalography • Physiological basis of normal EEG and common EEG abnormalities
+(EEG) • Recognition of normal physiological rhythms in wakefulness, drowsiness, and sleep
+• Principal characteristics of neurophysiological maturation in children
+• EEG indications and limitations, including sleep-deprived, video, intensive care
+monitoring, and ambulatory EEG
+• Recognition of common EEG abnormalities and their significance
+Electromyography and • Physiological basis of normal EMG/NCS and common EMG/NCS abnormalities
+nerve conduction studies • Indications for and limitations of EMG/NCS in neurological disorders
+(EMG/NCS) • Recognition of common EMG/NCS abnormalities and their significance
+Neuroimaging • Neuroradiological anatomy and pathophysiology
+• Normal and abnormal neuroimaging findings
+• Indications, contraindications, and limitations for neuroimaging, including the
+• Differential diagnosis of common neuroimaging abnormalities
+Other laboratory • Anatomic and physiological basis, indications, contraindications, and interpretation of
+investigations results, of:
+o Lumbar puncture
+o Visual field testing, including Goldmann and automated perimetry
+o Visual evoked responses
+o Auditory brainstem evoked responses
+o Somatosensory evoked responses
+o Vestibular and caloric testing
+o Apnea testing for brain death
+o Edrophonium (Tensilon) test or equivalent test
+SAUDI BOARD NEUROLOGY CURRICULUM 83
+
+--- Page 89 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Core topic Detailed components:
+Classification of, and o Muscle weakness, paralysis, and cramps
+clinical approach to, o Sensory disturbances
+manifestations of o Autonomic disturbances
+o Regional pain
+neurological diseases,
+o Seizures and syncope
+including:
+o Headache and facial pain
+o Movement disorders
+o Ataxia, incoordination, and disturbances of gait
+o Disturbances of vision, eye movement, and pupillary and eyelid function
+o Dizziness and vertigo
+o Altered hearing
+o Dysphagia
+o Disturbances of speech and language
+o Impaired consciousness and acute confusion
+o Sleep disturbances
+o Disturbances of memory, cognitive function, and behavior
+o Disturbances of smell and taste
+o Developmental delay and regression
+o Dysmorphic features
+with permission.
+Rotational (Practice Based) components of curriculum
+Daily Round Based Learning
+Daily round is a good opportunity to conduct bedside teaching for small groups of residents, usually
+those who are involved in patient care. The competencies are as follows:
+• Document history and physical examination according to accepted formats, including a
+complete written data base, problem list, and a focused S.O.A.P. note
+• Generate differential diagnoses appropriate to the level of training
+• Review admission notes, discharge summaries, and medical reports
+• Develop evidence-based management plan
+• Interpret lab investigation results (imaging, EEG, EMG, CSF/blood tests, etc.)
+• Consult with specialties of other disciplines
+• Communicate with patients and families, including risk factors and prevention
+• Create discharge and follow-up plans
+On-Call Duty Based Learning (OBL)
+All residents must do a minimum of 8-10 on-calls per month.
+R 2-3
+• Elicit a comprehensive history and perform a complete physical examination on admission;
+write clearly the patient’s assessment and differential diagnosis of medical problems; initiate
+the management plan.
+• Discuss the management plan, including investigations and treatment plan, with seniors.
+• Communicate the plan to the nurse assigned to patient care.
+• Perform the basic procedures necessary for diagnosis and management.
+84 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 90 ---
+TEACHING AND LEARNING OPPORTUNITIES
+R 4-5
+• Supervise the junior residents’ admission notes and orders, discuss the proposed
+management plan, and supervise its implementation.
+• Supervise the junior residents’ skills in history taking and physical examination.
+• Help the junior residents to interpret laboratory investigations and perform bedside diagnostic
+and therapeutic procedures.
+• Attend consultations within and outside the department, including emergency consultations,
+and participate in outpatient clinics once or twice weekly.
+Clinic Based learning (CBL)
+R 2-3: (1-2 clinics per week)
+• It is strictly prohibited to cover the outpatient clinics without a consultant’s supervision.
+• Elicit a focused history and physical examination under the supervision of the consultant.
+• Briefly present the clinical findings to the attending consultant.
+• Discuss the differential diagnosis and management plan with the attending consultant.
+• Write the patient’s assessment and differential diagnosis, and the management plan.
+• Develop communication skills from the attending consultant.
+R 4-5: (1-2 clinics per week, including longitudinal clinic)
+• It is strictly prohibited to cover the outpatient clinics without a consultant’s supervision.
+• Senior residents will follow up the patient for a prolonged duration, under the supervision of
+the attending consultant.
+• Supervise notes, orders, and management of the attending junior resident.
+• Write concise notes during the on-call and at least three times per week for inpatients.
+• Discuss the management plan, including investigations, treatment, and referral to other
+disciplines with consultant.
+• Discuss with consultant the need for specialized procedures.
+• Elicit clinical signs from junior residents.
+• Interpret and discuss the laboratory results with junior residents.
+• Assess the performance of junior resident in terms of focused history taking, focused physical
+examination, and communication skills.
+Self-Directed Learning (SDL)
+• Achieving personal learning goals beyond the essential, core curriculum
+• Maintenance of personal portfolio (self-assessment, reflective learning, personal development
+plan)
+• Auditing and research projects
+• Reading journals
+• Attendance at training program organized on a regional basis (Symposia, Conferences, Board
+review, etc.). E-learning universal topics (see next topic)
+SAUDI BOARD NEUROLOGY CURRICULUM 85
+
+--- Page 91 ---
+TEACHING AND LEARNING OPPORTUNITIES
+E-Learning
+interdisciplinary topics of utmost importance to the trainee. The reason for delivering the topics
+knowledge. These topics are common to all specialties and will be delivered in a modular fashion.FD
+At the end of each learning unit, there will be an on-line formative assessment. After completion of all
+topics, there will be a combined summative assessment in the form of a context-rich MCQ. All trainees
+must attain minimum competency in the summative assessment.
+The following are mandatory modules to be completed at each resident’s level:
+• R1-2: modules 1 & 4
+• R3: modules 3 & 5
+• R4: modules 2 & 6
+• R5: module 7
+Module 1: Introduction
+1) Safe drug prescribing
+2) Hospital acquired infections
+3) Sepsis; SIRS; DIC
+4) Antibiotic stewardship
+5) Blood transfusion
+Safe drug prescribing:
+At the end of the Learning Unit, you should be able to:
+1) Recognize the importance of safe drug prescribing in healthcare
+2) Describe the various Adverse Drug Reactions with examples of commonly prescribed drugs that
+3) Apply the principles of drug-drug interactions, drug-disease interactions, and drug-food
+4) Apply the principles of prescribing drugs in special situations, such as renal failure and liver failure
+5) Apply the principles of prescribing drugs in elderly and pediatrics age group patients, and during
+6) Promote evidence-based cost effective prescribing
+7) Discuss ethical and legal framework governing safe-drug prescribing in Saudi Arabia
+Hospital Acquired Infections (HAI)
+At the end of the Learning Unit, you should be able to:
+1) Discuss the epidemiology of HAI with special reference to HAI in Saudi Arabia
+2) Recognize HAI as one of the major emerging threats in healthcare
+3) Identify the common sources and set-ups of HAI
+4) Describe the risk factors of common HAIs, such as ventilator associated pneumonia, MRSA, Central
+line-associated blood steam infection (CLABSI), Vancomycin Resistant Enterococcus (VRE)
+86 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 92 ---
+TEACHING AND LEARNING OPPORTUNITIES
+5) Identify the role of healthcare workers in the prevention of HAI
+6) Determine appropriate pharmacological (e.g., selected antibiotic) and non-pharmacological (e.g.,
+removal of indwelling catheter) measures in the treatment of HAI
+7) Propose a plan to prevent HAI in the workplace
+Sepsis, SIRS, DIC
+At the end of this learning unit, you should be able to:
+1) Explain the pathogenesis of sepsis, SIRS, and DIC
+2) Identify patient-related and non-patient related predisposing factors for sepsis, SIRS, and DIC
+3) Recognize a patient at risk of developing sepsis, SIRS, and DIC
+4) Describe the complications of sepsis, SIRS, and DIC
+5) Apply the principles of management of patients with sepsis, SIRS, and DIC
+6) Describe the prognosis of sepsis, SIRS, and DIC
+Antibiotic Stewardship
+At the end of the learning unit, you should be able to:
+1) Recognize antibiotic resistance as one of the most pressing public health threats globally
+2) Describe the mechanism of antibiotic resistance
+3) Determine the appropriate and inappropriate use of antibiotics
+4) Develop a plan for safe and proper antibiotic usage, including right indications, duration, types of
+antibiotic, and discontinuation
+5) Appraise local guidelines on the prevention of antibiotic resistance
+Blood Transfusion
+At the end of the learning unit, you should be able to:
+1) Review the different components of blood products available for transfusion
+2) Recognize the indications and contraindications of blood product transfusion
+3) Discuss the benefits, risks, and alternatives to transfusion
+4) Undertake consent for specific blood product transfusion
+5) Perform the steps necessary for safe transfusion
+6) Develop understanding of special precautions and procedures necessary during massive
+7) Recognize transfusion associated reactions and provide immediate management
+Module 2: Cancer
+1) Principles of cancer management
+2) Side effects of chemotherapy and radiation therapy
+3) Oncological emergencies
+4) Cancer prevention
+5) Surveillance follow-up of cancer patients
+SAUDI BOARD NEUROLOGY CURRICULUM 87
+
+--- Page 93 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Principles of Cancer Management
+At the end of the Learning Unit, you should be able to:
+1) Discuss the basic principles of staging and grading of cancers
+2) Enumerate the basic principles (e.g., indications, mechanisms, types) of:
+a) Cancer surgery
+b) Chemotherapy
+c) Radiotherapy
+d) Immunotherapy
+e) Hormone therapy
+Side Effects of Chemotherapy and Radiation Therapy
+At the end of the Learning Unit, you should be able to:
+1) Describe important side effects (e.g., frequent or life or organ threatening) of common
+2) Explain the principles of monitoring side-effects in a patient undergoing chemotherapy
+3) Describe the measures (pharmacological and non-pharmacological) available to ameliorate the
+side-effects of commonly prescribed chemotherapy drugs
+4) Describe important (e.g., common and life-threatening) side effects of radiation therapy
+5) Describe the measures (pharmacological and non-pharmacological) available to ameliorate the
+side-effects of radiotherapy
+Oncological Emergencies
+At the end of the Learning Unit, you should be able to:
+1) Enumerate important oncological emergencies encountered both in hospital and ambulatory
+2) Discuss the pathogenesis of important oncological emergencies
+3) Recognize oncological emergencies
+4) Institute immediate measures when treating a patient with oncological emergencies
+5) Counsel patients in an anticipatory manner to recognize and prevent oncological emergencies
+Cancer Prevention
+At the end of Learning Unit, you should be able to:
+1) Conclude that many major cancers are preventable
+2) Identify smoking prevention and life-style modifications as major preventable measures
+3) Recognize cancers that are preventable
+4) Discuss major cancer prevention strategies at the individual as well as national level
+5) Counsel patients and families in a proactive manner regarding cancer prevention, including
+88 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 94 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Surveillance and Follow-Up of Cancer Patients
+At the end of the Learning Unit, you should be able to:
+1) Describe the principles of surveillance and follow-up of cancer patients
+2) Enumerate the surveillance and follow-up plan for common forms of cancer
+3) Describe the role of primary care physicians, family physicians, and similar others in the
+surveillance and follow-up of cancer patients
+4) Liaise with oncologists to provide surveillance and follow-up for cancer patients
+Module 3: Diabetes and Metabolic Disorders
+1) Recognition and management of diabetic emergencies
+2) Management of diabetic complications
+3) Comorbidities of obesity
+4) Abnormal ECG
+Recognition and Management of Diabetic Emergencies
+At the end of the Learning Unit, you should be able to:
+1) Describe the pathogenesis of common diabetic emergencies, including their complications
+2) Identify risk factors and groups of patients vulnerable to such emergencies
+3) Recognize a patient presenting with diabetic emergencies
+4) Institute immediate management
+5) Refer the patient to the appropriate next level of care
+6) Counsel patients and families to prevent such emergencies
+Management of Diabetic Complications
+At the end of the Learning Unit, you should be able to:
+1) Describe the pathogenesis of important complications of Type 2 diabetes mellitus
+2) Screen patients for such complications
+3) Provide preventive measures for such complications
+4) Treat such complications
+5) Counsel patients and families with special emphasis on prevention
+Comorbidities of Obesity
+At the end of the Learning Unit, you should be able to:
+1) Screen patients for presence of common and important comorbidities of obesity
+2) Manage obesity related comorbidities
+3) Provide dietary and lifestyle advice for prevention and management of obesity
+Abnormal ECG
+At the end of the Learning Unit, you should be able to:
+1) Recognize common and important ECG abnormalities
+2) Institute immediate management, if necessary
+SAUDI BOARD NEUROLOGY CURRICULUM 89
+
+--- Page 95 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Module 4: Medical and Surgical Emergencies
+1) Management of acute chest pain
+2) Management of acute breathlessness
+3) Management of altered sensorium
+4) Management of hypotension and hypertension
+5) Management of upper GI bleeding
+6) Management of lower GI bleeding
+At the end of this learning module, you should be able to:
+1) Triage and categorize patients
+2) Identify patients who need prompt medical and surgical attention
+3) Generate preliminary diagnoses based on history and physical examination
+4) Order and interpret urgent investigations
+5) Provide appropriate immediate management to patients
+6) Refer patients to next level of care, if needed
+Module 5: Acute Care
+1) Pre-operative assessment
+2) Post-operative care
+3) Acute pain management
+4) Chronic pain management
+5) Management of fluid in the hospitalized patient
+6) Management of electrolyte imbalances
+Pre-Operative Assessment
+At the end of the Learning Unit, you should be able to:
+1) Describe the basic principles of pre-operative assessment
+2) Preform pre-operative assessment in uncomplicated patients with special emphasis on:
+a) General health assessment
+b) Cardiorespiratory assessment
+c) Medications and medical device assessment
+d) Drug allergy
+e) Pain relief needs
+3) Categorize patients according to risks
+Post-Operative Care
+At the end of the Learning Unit, you should be able to:
+1) Devise a post-operative care plan, including monitoring of vitals, pain management, fluid
+management, medications, and laboratory investigations
+2) Hand over the patients properly to the appropriate facilities
+3) Describe the process of post-operative recovery in a patient
+4) Identify common post-operative complications
+5) Monitor patients for possible post-operative complications
+6) Institute immediate management for post-operative complications
+90 SAUDI BOARD NEUROLOGY CURRICULUM
+
+--- Page 96 ---
+TEACHING AND LEARNING OPPORTUNITIES
+Acute Pain Management
+At the end of the learning unit, you should be able to:
+1) Review the physiological basis of pain perception
+2) Proactively identify patients who might be in acute pain
+3) Assess a patient with acute pain
+4) Apply various pharmacological and non-pharmacological modalities available for acute pain
+5) Provide adequate pain relief for uncomplicated patients with acute pain
+6) Identify and refer patients with acute pain who can benefit from specialized pain services
+Chronic Pain Management
+At the end of the learning unit, you should be able to:
+1) Review the bio-psychosocial and physiological basis of chronic pain perception
+2) Discuss various pharmacological and non-pharmacological options available for chronic pain
+3) Provide adequate pain relief for uncomplicated patients with chronic pain
+4) Identify and refer patients with chronic pain who can benefit from specialized pain services
+Management of Fluid in Hospitalized Patients
+At the end of the Learning Unit, you should be able to:
+1) Review the physiological basis of water balance in the body
+2) Assess a patient for his/her hydration status
+3) Recognize a patient with over and under hydration
+4) Order fluid therapy (oral, as well as intravenous) for a hospitalized patient
+5) Monitor fluid status and response to therapy through history, physical examination, and selected
+Management of Acid/Base Electrolyte Imbalances
+At the end of the Learning Unit, you should be able to:
+1) Review the physiological basis of electrolyte and acid/base balance in the body
+2) Identify diseases and conditions that are likely to cause or are associated with acid/base and
+3) Correct electrolyte and acid/base imbalances
+4) Perform careful calculations, checks, and other safety measures while correcting acid/base and
+5) Monitor response to therapy through history, physical examination, and selected laboratory
+Module 6: Frail Elderly
+1) Assessment of frail elderly
+2) Mini-mental state examination
+3) Prescribing drugs in the elderly
+4) Care of the elderly
+SAUDI BOARD NEUROLOGY CURRICULUM 91

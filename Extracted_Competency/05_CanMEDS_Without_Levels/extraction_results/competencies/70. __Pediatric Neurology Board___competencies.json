@@ -1,0 +1,12 @@
+{
+  "document": "70. __Pediatric Neurology Board__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 32,
+    "end": 43
+  },
+  "candidates_found": 19,
+  "validation": "Valid CanMEDS without levels (score: 253/268, 7/7 roles)",
+  "content_length": 23947,
+  "success": true
+}

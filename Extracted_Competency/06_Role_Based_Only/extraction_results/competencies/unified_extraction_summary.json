@@ -1,0 +1,38 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 1,
+  "successful_extractions": 1,
+  "extraction_rate": "100.0%",
+  "format_breakdown": {
+    "CanMEDS Without Levels": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.8999999999999999,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {
+    "CanMEDS Without Levels": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.8999999999999999
+      ]
+    }
+  },
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/06_Role_Based_Only/27. __Advanced Nursing practice in Home Healthcare Diploma__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.90",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 154/268, 3/7 roles)",
+      "content_length": 4341,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/06_Role_Based_Only/extraction_results/competencies/27. __Advanced Nursing practice in Home Healthcare Diploma___competencies.txt",
+      "failure_reason": null
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+Document: 80. __Physical Medicine and Rehabilitation__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 15-16
+Candidates Found: 13
+Validation: Valid CanMEDS without levels (score: 130/268, 2/7 roles)
+================================================================================
+
+--- Page 15 ---
+professional competencies. The
+SCFHS has endorsed the Canadian Medical Education Directives for Specialists’ (CanMED)
+framework of articulating professional competencies. The following is a general outline of each
+competency.
+(Adopted from the Royal College of Physicians and Surgeons of Canada 2020) (5)
+Medical Expert
+Definition:
+As Medical Experts, physiatrists integrate all of the CanMED roles, applying medical Knowledge,
+clinical skills, and professional values to their high-quality and safe Patient-centered care. A Medical
+Expert is the central physician role in the CanMED Framework and defines the physician’s clinical
+scope of practice.
+Key and Enabling Competencies: Physiatrists are able to:
+1. Practice medicine within their defined scope of practice and expertise
+1.1. Demonstrate a commitment to high-quality care of their patients
+1.2. Integrate the CanMED intrinsic roles into their practice of physiatry
+1.3. Apply knowledge of the clinical and biomedical sciences relevant to physiatry
+1.3.1. Anatomy and physiology of the musculoskeletal system:
+1.3.1.1. Bones
+1.3.1.2. Bursae
+1.3.1.3. Epiphyses
+1.3.1.4. Joints and capsules
+1.3.1.5. Myofascial trigger points
+1.3.1.6. Spine and skull
+1.3.1.7. Tendons
+1.3.2. Anatomy and physiology of the nervous system:
+1.3.2.1. Brain, including brain stem and cranial nerves
+1.3.2.2. Meninges
+1.3.2.3. Spinal cord
+1.3.2.4. Cerebral and spinal vasculature
+1.3.2.5. Nerve roots, peripheral nerves, neuromuscular junction, and associated
+muscles
+1.3.2.6. Autonomic nervous system, including bladder, and bowel innervation
+1.3.2.7. Other systems
+1.3.2.7.1. Motor
+1.3.2.7.2. Sensory
+1.3.2.7.3. Vestibular
+1.3.2.7.4. Motor points
+1.3.2.7.5. Neurotransmission
+1.3.2.7.6. Speech and swallowing
+1.3.2.7.7. Memory, learning, and behavior
+1.3.2.7.10. Pain
+1.3.3. Anatomy and physiology of the cardiovascular, endocrine, gastrointestinal,
+Genitourinary, hematologic, hepatobiliary, immunologic, and respiratory
+systems
+1.3.4. Normal growth and development, including developmental milestones
+1.3.5. Effect of physiologic responses and adaptations to exercise on the Cardiovascular,
+hematologic, musculoskeletal, neurologic, and respiratory systems
+
+--- Page 16 ---
+1.3.6. Principles of ergonomics and their application to clinical care
+1.3.7. Principles of kinesiology and kinematic studies as they relate to gait analysis
+1.3.8. Biomechanics in sport and exercise
+1.3.9. Clinical and molecular genetics of commonly encountered hereditary neuromuscular
+conditions
+1.3.10. Aging and its effects on physiology and biomechanics, and the impact of aging on
+people living with a physical or cognitive impairment
+1.3.11. Effects of immobility on body systems
+1.3.12. Microbiology of infections, especially of the musculoskeletal and nervous systems
+1.3.13. Principles of nerve injury and recovery
+1.3.14. Principles of pharmacology:
+1.3.14.1. Pharmacokinetic and pharmacodynamics changes that occur with
+physical impairments
+1.3.14.2. Impact of pharmacologic agents on patients with physical, cognitive, and
+behavioral impairments
+1.3.14.3. Symptom management, including acute and chronic pain, agitation, and
+neurologic recovery post acquired brain injury
+1.3.14.4. Substance abuse and withdrawal
+1.3.14.5. Antimicrobial treatment and antibiotic stewardship
+1.3.14.6. Medication reconciliation
+1.3.15. Imaging modalities used in musculoskeletal and neurological conditions, including
+indications, contraindications, and choice of modality
+1.3.16. Clinical features, diagnostic criteria, epidemiology, natural history, pathophysiology,
+complications, and functional consequences of:
+1.3.16.1. Amputations
+1.3.16.2. Arthritis
+1.3.16.3. Brain injury
+1.3.16.4. Cerebrovascular disease
+1.3.16.5. Disability due to cardiorespiratory diseases
+1.3.16.6. Disability due to complex medical conditions, including obesity,
+Thermal injuries, cancer, organ transplantation, and multiple medical comorbidities
+1.3.16.7. Disorders of nerve and muscle
+1.3.16.8. Disorders of the spinal cord
+1.3.16.9. Immobility
+1.3.16.10. Musculoskeletal injuries
+1.3.16.11. Musculoskeletal and neurologic disabilities of childhood
+1.3.16.12. Pain syndromes
+1.3.17. Components of a comprehensive physiatrist assessment and plan, including the
+principles of functional inquiry relevant to the clinical presentation
+1.3.18. Principles of rehabilitation potential in the full breadth of clinical presentations and
+patient populations
+1.3.19. Principles of emergent and urgent medical management in people with disabilities
+1.3.19.1. Altered levels of consciousness
+1.3.19.2. Altered neurological status
+1.3.19.3. Anaphylaxis
+1.3.19.4. Autonomic dysreflexia
+1.3.19.5. Post-traumatic agitation
+1.3.19.6. Post-traumatic seizures
+1.3.19.7. Pressure wounds
+1.3.19.8. Pulseless limb
+1.3.20. Principles of physiatrist management for the following rehabilitation-specific issues:
+1.3.20.1. Contractures
+1.3.20.2. Dysarthria
+1.3.20.3. Dysphagia
+1.3.20.4. Heterotopic ossification

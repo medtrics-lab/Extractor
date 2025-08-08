@@ -1,0 +1,12 @@
+{
+  "document": "80. __Physical Medicine and Rehabilitation__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 15,
+    "end": 16
+  },
+  "candidates_found": 13,
+  "validation": "Valid CanMEDS without levels (score: 130/268, 2/7 roles)",
+  "content_length": 4993,
+  "success": true
+}
