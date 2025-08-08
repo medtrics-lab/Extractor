@@ -1,0 +1,12 @@
+{
+  "document": "68. __Radiology Technology and Medical Imaging__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 17,
+    "end": 19
+  },
+  "candidates_found": 16,
+  "validation": "Valid CanMEDS without levels (score: 134/268, 1/7 roles)",
+  "content_length": 4316,
+  "success": true
+}

@@ -1,0 +1,12 @@
+{
+  "document": "93. __Orthopedic Surgery Board__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 14,
+    "end": 15
+  },
+  "candidates_found": 28,
+  "validation": "Valid CanMEDS without levels (score: 166/268, 3/7 roles)",
+  "content_length": 5400,
+  "success": true
+}

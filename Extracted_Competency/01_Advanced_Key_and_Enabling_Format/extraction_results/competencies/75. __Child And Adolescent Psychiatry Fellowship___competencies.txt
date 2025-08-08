@@ -1,0 +1,53 @@
+Document: 75. __Child And Adolescent Psychiatry Fellowship__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 86-87
+Candidates Found: 42
+Validation: Valid CanMEDS without levels (score: 182/268, 7/7 roles)
+================================================================================
+
+--- Page 86 ---
+Educational Objectives
+Medical Expert
+Functions effectively as a senior resident performing relevant child and adolescent psychiatric
+examinations and assessments in a community mental health setting, and contributing to
+evidence-based treatment plans for children and adolescents presenting in a community
+mental health setting.
+Communicator
+Effectively communicates details of mental health examinations and assessment results to
+patients and families, as well as other clinicians.
+SAUDI FELLOWSHIP CHILD AND ADOLESCENT PSYCHIATRY CURRICULUM
+
+--- Page 87 ---
+ROTATION-SPECIFIC GOALS AND OBJECTIVES
+Collaborator
+Works in partnership with patients and families, community mental health agency members,
+and other physicians to ensure the best possible care for the patients and their families.
+Manager
+Applies practice management principles. Demonstrates the ability to balance patient care with
+personal learning needs and activities.
+Health Advocate
+Advocates for improvements in the mental and physical health of children and adolescents in
+a community mental health setting.
+Scholar
+Develops and implements an effective personal education strategy through ongoing learning,
+and translating knowledge relevant to child and adolescent psychiatry for patients, families,
+other clinicians, and learners in a community mental health agency setting.
+Professional
+Delivers high quality care to patients and their families in the community mental health
+agency setting. Adheres to a professional code of conduct at all times.
+Selective Developmental Disabilities
+Educational Objectives
+Medical Expert
+Functions effectively as senior resident performing relevant developmental disability
+assessments, and contributing to evidence-based treatment plans for children and
+adolescents with developmental disabilities in an outpatient setting.
+Communicator
+Effectively communicates details of developmental disability assessment results to patients
+and families, as well as other clinicians.
+Collaborator
+Works in partnership with patients and families, developmental disabilities team members,
+and other physicians to ensure the best possible care for patients and their families.
+Manager
+Applies practice management principles. Demonstrates ability to balance patient care with
+personal learning needs and activities.
+SAUDI FELLOWSHIP CHILD AND ADOLESCENT PSYCHIATRY CURRICULUM

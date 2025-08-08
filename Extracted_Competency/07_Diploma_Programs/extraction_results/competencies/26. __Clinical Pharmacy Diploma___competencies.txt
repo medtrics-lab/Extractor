@@ -1,0 +1,185 @@
+Document: 26. __Clinical Pharmacy Diploma__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 12-17
+TOC Entries Found: 2
+Validation: Valid legacy format (score: 187/399, 1/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - LEARNING AND COMPETENCIES -> Page 12
+  - Mapping of Learning Objectives and Competency Roles to Program     
+            Rotations -> Page 17
+
+================================================================================
+
+--- Page 12 ---
+VIII. LEARNING AND
+COMPETENCIES
+1. Introduction to Learning Outcomes and
+Competency-Based Education
+Training should be guided by well-defined “learning objectives” that are
+driven by targeted “learning outcomes” of a particular program to serve
+specific specialty needs. Learning outcomes are supposed to reflect the
+professional “competencies” and tasks that are aimed to be “entrusted” to
+trainees upon graduation. This will ensure that graduates meet the
+their particular specialty. Competency-based education (CBE) is an
+approach of “adult-learning” that is based on achieving pre-defined, fine-
+grained, and well-paced learning objectives that arise from complex
+professional competencies.
+Professional competencies related to healthcare are usually complex and
+contain a mixture of multiple learning domains (knowledge, skills, and
+attitudes). CBE is expected to change the traditional method of post-
+graduate education. For instance, time in training, although a precious
+resource, should not be looked at as a proxy for competence (e.g., time of
+achievement). Furthermore, CBE emphasizes the critical role of informed
+judgment of learners’ competency progress, which is based on a staged
+and formative assessment that is driven by multiple workplace-based
+observations. Several CBE models have been developed for post-graduate
+education in healthcare; for example, CBE by the American Society of
+Health System Pharmacists (ASHP). The following are concepts to enhance
+the implementation of CBE in this curriculum:
+
+--- Page 13 ---
+ Competency: Competency is a cognitive construct that assesses the
+standard of the profession.
+ Milestones: Milestones are stages along the developmental journey
+throughout the competency continuum. Trainees throughout their
+learning journey, from junior to senior levels, will be assisted in
+transforming from being novice/supervised to master/unsupervised
+practitioners. This should not undermine the role of
+supervisory/regulatory bodies in assessing the malpractice of
+independent practitioners. Milestones are expected to enhance the
+learning process by pacing training/assessment to match the
+developmental level of trainees (junior vs. senior).
+ Learning Domains: Whenever possible, efforts should be directed to
+(K=Knowledge, S=Skills, and A=Attitude). There may be more than one
+annotation for a given learning outcome.
+ Content-area Categorization: It is advisable to categorize learning
+outcomes in broad content areas related to the practice of profession.
+For example, diagnostic vs. therapeutic, simple vs. complex, urgent vs.
+chronic, etc.
+Trainees are expected to progress from the novice to the master level in a
+certain set of professional competencies. This curriculum applies the
+principles of competency-based medical education.
+2. Program Duration
+Two years
+3. Program Rotations
+The first year of the program consists of the following nine core rotations,
+each lasting five weeks. See Appendix A for further description of each
+rotation.
+ Ambulatory care rotation
+ Inpatient care rotation I
+ Inpatient care rotation II
+ Sterile preparation rotation
+
+--- Page 14 ---
+ Administration rotation
+ Medication safety/ automation and informatics rotation
+ Drug information rotation
+ Clinical rotations:
+o Introduction to clinical rotation
+o Internal medicine rotation
+The second year of the program consists of nine clinical rotations: six core
+and three elective rotations, each lasting five weeks. For more information,
+see the second-year rotations section.
+ Core rotations:
+Residents are expected to complete six rotations from the following
+rotations, and the resident can repeat any of the core rotations as an
+elective only once.
+o Adult critical care rotation
+o Cardiology rotation
+o Infectious disease rotation
+o Internal medicine rotation
+ Elective rotations:
+The resident can select three elective rotations from the following
+rotations upon approval of the residency program director:
+o Ambulatory care rotation
+o Emergency medicine rotation
+o General pediatrics rotation
+o Hematology rotation
+o Nephrology rotation
+o Oncology rotation
+o Pain management rotation
+o Pediatric critical care rotation
+o Pediatric oncology rotation
+o Solid organ transplant rotation
+o Surgery rotation
+o Parenteral nutrition rotation
+
+--- Page 15 ---
+1. Longitudinal experiences:
+Residents must participate in the following longitudinal learning
+experiences:
+a. Research project:
+ The research project must be completed by the end of the second year.
+ The completion of the research project is a mandatory requirement to
+sit for the second-year exam and for graduation from the residency
+program.
+ Important notes:
+o Submitting the proposal in first year:
+ Submission of the research project proposal is a requirement for the
+resident to be enrolled in the first-year exam.
+o Submitting the abstract and evaluation of the research project in
+the second year:
+ The completed research must be submitted as an abstract to the
+residency central committee before the end of August of the second year
+for evaluation and scoring.
+ The resident’s research project shall be evaluated by the assigned group
+panel according to the research project assessment form.
+ The research project score is a part of the formative assessment tool. Any
+grade for the research project.
+o Presentation in “Residents’ Research Day”:
+ The research project must be presented in “Residents’ Research Day” at
+the end of the second year, along with the results and conclusions of the
+project. Any resident who fails to present his/her research project
+without a valid excuse will not be awarded the graduation certificate.
+ The project presentation will be a 10–15 minute oral presentation.
+ The resident’s research project shall be evaluated by the assigned group
+panel according to the research project presentation evaluation form (see
+Appendix B: Research project forms) with the option of choosing the best
+project(s) of the year.
+o Presentation of the interim or final results at a professional
+meeting is strongly encouraged.
+ General guidance for research projects:
+o Generating research ideas:
+
+--- Page 16 ---
+ Upon starting the residency program, the resident, along with his or her
+residency training committee (RTC), will select the research project topic
+for research and be assigned a research advisor.
+ Attendance of a workshop on research design and methodology arranged
+compulsory for all residents.
+ It is the responsibility of each site’s RTC to approve the research project
+topic and to supervise, along with the research mentor, the resident
+during the project proposal writing.
+ It is the responsibility of the resident, with the help of the RTC, to obtain
+the approval of the project's site institutional review board (IRB) if
+required.
+o Developing a timeline for the completion of the research project
+o Writing the proposal:
+ All residents should follow the research project proposal format and
+writing guidelines.
+ The RTC is responsible for reviewing proposed research projects for
+the RTC. Criteria may include, but are not necessarily limited to, the
+following:
+- Scientific merit, including assessment of specific objectives,
+experimental design and techniques, and likelihood of success
+- Relevance/significance, including potential benefits
+- Availability of resources to complete the project
+- Ability (knowledge, experience, equipment, and facilities) of the
+- Appropriateness to a center's focus or emphasis
+- Continuing projects — evidence of productive progress
+o Date collection and analysis of results:
+ It is highly recommended (whenever possible) that the resident starts
+working on the data collection portion of the project in the first year.
+ The RTC should follow up and advise the resident during the data
+collection phase and analyze the results.
+
+--- Page 17 ---
+4. Mapping of Learning Objectives and
+Competency Roles to Program Rotations
+This section aims to match the competencies, goals, and objectives related
+to each rotation. Trainees and trainers should work together to achieve
+these objectives during teaching and formative assessments. Expectations
+should evolve as the training level progresses (training stage, milestones).
+See Appendix A for descriptions of each rotation.

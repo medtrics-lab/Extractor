@@ -1,0 +1,215 @@
+Document: 58. __Pediatric Hematology and Oncology fellowship__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 14-17
+Candidates Found: 34
+Validation: Valid CanMEDS without levels (score: 173/268, 3/7 roles)
+================================================================================
+
+--- Page 14 ---
+CanMEDS competencies relevant to Pediatric Hematology/Oncology.
+• Identify and appropriately respond to relevant ethical issues arising in patient care and
+medical decision-making.
+• Demonstrate the ability to prioritize professional duties when faced with multiple patients and
+problems.
+• Demonstrate compassionate and patient-centred care.
+• Recognize and respond to the ethical dimensions in medical decision-making .
+• Demonstrate medical expertise in situations other than patient care, such as providing expert
+legal testimony or advising governments, as needed.
+2) Establish and maintain clinical knowledge, skills and attitudes appropriate to Pediatric
+Hematology/Oncology
+• Apply knowledge of the clinical, socio-behavioural, and fundamental biomedical sciences
+relevant to Pediatric Hematology/Oncology. This includes the knowledge needed to effectively
+and ethically provide medical care for infants, children and adolescents with cancer and non-
+malignant hematologic disorders.
+o Foundational knowledge of the following:
+ Physiological changes in growth and development as they relate to cancer and non-
+malignant hematological disorders in pediatric patients, including but not limited to
+normal values and the maturation of hematopoietic organs and tissues.
+ Pathophysiological processes as they relate to cancer and nonmalignant
+hematological disorders.
+ Psychological processes in pediatric patients with cancer and nonmalignant
+hematological disorders.
+ Cellular and molecular biology, biochemistry, pharmacology and immunology as they
+relate to the understanding of cancer and non-malignant hematologic disorders.
+ General principles of anatomical pathology as they relate to Pediatric
+Hematology/Oncology.
+ Disorders of immune function as related to Pediatric Hematology/Oncology.
+o Expert knowledge in hematopathology and laboratory medicine as it relates to Pediatric
+Hematology/Oncology. This includes but is not limited to knowledge of the appropriate
+indications for, methods of, and limitations of the following:
+ Peripheral blood morphology
+ Bone marrow aspirations and biopsies
+ Cerebral spinal fluid (CSF) assessment
+ Hemostasis and thrombosis evaluation
+ Transfusion medicine
+ Flow cytometry, including but not limited to immunophenotyping
+ Hemoglobinopathy investigations
+ Cytogenetics and molecular diagnostics
+o Foundational knowledge of general principles of diagnostic imaging as they apply to
+Pediatric Hematology/Oncology.
+o Expert knowledge of pediatric cancer, including but not limited to the following:
+ Diagnostic work-up for patient with a potential underlying malignancy
+ Diagnosis and management of pediatric malignancies, including but not limited to:
+ Leukemias and preleukemic disorders
+ Lymphomas
+10 SAUDI BOARD PEDIATRIC HEMATOLOGY AND ONCOLOGY
+
+--- Page 15 ---
+SPECIFIC LEARNING OBJECTIVES
+ Central nervous system (CNS) tumors
+ Retinoblastoma
+ Wilms tumor
+ Neuroblastoma
+ Hepatoblastoma
+ Ewing sarcoma
+ Osteogenic sarcoma
+ Rhabdomyosarcoma
+ Common pediatric oncologic emergencies, including but not limited to:
+ Fever and neutropenia
+ Tumor lysis syndrome
+ Superior mediastinal syndrome
+ Hyperleukocytosis
+ Spinal cord compression
+ Cancer chemotherapy as it applies to pediatric oncology patients, including but not
+limited to mechanisms of action and toxicities related to specific chemotherapy
+agents
+ The role, indications, and complications of surgery as applied to the management of
+infants, children and adolescents with cancer
+ The role, indications, and complications of radiation therapy as applied to the
+management of infants, children and adolescents with cancer
+ The potential genetic implications for patients and families with inherited cancer
+predispositions, and the importance of genetic counseling
+o Expert knowledge of non-malignant hematologic diseases, including but not limited to:
+ Diagnosis and management of pediatric hematological diseases, including but not
+limited to:
+ Disorders of hematopoiesis
+─ Aplastic anemia
+─ Red cell aplasia and polycythemia
+─ Leukopenia and leukocytosis
+─ Amegakaryocytic thrombocytopenia and thrombocytosis
+ Red cell disorders
+─ Hemoglobinopathies
+─ Red cell membrane defects
+─ Red cell enzyme deficiencies
+─ Nutritional anemias
+─ Iron deficiency
+─ Megaloblastic anemia
+─ Dyserythropoiesis
+─ Immune hemolytic anemia
+ White cell disorders
+─ Lymphopenia and lymphocytosis
+─ Neutropenia and neutrophilia
+─ Eosinophilia
+─ Neutrophil function defects
+─ Storage diseases
+ Disorders of hemostasis and thrombosis
+─ Thrombocytopenia and thrombocytosis
+─ Platelet dysfunction
+─ Congenital coagulation disorders
+SAUDI BOARD PEDIATRIC HEMATOLOGY AND ONCOLOGY 11
+
+--- Page 16 ---
+SPECIFIC LEARNING OBJECTIVES
+─ Acquired coagulation disorders
+─ Hypercoagulable states
+─ Disorders of fibrinolysis
+ Perinatal and developmental hematology
+─ Anemia
+─ Neutropenia
+─ Thrombocytopenia
+─ Bleeding diatheses
+─ Leukocytosis
+ Splenomegaly and disorders of splenic function
+ Lymphadenopathy
+ Histiocytic disorders
+─ Langerhans cell histiocytosis
+─ Hemophagocytic lymphohistiocytosis
+ Potential genetic implications for patients and families with inherited hematological
+conditions, and the importance of genetic counseling
+o Expert knowledge of stem cell transplantation as it applies to Pediatric
+Hematology/Oncology, including but not limited to:
+ Basic biology of hematopoiesis and hematopoietic stem cell transplant (HSCT), and
+the immunologic relationships between donor hematopoietic cells and the host.
+ Indications for autologous and allogeneic stem cell transplantation.
+ Basics of the human leukocyte antigen (HLA) system and the principles involved in
+choosing matched and unmatched stem cell donors.
+ Different sources of available stem cells, specifically bone marrow, peripheral blood
+and cord blood, including methods of cryopreservation.
+ Choice and implementation of preparative regimens used in HSCT, including but not
+limited to the use of radiation therapy.
+ Pathogenesis of graft versus host disease (GVHD)
+ Strategies to prevent, diagnose and manage potential complications of HSCT,
+including but not limited to sinusoidal obstructive syndrome (SOS), engraftment
+syndrome, graft rejection and GVHD
+o Expert knowledge of supportive care related to the management of Pediatric
+Hematology/ Oncology patients.
+ Prevention and treatment of infectious complications
+ Prevention and treatment of chemotherapy-related organ dysfunction
+ Management of pain
+ Management of mucositis
+ Nutritional support
+ Management of constipation
+ Anti-emetic therapy
+ Blood product support
+ Care and use of central venous access devices
+ Psychosocial support
+o Expert knowledge of long-term follow-up of patients with Pediatric Hematology/Oncology
+problems for the purposes of:
+ Disease monitoring
+ Detecting late effects of therapy, recognizing the particular risks and needs of infants,
+children and adolescents
+ Promotion and maintenance of a healthy lifestyle
+12 SAUDI BOARD PEDIATRIC HEMATOLOGY AND ONCOLOGY
+
+--- Page 17 ---
+SPECIFIC LEARNING OBJECTIVES
+o Palliative care and pain/symptom management as applied to Pediatric
+Hematology/Oncology.
+ Recognition and assessment of patients in need of pain and symptom management,
+including use of appropriate pain scales.
+ Appropriate use of medications and other therapies to provide complex symptom
+relief for infants, children and adolescents.
+ Recognition and assessment of chronic pain as relevant to Pediatric
+Hematology/Oncology, including but not limited to sickle cell pain, hemarthroses and
+cancer related pain.
+ Community and hospital resources necessary to provide appropriate palliative care
+services.
+ Recognition of the psychosocial needs of the patient and family in the context of
+palliative care and complex pain management.
+• Describe the CanMEDS framework of competencies relevant to Pediatric Hematology/
+Oncology.
+• Apply lifelong learning skills of the Scholar Role to implement a personal program to keep up-
+to-date, and enhance areas of professional competence.
+• Contribute to the enhancement of quality care and patient safety in Pediatric
+Hematology/Oncology, integrating the available best evidence and best practices.
+3) Perform a complete and appropriate assessment of a patient
+• Identify and explore issues to be addressed in a patient encounter effectively, including the
+patient’s context and preferences.
+• Elicit a history that is relevant, concise, and accurate to context and preferences, for the
+purposes of prevention and health promotion, diagnosis and/or management.
+• Perform an efficient physical examination, demonstrating sensitivity to the patient’s needs
+and modifications necessary based on the patient's age, gender, sexual orientation, and
+ethnicity.
+• Select medically appropriate investigative methods in a resource-effective and ethical manner.
+• Demonstrate effective clinical problem solving and judgment to address patient problems,
+including interpreting available data and integrating information to generate differential
+diagnoses and management plans.
+o Pediatric cancer.
+ Plan and coordinate an appropriate diagnostic work-up for any new patient with a
+potential underlying malignancy.
+ Diagnose and manage pediatric malignancies, including but not limited to:
+ Leukemias and preleukemic disorders
+ Lymphomas
+ CNS tumors
+ Retinoblastoma
+ Wilms tumor
+ Neuroblastoma
+ Hepatoblastoma
+ Ewing sarcoma
+ Osteogenic sarcoma
+ Rhabdomyosarcoma
+ Manage a wide variety of pediatric cancer patients receiving medical care, including
+but not limited to those who are receiving chemotherapy, those who are
+experiencing toxicities related to treatment, and those who are acutely ill.
+ Manage pediatric oncologic emergencies, including but not limited to:
+SAUDI BOARD PEDIATRIC HEMATOLOGY AND ONCOLOGY 13

@@ -1,0 +1,29 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 1,
+  "successful_extractions": 1,
+  "extraction_rate": "100.0%",
+  "format_breakdown": {
+    "Unknown": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.0,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {},
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/10_Residency_Programs/126. __Pediatric Diagnostic Radiology__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "FALLBACK",
+      "extraction_successful": true,
+      "quality_score": 50,
+      "validation": "Fallback extraction completed",
+      "content_length": 1755,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/10_Residency_Programs/extraction_results/competencies/126. __Pediatric Diagnostic Radiology___competencies.txt",
+      "failure_reason": null
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+Document: 61. __Pediatric Urology Fellowship__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 30-31
+Candidates Found: 16
+Validation: Valid CanMEDS without levels (score: 258/268, 7/7 roles)
+================================================================================
+
+--- Page 30 ---
+TEACHING AND LEARNING
+Practice-based learning (PBL) objectives
+CanMEDS
+ACTIVITY OBJECTIVES
+COMPETENCIES
+1. Educational Curriculum
+a. Morning  Educate all attending staff, monitor pediatric urology patient care, Leader
+Report (MR) and review management decisions and their outcomes. Medical Expert
+ Develop competence in a short presentation on all admitted Professional
+pediatric urology patients in a scientific and informative fashion. Scholar
+ Develop confidence in presenting long cases in a systematic
+fashion.
+ Generate appropriate differential diagnosis and proper
+management plan.
+b. Morbidity and  Identify areas of improvement for clinicians involved in the case Professional
+Mortality management. Leader
+Report (MMR)  Prevent errors that lead to complications. Medical Experts
+ Modify behavior and judgment based on previous experiences.
+ Identify systems issues that may affect the pediatric urology
+patient care, such as outdated policies and changes in patient
+identification procedures.
+c. Grand  Increase physician’s medical knowledge and skills, and Medical Expert
+Rounds/Guest ultimately, improve patient care. Professional
+Speaker  Understand and apply current practice guidelines in the field of
+Lectures. pediatric urology.
+ Describe the latest advances in the field of pediatric urology and
+research.
+ Identify and explain areas of controversy in the field of pediatric
+urology.
+d. Case  Formulate a list of all problems identified in the history and Medical Expert
+Presentation physical examination. Scholar
+ Develop a proper differential diagnosis for each problem.
+ Formulate a diagnosis/treatment plan for each problem.
+ Present a follow-up patient’s case in a focused, problem-based
+manner that includes pertinent new findings and diagnostic and
+treatment plans.
+ Demonstrate a commitment to improving case presentation skills
+by regularly seeking feedback on presentations.
+ Accurately and objectively record and present data.
+e. Journal Clubs,  Promote continuing professional development. Medical Expert
+Critical  Keeping up-to-date with the literature. Scholar
+Appraisal and  Disseminating information on and build up debate about good Health Advocate
+Evidence Based practice.
+Medicine  Ensuring that professional practice is evidence based.
+ Learning and practicing critical appraisal skills.
+ Providing an enjoyable educational and social occasion.
+f. Joint Specialty  Provide the knowledge, technical skills, and experience necessary Medical Expert
+Meetings. for pediatric urology fellows to interpret and correlate clinical Communicator
+finding and laboratory data, such as radiological imaging with the Collaborator
+pathological changes. Leader
+ Promote effective communication and sharing of expertise with
+peers and colleagues.
+ Promote the development of investigative skills to better
+understand pathologic processes as they apply to both individual
+patients and the general patient population.
+ Promote the acquisition of knowledge, provide experience in
+laboratory direction and management, and encourage fellows to
+assume a leadership role in educating other physicians and allied
+health professionals.
+28 SAUDI FELLOWSHIP PEDIATRIC UROLOGY CURRICULUM
+
+--- Page 31 ---
+TEACHING AND LEARNING
+2. Academic Half Day
+a. Topic Review  Review common emergency and non-emergency situations in Medical Expert
+term of diagnosis and management. Scholar
+b. Urological  Apply knowledge and technique expertise in performing the Medical Expert
+Procedures procedure, interpreting the results and understanding their Professional
+limitations. Collaborator
+ Demonstrate effective, appropriate, and timely performance of
+therapeutic procedures
+ Demonstrate evidence-based physical examination skills that are
+relevant and concise.
+ Learn ultrasound guided procedures
+ For each procedure should master:
+- Indications.
+- Contraindications.
+- Complications and complication rate.
+- Procedural technique.
+- Sterile technique.
+- Consent for that procedure.
+- Be able to demonstrate the procedure on a task trainer.
+- Be familiar with ultrasound technology in general.
+- Reporting of complications.
+c. Approaches to  Demonstrate diagnostic and therapeutic skills. Medical Expert
+Common  Access and apply relevant information to clinical practice. Scholar
+Conditions and  Practice contemporary, evidence-based, and cost-effective Professional
+Symptoms medicine.
+ Avoid unnecessary, harmful investigations, or management.
+d. Clinical Skills  Recognize the many facets of the doctor-patient Medical Expert
+relationship and be able to apply a biopsychosocial Scholar
+model to issues in health and medicine. Communicator
+ Master basic interviewing skills and demonstrate Professional
+competence in some advanced interviewing skills.
+ Master basic skills in physical examination and be able
+to perform and interpret a focused examination.
+ Exhibit professional behaviors including demonstrating
+respect for patients, colleagues, faculty, and others in all
+settings.
+ Prepare the fellow for the clinical exams.
+e. Communication  Recognize the many facets of the doctor-patient Communicator
+Skills relationship and be able to apply a biopsychosocial Profession
+model to issues of health and medicine.
+ Develop patient-centered therapeutic communication
+through shared decision-making and effective dynamic
+interactions with patients, families, caregivers, other
+professionals, and other important individuals.
+ Master skills of basic interviewing and demonstrate
+competence in some advanced interviewing skills.
+ Exhibit professional behavior including demonstrating
+respect for pediatric urology patients, colleagues,
+faculty, and others in all settings.
+f. Medical Ethics  Recognize the humanistic and ethical aspect of the medical Communicator
+career. Medical expert
+ Examine and affirm their personal professional moral Professional
+commitments.
+ Develop a foundation of a philosophical, social, and legal
+knowledge
+ Apply ethical knowledge in clinical care
+g. Data  Describe of the different investigational tools used in pediatric Medical expert
+SAUDI FELLOWSHIP PEDIATRIC UROLOGY CURRICULUM 29

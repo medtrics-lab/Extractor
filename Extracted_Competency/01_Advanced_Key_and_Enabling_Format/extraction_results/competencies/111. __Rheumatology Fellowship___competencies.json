@@ -1,0 +1,12 @@
+{
+  "document": "111. __Rheumatology Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 38,
+    "end": 39
+  },
+  "candidates_found": 64,
+  "validation": "Valid CanMEDS without levels (score: 154/268, 4/7 roles)",
+  "content_length": 5400,
+  "success": true
+}

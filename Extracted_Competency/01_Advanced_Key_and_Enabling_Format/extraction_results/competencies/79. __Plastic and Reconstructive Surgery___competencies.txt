@@ -1,0 +1,90 @@
+Document: 79. __Plastic and Reconstructive Surgery__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 30-31
+Candidates Found: 15
+Validation: Valid CanMEDS without levels (score: 160/268, 2/7 roles)
+================================================================================
+
+--- Page 30 ---
+competency framework
+Goals
+Upon completion of training, a resident is expected to be a competent specialist in plastic surgery,
+capable of assuming a consultant’s role in the specialty. The resident must acquire a working
+knowledge of the theoretical basis of the specialty, including its foundations in the basic medical
+sciences and research.
+Residents must demonstrate the requisite knowledge, skills, and attitudes for effective patient-
+centered care and service to a diverse population. In all aspects of specialist practice, the graduate
+must be able to address issues of gender, sexual orientation, age, culture, ethnicity, and ethics in a
+professional manner.
+Junior Plastic Surgery Resident (R3 and R4)
+The overall objective of this stage is to expose the resident to all fields of plastic surgery. During the
+first 2 years (R3 and R4), the resident will be supervised when performing simple and less complicated
+procedures and allowed to participate in major plastic procedures. The resident will rotate for 3
+rotation blocks in the approved centers of the regional program. The resident can rotate in the same
+center more than once, based on the requirements of the program and the decision of the program
+director.
+The plastic surgery R3 and R4 residents may take calls as senior or junior residents, depending on the
+individual center policy.
+Senior Plastic Surgery Resident (R5 and R6).
+At this stage the resident should acquire the skills and the knowledge to become a competent plastic
+surgeon at the time of graduation.
+The resident rotates for a minimum of 6 blocks rotations in the approved centers of the regional
+program. He/she can however, rotate in the same center more than once based on the requirements
+of the program. Rotations length can be changed to 3 blocks period if the program director sees a
+benefit in that for the resident.
+The resident should also fulfill the role of the chief resident of the division of plastic surgery in any of
+the recognized training hospital for at least 6 blocks prior to graduation.
+Plastic surgery competencies
+At the completion of training, the resident will have acquired the following competencies and will
+function effectively as a:
+SAUDI BOARD PLASTIC SURGERY CURRICULUM 27
+Plastic and Reconstructive Surgery 30
+
+--- Page 31 ---
+COMPETENCIES
+Medical Expert
+Definition
+As Medical Experts, Plastic Surgeons integrate all of the CanMEDS Roles, applying medical knowledge,
+clinical skills, and a professional attitude in their provision of patient-centered care. The Medical Expert
+is the central physician role in the CanMEDS framework.
+Key and Enabling Competencies
+Plastic surgeons are able to:
+1) Function effectively as consultants, integrating all of the CanMEDS roles to provide optimal,
+ethical, and patient-centered medical care
+ Perform a consultation effectively, including the presentation of well-documented
+assessments and recommendations in written and/or verbal form in response to a
+request from another health care professional, including recognition, diagnosis,
+management, and appropriate counseling
+ Demonstrate effective use of all CanMEDS competencies relevant to plastic surgery
+Apply knowledge of all forms of acute and chronic wounds and reconstructive defects
+in all areas of the body
+Respond appropriately to emergency situations
+Manage the perioperative and postoperative care of a patient
+Manage a patient’s progress through the complexities of the health care system
+ Identify and appropriately respond to relevant ethical issues arising in patient care
+ Prioritize professional duties when faced with multiple patients and problems
+ Demonstrate compassionate and patient-centered care
+ Recognize and respond to the ethical dimensions of medical decision-making
+ Demonstrate medical expertise in situations other than patient care, including but not
+limited to providing expert legal testimony or advising governments, as needed.
+2) Establish and maintain clinical knowledge, skills, and attitudes appropriate to their practice
+ Apply knowledge of the clinical, socio-behavioral, and fundamental biomedical sciences
+relevant to plastic surgery. The resident will demonstrate knowledge of:
+PRINCIPLES OF PLASTIC SURGERY
+Advanced principles of wound healing
+Advanced principles of wound care
+Advanced principles of wound closure
+Skin grafting
+Tissue grafting, including but not limited to cartilage, bone, fat, tendon, nerve,
+muscle, fascia, and blood vessels
+Skin flaps
+Muscle flaps and composite flaps
+Transplant biology
+Tissue expansion
+Microsurgery
+Energy sources used in plastic surgery, including but not limited to:
+ Electrocautery
+ Lasers
+ Ultrasound
+28 SAUDI BOARD PLASTIC SURGERY CURRICULUM
+Plastic and Reconstructive Surgery 31

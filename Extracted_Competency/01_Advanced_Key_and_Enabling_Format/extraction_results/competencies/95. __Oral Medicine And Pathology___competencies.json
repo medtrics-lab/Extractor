@@ -1,0 +1,12 @@
+{
+  "document": "95. __Oral Medicine And Pathology__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 17,
+    "end": 18
+  },
+  "candidates_found": 24,
+  "validation": "Valid CanMEDS without levels (score: 184/268, 5/7 roles)",
+  "content_length": 4929,
+  "success": true
+}

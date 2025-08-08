@@ -1,0 +1,20 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 23,
+  "successful_extractions": 2,
+  "extraction_rate": "8.7%",
+  "format_breakdown": {
+    "Unknown": {
+      "total": 21,
+      "successful": 0,
+      "avg_confidence": 0.0,
+      "success_rate": 0.0
+    },
+    "Advanced Key & Enabling": {
+      "total": 2,
+      "successful": 2,
+      "avg_confidence": 0.5272727272727272,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {

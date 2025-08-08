@@ -1,0 +1,12 @@
+{
+  "document": "22. __Advanced Nursing in Neonatal Intensive Care Diploma__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 38,
+    "end": 40
+  },
+  "candidates_found": 1,
+  "validation": "Valid CanMEDS without levels (score: 131/268, 2/7 roles)",
+  "content_length": 5361,
+  "success": true
+}

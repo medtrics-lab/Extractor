@@ -1,0 +1,82 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 3,
+  "successful_extractions": 2,
+  "extraction_rate": "66.7%",
+  "format_breakdown": {
+    "Legacy Dotted TOC": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.6666666666666666,
+      "success_rate": 100.0
+    },
+    "Unknown": {
+      "total": 1,
+      "successful": 0,
+      "avg_confidence": 0.0,
+      "success_rate": 0.0
+    },
+    "Advanced Key & Enabling": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.375,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {
+    "Legacy Dotted TOC": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.6666666666666666
+      ]
+    },
+    "Advanced Key & Enabling": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 150.0,
+      "format_detection_accuracy": [
+        0.375
+      ]
+    }
+  },
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/09_Board_Certifications/11. __Hematopathology Board__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.67",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 223/399, 2/7 roles)",
+      "content_length": 12493,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/09_Board_Certifications/extraction_results/competencies/11. __Hematopathology Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/09_Board_Certifications/124. __Endodontics Board__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'NoneType' object has no attribute 'get'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'NoneType' object has no attribute 'get'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/09_Board_Certifications/122. __Family Medicine Board__.pdf",
+      "detected_format": "Advanced Key & Enabling",
+      "format_confidence": "0.38",
+      "extractor_used": "Advanced Key & Enabling",
+      "extraction_successful": true,
+      "quality_score": 150,
+      "validation": "Good Key & Enabling format (score: 116/150, 7/7 roles)",
+      "content_length": 28661,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/09_Board_Certifications/extraction_results/competencies/122. __Family Medicine Board___competencies.txt",
+      "failure_reason": null
+    }
+  ]
+}

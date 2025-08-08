@@ -1,0 +1,278 @@
+Document: 11. __Hematopathology Board__.pdf
+Extraction Method: Improved Legacy Dotted TOC Detection
+Pages Extracted: 15-24
+TOC Entries Found: 3
+Validation: Valid legacy format (score: 223/399, 2/7 roles)
+================================================================================
+
+TOC ENTRIES USED:
+  - LEARNING AND COMPETENCIES -> Page 15
+  - Mapping of Learning Objectives and Competency Roles to Program  
+               Rotations -> Page 24
+  - B Mapping of learning objectives and competency roles to program      
+            rotations -> Page 75
+
+================================================================================
+
+--- Page 15 ---
+VIII. LEARNING AND
+COMPETENCIES
+1. Introduction to Learning Outcomes and
+Competency-Based Education
+Upon completion of training, residents must have acquired the following
+competencies of the CANMEDS roles:
+• Ability to demonstrate competence in the practice of hematopathology
+• Ability to recognize and illustrate how to perform research
+• Ability to acquire information about technology and new developments in
+• Ability to identify the value of professionalism in dealing with colleagues,
+medical staff, and patients
+The hematopathology residency program is designed to produce medical
+physicians with the skills needed to diagnose various malignant and non-
+of a medical laboratory. To this end, administration skills are covered
+during the training. Candidates must demonstrate knowledge of research
+training period. The curriculum will be covered during four years of
+rotations. The following are the fundamental learning objectives:
+4. Remembering and recalling information related to recognizing, listing,
+describing, retrieving, and classifying data related to hematological
+
+--- Page 16 ---
+5. Explaining the basic concepts and principles of the diagnostic criteria
+for the classification scheme of hematologic disorders/neoplasms
+6. Applying and utilizing information to formulate differential diagnoses of
+morphology, clinical data, and relevant phenotypic/genotypic ancillary
+7. Analyzing and assessing detailed morphologic evaluations and
+interpretations of peripheral blood smears, bodily fluid preparations
+and bone marrow aspirate, and biopsy and lymph node sections
+8. Evaluating situations critically and using good judgment and sound
+9. Creating and generating new ideas, products, and ways of planning;
+designing policies; and developing skills in both the areas of routine
+In addition to the six fundamental learning objectives, trainees must acquire
+the following program-specific competencies:
+10. Ability to understand workups of patients with anemia and utilize this
+11. Ability to provide interpretation and diagnosis for the
+immunophenotypic analysis of hematolymphoid malignancies, including
+immunohistochemistry technology, flow cytometry, and cytochemistry;
+12. Ability to recognize molecular diagnostic applications and the
+interpretation of hematologic lesions, including PCR, in-situ
+hybridization, conventional cytogenetics procedures, and fluorescent in-
+situ hybridization (FISH)
+
+--- Page 17 ---
+13. Ability to explain the use of molecular assays in the diagnosis of
+14. Ability to compare and correlate data with histologic findings; ability to
+15. Ability to understand the principles of normal hemostasis and
+with coagulopathies, including appropriate specimen collection and
+16. Ability to develop and obtain proficiency/familiarity in interpretation
+regarding various coagulation procedures, including prothrombin time,
+activated partial thromboplastin time, thrombin time, fibrinogen
+determination, coagulation factor assays, coagulation factor inhibitor
+studies, fibrin-fibrinogen degradation product determination, bleeding
+time, platelet aggregation studies, special molecular assays, etc.
+17. Ability to utilize this information in proposing laboratory test selection
+18. Ability to provide management/triage decisions regarding lymph node
+and/or extra nodal biopsies for possible use in ancillary studies,
+including flow cytometry, cytogenetics, paraffin
+immunohistochemistry, molecular/genotypic analysis, and/or tissue
+19. Ability to write concise, informative, and comprehensive reports on
+specimens submitted for examination; ability to employ
+communication/liaison skills when discussing pertinent findings with
+submitting physicians, pathologists, and laboratory staff and serve as
+20. Ability to appraise the current literature and information in the field of
+21. Ability to analyze issues of quality assurance and lab administration
+
+--- Page 18 ---
+participating in quality control procedures, automation/instrument
+operation, LIS, and lab management
+22. Ability to demonstrate competence in the use of microscopic
+photography, including digital imaging technology, through active
+participation and presentation in conferences; ability to recognize one’s
+23. Ability to carry out and engage in blood bank donor services activities
+including recruitment, collection, donor testing, production, and
+processing and engage with patient transfusion services, including
+immune-hematologic testing, red cell genotyping, and compatibility
+24. Ability to recognize the role of cellular therapy activities such as stem-
+25. Ability to recognize the role of clinical hematology services in both
+26. Ability to carry out and participate in research and demonstrate
+competencies in writing research proposals, data collection, analysis,
+27. Ability to demonstrate knowledge of the normal morphology of
+28. Ability to demonstrate knowledge of the normal histological structure of
+the tissues involved in hematopoiesis (bone marrow, lymph nodes,
+spleen, and thymus)
+29. Ability to develop and demonstrate an understanding of all kinds of
+sample processing activities, from receiving to reporting
+30. Ability to interpret the data obtained from blood smears, bone marrow
+biopsies, hemoglobin/protein electrophoresis, and platelet function
+31. Ability to adopt a leadership and mentorship role in relation to junior
+
+--- Page 19 ---
+32. Ability to demonstrate comprehensive knowledge and practical
+experience in HLA typing
+33. Ability to illustrate blood components and plasma protein products with
+34. Ability to explain the basic principles of apheresis and clinical
+35. Ability to assess adverse reactions to blood products and their use in
+2. Program Duration
+The Executive Council of Training and Education requires that four years of
+training be completed, as was outlined by the decree of the
+hematopathology residency program.
+3. Program Rotation
+1- Introduction:
+This is a structured, four-year postgraduate residency training program in
+SB-HEMPATH. It is divided into two parts:
+A. Junior residency (the first two years) and
+B. Senior residency (the final two years).
+The junior years (R1 and R2) are designed to provide training in basic
+pathology and general hematopathology, together with rotations in a special
+hematology laboratory, flow cytometry, and cytogenetics. The senior
+residency years (R3 and R4) are designed to provide advanced training in
+the morphology of blood, bone marrow, and lymph nodes with exposure to
+transfusion medicine (blood banks), molecular genetic pathology, and
+clinical hematology. Additionally, trainees are given the opportunity to
+their training.
+
+--- Page 20 ---
+• Residents are expected to do two blocks of four weeks each as elective
+rotations in their area of interest in the final two years of their training.
+• The sequence of the rotations is organized by the regional training
+committee.
+• Each resident must examine and assess at least 3,000 hematological
+cases exhibiting an adequate level of diversity (bone marrow 500, lymph
+node 50, blood film morphology and bodily fluids 1,000, special
+coagulation 400, hemoglobin electrophoresis 400, serum protein
+electrophoresis 50, flow cytometry 400, procedure for therapeutic
+plasma pheresis and platelet and other cellular collections 10 and 20
+respectively, molecular and cytogenetics 200). This requirement ensures
+conditions besides sharpening their critical diagnostic skills.
+• Each resident must participate in at least 10 bone marrow
+aspirate/biopsy procedures during the senior years.
+• Each resident must participate in at least two research activities, one as
+the first author and the other as a coauthor.
+• Residents should be involved in on-call coverage during weekdays and
+weekends beginning in the first year of training.
+• After successful completion of all program requirements throughout the
+four-year training period and after obtaining a final in-training evaluation
+report (FITER), the candidate will receive a training completion
+certificate.
+• Candidates who successfully complete the final certification examination
+will be awarded a SB-HEMPATH certificate by the Saudi board.
+2- Program rotation overview:
+1. Bone marrow morphology (42 weeks over 4 blocks)
+2. Peripheral blood and bodily fluid morphology (42 weeks over 4 blocks)
+3. Blood banking and transfusion medicine (26 weeks over 4 blocks)
+4. Clinical inpatient and outpatient settings (12 weeks)
+5. Hemoglobinopathy and protein electrophoresis (8 weeks over 2 blocks)
+
+--- Page 21 ---
+6. Coagulation testing and reporting (8 weeks over 2 blocks)
+7. Lymph node morphology (8 weeks over 2 blocks)
+8. Molecular, cytogenetics, and flow cytometry (12 weeks over 3 blocks)
+9. Elective rotations (8 weeks over two blocks)
+10. Quality control and laboratory administration (4 weeks)
+Table 1: Hematopathology Residency Rotations # (Blocks)
+R1 Rotation Period R2 Rotation Period R3 Rotation Period R4 Rotation Period
+Introduction 4 PBM and 10 BM 10 weeks Transfusion 10
+to weeks bodily fluid weeks morphology medicine- weeks
+laboratory morpholog service-3rd 3rd rotation
+medicine y service- rotation
+2nd rotation
+Basic 8 Flow - 4 weeks Adult clinical 12 weeks Elective 2 4
+/morpholog and pediatric
+Introduction 4 BM 10 Elective 1 4 weeks Lymph node 4
+anatomical y service- -2nd rotation
+pathology 2nd rotation
+Basic blood 4 Cytogenetic 4 weeks Molecular 4 weeks PBM and 10
+bank and weeks s* genetics bodily fluid weeks
+manageme services-4th
+Basic 4 Electropho 6 weeks Special 4 weeks BM 12
+coagulation weeks resis coagulation- morphology weeks
+serum/he 1st rotation services-4th
+reporting-
+1st rotation
+
+--- Page 22 ---
+PBM and 12 Transfusio 10 PBM and 10 weeks Special 4
+bodily fluid weeks n weeks bodily fluid coagulation- weeks
+morphology medicine- morphology 2nd rotation
+services-1st 1st rotation service-3rd and lab
+BM 12 Lymph 4 weeks Transfusion 4 weeks Electrophor 4
+morphology weeks node medicine-2nd esis weeks
+services-1st morpholog rotation serum/hem
+rotation y-1st oglobin
+rotation reporting-
+2nd rotation
+Total weeks 48 48 48 48
+Leaves 4 weeks each year
+# Each rotation depends on feasibility and program director approval; the rotations listed are not
+necessarily to be completed in a sequential fashion.
+
+--- Page 23 ---
+Mandatory core rotations* Elective rotations** Selective rotations***
+Trai
+Rotat
+ning Rotati
+Durati ion Duratio Setti Dura Setti
+Year Rotation name Setting on
+1-Introduction to laboratory
+2-Introduction to anatomical
+3- Basic hematology and Lab
+morphology Lab and and
+R1 4-Basic coagulation blood NO bloo No
+5- Lab quality management bank d
+6- Basic blood bank principles bank
+7- PBM and body fluid morphology
+8- PBM and bodily fluid morphology
+1-PBMand body fluid morphology
+2- Flow cytometry
+4 Lab
+3- BM morphology services
+10 Lab and and
+4- Cytogenetics
+R2 6 blood NO bloo No
+5- Hemoglobinopathy laboratory
+4 bank d
+6- Electrophoresis reporting
+10 bank
+serum/hemoglobin-1st rotation
+7- Transfusion medicine I
+8- Lymph node morphology
+1-BM morphology services
+2- Clinical hematology
+3- Elective Lab/
+4- Molecular genetics bloo •
+5- Special coagulation laboratory • 4 d •
+R3 4 YES
+6- Special coagulation reporting weeks bank •
+7-PBM and bodily fluid /clin
+8 Transfusion medicine-2nd
+
+--- Page 24 ---
+1-Transfusion medicine II
+Lab/
+2- Elective 10
+3- Lymph node morphology 4 YES
+d •
+4- PBM and bodily fluid 4
+• L 4 bank •
+R4 morphology services 10 •
+weeks / •
+5- Special coagulation reporting 4 •
+6- BM morphology services 12
+7- Lab administration 4
+8 - Hemoglobinopathy reporting
+4. Mapping of Learning Objectives and Competency
+Roles to Program Rotations
+Refer to Appendix B
+Rotation Descriptions and Objectives:
+1) Introduction to laboratory medicine (over 4 weeks):
+The field of laboratory medicine in general and hematopathology
+specifically is not well-known, and medical students usually do not possess
+working in this field. The first rotation is intended to expose residents to the
+various sections and functions of laboratory medicine, including the
+following:
+a- Blood collection using various tubes and sample transportation and
+processing methods at various laboratories.
+b- Core laboratory skills with exposure to clinical biochemistry, serology
+(both infectious and immune), and routine and special microbiology.
+Competencies:
+1.1 Understand sample-collection techniques
+1.2 Differentiate between the types of blood-collection tubes
+1.3 Identify problems with the collection, transportation, and processing

@@ -1,0 +1,312 @@
+Document: 89. __Pediatric Allergy And Immunology__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 21-26
+Candidates Found: 24
+Validation: Valid CanMEDS without levels (score: 233/268, 6/7 roles)
+================================================================================
+
+--- Page 21 ---
+OUTCOMES AND COMPETENCIES
+2.2. Apply lifelong learning skills of the scholar role to keep up-to-date and enhance areas
+of professional competence
+2.3. Contribute to the enhancement of quality care and patient safety in clinical immunology
+and allergy, integrating the best available evidence and practice
+3. Perform a complete and appropriate assessment of a clinical immunology and allergy patient
+3.1. Identify and explore issues to be addressed in a patient encounter effectively, including
+patients’ context and preferences
+3.2. Conduct a history that is relevant, concise, clear, and accurate to context and
+preferences (including, but not limited to, potential allergic and non-allergic triggers and
+environmental/workplace history)
+3.3. Perform a relevant and accurate focused physical examination for the purposes of
+prevention and health promotion, diagnosis and/or management
+3.4. Select medically appropriate investigative methods in a resource-effective and ethical
+manner
+3.5. Demonstrate effective clinical problem-solving skills including appropriate interpretation
+of available data.
+4. Use preventive and therapeutic interventions effectively
+4.1. Implement a management plan in collaboration with patient and their families
+4.2. Develop an appropriate plan for investigation and management of a child or adult with
+an allergic, autoimmune, and immunodeficiency disease.
+4.3. Demonstrate appropriate and timely application of preventive and therapeutic
+interventions relevant to clinical immunology and allergy
+4.3.1. Environmental control of the home and workplace
+4.3.2. Disease specific action plan (including, but not limited, to asthma and anaphylaxis)
+4.3.3. Education regarding the appropriate use of allergic disease specific devices
+(including, but not limited, to auto injectors and inhalers)
+4.3.4. Immunomodulatory therapy (including anti IgE)
+4.3.5. Immunoglobulin replacement therapy
+4.4. Demonstrate how appropriate informed consent is obtained for therapies
+5. Demonstrate proficient and appropriate use of procedural skills, both diagnostic and
+therapeutic
+5.1. Demonstrate effective, appropriate, and timely performance of diagnostic procedures
+relevant to clinical immunology and allergy, including the following:
+5.1.1. Epicutaneous and intradermal allergy tests
+5.1.2. Patch testing
+5.1.3. Allergen immunotherapy
+5.1.4. Food challenge
+5.1.5. Medication challenge/desensitization
+5.1.6. Inhalant immunotherapy
+5.1.7. Venom immunotherapy
+5.2. Obtain appropriate informed consent for procedures where applicable
+5.3. Document and disseminate information related to procedures performed and their
+outcomes
+5.4. Arrange adequate follow-up where appropriate for procedures performed
+6. Recognize the limits of their own expertise and seek appropriate consultation from other
+health professionals
+6.1. Demonstrate effective, appropriate, and timely consultation of another health
+professional as needed for optimal patient care
+6.2. Arrange appropriate follow-up care services for a patient and their family
+PEDIATRIC ALLERGY AND IMMUNOLOGY 17
+
+--- Page 22 ---
+OUTCOMES AND COMPETENCIES
+Communicator
+Definition: As communicators, clinical immunologists and allergists effectively facilitate the
+doctor-patient relationship and the dynamic exchanges that occur before, during, and after the
+medical encounter.
+Key and enabling competencies: clinical immunologists and allergists can…
+1. Develop rapport, trust, and ethical therapeutic relationships with patients and families
+1.1. Recognize that being an effective communicator is a core clinical skill for physicians,
+and that effective physician-patient communication can foster patient and physician
+satisfaction, adherence and improved clinical outcomes
+1.2. Establish positive therapeutic relationships with patients and their families that are
+characterized by understanding, trust, respect, honesty, and empathy
+1.3. Respect patient confidentiality, privacy, and autonomy
+1.4. Listen effectively
+1.5. Be aware of and respond appropriately to nonverbal cues
+1.6. Facilitate an effective structured clinical encounter
+2. Accurately elicit and synthesize relevant information and perspectives of patients and
+families, colleagues, and other professionals
+2.1. Gather information about a disease and about a patient’s beliefs, concerns,
+expectations and illness experience
+2.2. Seek out and synthesize relevant information from other sources where appropriate,
+such as a patient’s family, caregivers and other professionals
+3. Convey relevant information and explanations accurately to patients and families, colleagues,
+and other professionals
+3.1. Deliver information to a patient and family, colleagues, and other professionals in a
+humane manner and in such a way that it is understandable, encourages discussion and
+participation in decision-making
+4. Develop a common understanding on issues, problems and plans with patients, families, and
+other professionals to develop a shared plan of care
+4.1. Identify and explore problems to be addressed from a patient encounter effectively,
+including the patient’s context, responses, concerns, and preferences
+4.2. Respect diversity and difference, including but not limited to the impact of sex, religion,
+age, culture, and ethnicity on decision-making
+4.2.1. Give appropriate advice (including but not limited to allergen avoidance and
+pharmacologic/immunologic treatment), which includes consideration of patients’ sex,
+religion, age, culture, and ethnicity
+4.3. Encourage discussion, questions, and interaction in the encounter
+4.4. Engage patients, families, and relevant health professionals in shared decision making
+to develop a plan of care
+4.5. Address challenging communication issues effectively, such as obtaining informed
+consent, delivering bad news, and addressing anger, confusion, and misunderstanding
+4.5.1. Demonstrate skills in working with others who present significant communication
+challenges such as anger or confusion, or an ethno-cultural background different from
+the physician’s own
+5. Convey effective oral and written information about a medical encounter
+5.1. Maintain clear, accurate, and appropriate records (written or electronic) of clinical
+encounters and plans
+5.2. Present verbal reports of clinical encounters and plans
+5.3. Complete patient instruction forms (including an asthma action plan) as applicable
+5.4. Present medical information effectively to the public or media about a medical issue
+18 PEDIATRIC ALLERGY AND IMMUNOLOGY
+
+--- Page 23 ---
+OUTCOMES AND COMPETENCIES
+Collaborator
+Definition: As collaborators, clinical immunologists and allergists effectively work within a
+healthcare team to achieve optimal patient care.
+Key and enabling competencies: clinical immunologists and allergists can…
+1. Participate effectively and appropriately in an interprofessional healthcare team
+1.1. Describe the clinical immunology and allergy subspecialist’s roles and responsibilities
+to other professionals
+1.2. Describe the roles and responsibilities of other professionals within the healthcare
+team, including allergy clinic nurses, infusionists, asthma educators, dieticians,
+pharmacists, school personnel, and workplace safety insurance boards
+1.3. Recognize and respect the diversity of roles, responsibilities, and competencies of
+other professionals in relation to their own
+1.4. Work with others to assess, plan, provide and integrate care for individual patients (or
+groups of patients)
+1.5. Work with others to assess, plan, provide and review other tasks, such as research
+problems, educational work, program review or administrative responsibilities
+1.6. Participate in inter-professional team meetings
+1.7. Enter relationships with other professions for the provision of quality care
+1.8. Describe the principles of team dynamics
+1.9. Respect team ethics, including confidentiality, resource allocation, and professionalism
+1.10. Demonstrate leadership in a healthcare team, as appropriate
+2. Work with other health professionals effectively to prevent, negotiate, and resolve
+interprofessional conflict
+2.1. Demonstrate a respectful attitude towards other colleagues and members of an
+interprofessional team
+2.2. Work with other professionals to prevent conflicts
+2.3. Employ collaborative negotiation to resolve conflicts
+2.4. Respect differences and address misunderstandings and limitations in other
+professionals
+2.5. Recognize one’s own differences, misunderstanding and limitations that may
+contribute to interprofessional tension
+2.6. Reflect on interprofessional team function
+Leader
+Definition: As a leader, clinical immunologists and allergists are integral participants in
+healthcare organizations, organizing sustainable practices, making decisions about allocating
+resources, and contributing to the effectiveness of the healthcare system.
+Key and enabling competencies: clinical immunologists and allergists can…
+1. Participate in activities that contribute to the effectiveness of their healthcare organizations
+and systems
+1.1. Work collaboratively with others in their organizations
+1.2. Participate in systemic quality evaluation and improvement, such as patient safety
+initiatives, quality improvement and risk management
+1.3. Describe the structure and function of the healthcare system as it relates to clinical
+immunology and allergy, including the roles of physicians
+1.4. Describe principles of healthcare financing, including physician remuneration,
+budgeting, and organizational funding
+PEDIATRIC ALLERGY AND IMMUNOLOGY 19
+
+--- Page 24 ---
+OUTCOMES AND COMPETENCIES
+2. Manage their practice and career effectively
+2.1. Set priorities and manage time to balance patient care, practice requirements, outside
+activities and personal life
+2.2. Manage a practice including finances and human resources
+2.3. Implement processes to ensure personal practice improvement
+2.4. Employ information technology appropriately for patient care
+3. Allocate finite healthcare resources appropriately
+3.1. Recognize the importance of just allocation of healthcare resources, balancing
+effectiveness, efficiency, and access with optimal patient care
+3.2. Apply evidence and management processes for cost-appropriate care
+4. Serve in administration and leadership roles, as appropriate
+4.1. Chair or participate effectively in committees and meetings
+4.2. Lead or implement change in healthcare
+4.3. Plan relevant elements of healthcare delivery (work schedules)
+Health Advocate
+Definition: As health advocates, clinical immunologists and allergists responsibly use their
+expertise and influence to advance the health and well-being of individual patients,
+communities, and populations.
+Key and enabling competencies: clinical immunologists and allergists can…
+1. Respond to individual patient health needs and issues as part of patient care
+1.1. Identify the health needs of an individual patient
+1.2. Identify opportunities for advocacy, health promotion and disease prevention with
+individuals and their families
+2. Respond to the health needs of the communities that they serve
+2.1. Describe the practice communities that they serve
+2.2. Identify opportunities for advocacy, health promotion and disease prevention in the
+communities that they serve, and respond appropriately
+2.3. Appreciate the possibility of competing interests between the communities served and
+other populations
+3. Identify the determinants of health for the populations that they serve
+3.1. Identify the determinants of health of the populations, including barriers to access to
+care and resources
+3.1.1. Use evidence-based approach to identify determinants of health
+3.2. Identify vulnerable or marginalized populations within those served and respond
+appropriately
+3.2.1. Identify populations at risk for allergic/immunologic diseases and apply current
+evidence on treatment and prevention
+4. Promote the health of individual patients, communities, and populations
+4.1. Describe an approach to implementing a change in a determinant of health of the
+populations they serve
+4.2. Describe how public policy impacts on the health of the populations served
+4.2.1. Describe how public health policy is developed
+4.2.2. Identify how current policies affect patients with allergic and immunologic diseases
+4.2.3. Demonstrate how policies can be changed because of physicians’ actions
+4.3. Identify points of influence in the healthcare system and its structure
+4.3.1. Describe key issues in the Saudi healthcare system
+4.3.2. Describe how healthcare system changes might affect societal health outcomes
+20 PEDIATRIC ALLERGY AND IMMUNOLOGY
+
+--- Page 25 ---
+OUTCOMES AND COMPETENCIES
+4.3.3. Advocate to decrease the burden of illness
+4.3.4. Demonstrate effective use of a relevant specialty society, community-based
+advocacy group, other public education bodies, or private organizations
+4.4. Describe the ethical and professional issues inherent in health advocacy, including
+altruism, social justice, autonomy, integrity, and idealism
+4.5. Appreciate the possibility of conflict inherent in their role as a health advocate for a
+patient or community with that of manager or gatekeeper
+4.6. Describe the role of the medical profession in advocating collectively for health and
+patients’ safety
+Scholar
+Definition: As scholars, clinical immunologists and allergists demonstrate a lifelong
+commitment to reflective learning, as well as the creation, dissemination, application, and
+translation of medical knowledge.
+Key and enabling competencies: clinical immunologists and allergists can…
+1. Maintain and enhance professional activities through ongoing learning
+1.1. Describe the principles of maintenance of competence
+1.2. Describe the principles and strategies for implementing a personal knowledge
+management system
+1.3. Recognize and reflect on learning issues in practice
+1.4. Conduct a personal practice audit
+1.5. Pose an appropriate learning question
+1.6. Access and interpret the relevant evidence
+1.7. Integrate new learning into practice
+1.8. Evaluate the impact of any change in practice
+1.9. Document the learning process
+2. Critically evaluate medical information and its sources, and apply this appropriately to
+practice decisions
+2.1. Describe the principles of critical appraisal
+2.2. Critically appraise retrieved evidence to address a clinical question
+2.3. Integrate critical appraisal conclusions into clinical care
+3. Facilitate the learning of patients, families, students, residents, other health professionals, the
+public, and others, as appropriate
+3.1. Describe principles of learning relevant to medical education
+3.2. Identify collaboratively the learning needs and desired learning outcomes of others
+3.3. Select effective teaching strategies and content to facilitate others’ learning
+3.4. Demonstrate the ability to give an effective lecture or presentation
+3.5. Assess and reflect on a teaching encounter
+3.6. Provide and receive effective feedback
+3.7. Describe the principles of ethics with respect to teaching
+4. Contribute to the development, dissemination, and translation of new knowledge and
+practices
+4.1. Describe the principles of research and scholarly inquiry including:
+4.1.1. Research principles
+4.1.1.1. Test-performance characteristics: principles of sensitivity, specificity,
+predictive value, and randomized controlled trial analyses
+4.1.1.2. Experimental design
+4.1.1.3. Data analysis and biostatistics
+4.1.1.4. Epidemiology
+PEDIATRIC ALLERGY AND IMMUNOLOGY 21
+
+--- Page 26 ---
+OUTCOMES AND COMPETENCIES
+4.1.1.5. Informed consent
+4.1.1.6. Adverse event reporting
+4.2. Research ethics
+4.3. Pose a scholarly question relevant to the specialty of clinical immunology and allergy
+4.4. Conduct a systematic search for evidence
+4.4.1. Develop the skills to store and retrieve relevant literature
+4.5. Select and apply appropriate methods to address the question
+4.6. Disseminate the findings of a study
+Professional
+Definition: As professionals, clinical immunologists and allergists are committed to the health
+and wellbeing of individuals and society through ethical practice, profession-led regulation, and
+high personal standards of behavior.
+Key and enabling competencies: clinical immunologists and Allergists can…
+1. Demonstrate a commitment to their patients, profession, and society through ethical practice
+1.1. Exhibit appropriate professional behaviors in practice, including honesty, integrity,
+commitment, compassion, respect, altruism, punctuality, reliability, conscientiousness, and
+self-awareness
+1.2. Demonstrate a commitment to delivering the highest quality care and maintenance of
+competence
+1.3. Demonstrate a working knowledge of medical ethics, and recognize and appropriately
+respond to ethical issues encountered in practice
+1.4. Identify, declare, and manage conflicts of interest
+1.5. Recognize the principles and limits of patient confidentiality as defined by professional
+practice standards and the law
+1.6. Maintain appropriate relations with patients
+2. Demonstrate a commitment to their patients, profession, and society through participation in
+profession-led regulation
+2.1. Demonstrate knowledge and an understanding of the professional, legal, and ethical
+codes of practice
+2.2. Fulfill the regulatory and legal obligations required of current practice
+2.3. Demonstrate accountability to professional regulatory bodies
+2.4. Recognize and respond to others’ unprofessional behaviors in practice
+2.5. Participate in peer review
+3. Demonstrate a commitment to physician health and sustainable practice
+3.1. Balance personal and professional priorities to ensure personal health and a
+sustainable practice
+3.2. Strive to heighten personal and professional awareness and insight
+3.3. Recognize other professionals in need and respond appropriately 1
+2.5. Continuum of learning
+The following table illustrates the different milestones that should be acquired by the trainee at
+every level of training and those expected to be accomplished by the end of training that will
+qualify the trainee to work as a consultant.
+permission. It was modified for the SaudiMed Framework and local program needs and requirements.
+22 PEDIATRIC ALLERGY AND IMMUNOLOGY

@@ -1,0 +1,109 @@
+Document: 52. __Adults Cardiology Fellowship__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 6-8
+Candidates Found: 29
+Validation: Valid CanMEDS without levels (score: 236/268, 7/7 roles)
+================================================================================
+
+--- Page 6 ---
+TABLE OF CONTENTS
+I. INTRODUCTION 7
+II. PROGRAM STRUCTURE 8
+Admission requirements 8
+General training requirements 8
+Rotations 8
+III. TEACHING AND LEARNING 10
+Learning opportunities in Cardiology 10
+Structure of the training program 11
+Basic sciences 11
+CanMEDS Cardiology competencies 14
+Clinical practice 11
+Medical expert 14
+Communicator 18
+Collaborator 19
+Manager 20
+Health advocate 20
+Scholar 21
+Universal Topics 23
+Professional 22
+Module 1: Introduction (F1) 23
+Module 2: Diabetes and metabolic disorders (F2) 24
+Module 3: Medical and surgical emergencies (F3) 24
+Module 4: Acute care (F3) 24
+Module 5: Frail, elderly persons (F2) 25
+Core specialty topics (Areas of learning & learning objectives) 26
+Module 6: Ethics and healthcare (F1) 26
+Core specialty topics (Knowledge & Skills) 28
+Workshops/Simulations/Interpretation Sessions 47
+Mandatory workshops/Simulations/Interpretation Sessions 47
+Educational activities 48
+Recommended extra workshops/Simulations/Interpretation Sessions 47
+Regular meetings 48
+Half day release course (HDRC) 48
+Work-based learning 51
+IVS.elf-direActSeSdE leSaSrMniEngN (TS DL) 5563
+Assessment Schedule for F1 and F2 levels 56
+Annual assessment 56
+Annual Promotion 57
+ADULT CARDIOLOGY CURRICULUM
+
+--- Page 7 ---
+TABLE OF CONTENTS
+Final Adult Cardiology Fellowship Examination (Saudi Fellowship Examination) 58
+Eligibility 58
+Final Adult Cardiology Fellowship Examination (Saudi Fellowship 58
+Examination) Examination format 58
+Passing score 59
+Exemption 59
+VC.ertificaRtiUonL ES AND REGULATIONS 6509
+VI. APPENDICES 61
+Appendix A 61
+Appendix B 64
+Appendix C 67
+Appendix D 70
+Appendix E 73
+Appendix F 76
+Appendix G 79
+Appendix H 82
+Appendix I 85
+Appendix J 88
+Appendix K 90
+Appendix L 92
+Appendix M 95
+Appendix N 96
+Appendix O 97
+Appendix P 98
+Appendix Q 99
+Appendix R 100
+Appendix S 101
+Appendix T 102
+Appendix U 104
+Appendix V 105
+ADULT CARDIOLOGY CURRICULUM
+
+--- Page 8 ---
+WHAT IS NEW IN THIS VERSION?
+This version of the Adult Cardiology Training Program Curriculum follows the competency-based
+In addition, the following changes have been included in this version:
+• All rotations of the training program, as well as educational activities, are described in a
+competency-based format and describe clear objectives that accord with the CanMEDS
+framework. Specifically, the competencies in question are: adult cardiology expert,
+communicator, collaborator, manager, health advocate, scholar, and professional. This means
+that the range of competencies has been expanded to include a balanced representation of
+knowledge, skills, and professionalism.
+• Changes have been made to the timeframe of rotations: their durations are now represented in
+blocks instead of months.
+• A list of the most important clinical topics and procedures in adult cardiology, as well as universal
+topics, has been added.
+• Core Specialty Topics are described in detail, particularly in the areas of learning & learning
+objectives and knowledge & skills.
+• Workshops/simulation/interpretation sessions have been listed.
+• The methods of assessment for every rotation have been revised and extensively changed. Clearer
+demarcations of expected achievements for each stage of training are defined.
+• In the evaluation process, a higher emphasis is placed on continuous assessment and balanced
+assessment methods, and a portfolio and logbook designed to support learning and individualized
+assessment have also been added.
+• Promotion along with the end-of-year exam and final examination have been revised according
+• Evaluation forms and procedural logbook forms for each rotation have been added.
+• Rules and regulations are referenced to throughout.
+ADULT CARDIOLOGY CURRICULUM

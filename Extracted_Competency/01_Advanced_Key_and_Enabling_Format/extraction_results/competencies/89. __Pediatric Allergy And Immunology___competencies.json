@@ -1,0 +1,12 @@
+{
+  "document": "89. __Pediatric Allergy And Immunology__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 21,
+    "end": 26
+  },
+  "candidates_found": 24,
+  "validation": "Valid CanMEDS without levels (score: 233/268, 6/7 roles)",
+  "content_length": 18211,
+  "success": true
+}

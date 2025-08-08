@@ -1,0 +1,12 @@
+{
+  "document": "114. __Internal Medicine Board__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 105,
+    "end": 110
+  },
+  "candidates_found": 25,
+  "validation": "Valid CanMEDS without levels (score: 263/268, 7/7 roles)",
+  "content_length": 9712,
+  "success": true
+}

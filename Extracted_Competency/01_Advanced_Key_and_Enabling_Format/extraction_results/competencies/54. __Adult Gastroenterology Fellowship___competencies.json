@@ -1,0 +1,12 @@
+{
+  "document": "54. __Adult Gastroenterology Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 10,
+    "end": 11
+  },
+  "candidates_found": 16,
+  "validation": "Valid CanMEDS without levels (score: 175/268, 3/7 roles)",
+  "content_length": 4669,
+  "success": true
+}

@@ -1,0 +1,105 @@
+Document: 22. __Advanced Nursing in Neonatal Intensive Care Diploma__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 38-40
+Candidates Found: 1
+Validation: Valid CanMEDS without levels (score: 131/268, 2/7 roles)
+================================================================================
+
+--- Page 38 ---
+SECOND‐YEAR TRAINING MODULES
+G. System implementation, maintenance, and development.
+H. Data integrity, security, and confidentiality.
+I. Intranet, extranet, and network integration.
+J. Information technology in patient education.
+K. Integrating computers and information technology in nursing education and practice.
+Competences:
+1. Correctly apply information and communication technology in managing patient-related
+data.
+2. Identify models of computerized nursing records and their benefits for patient care.
+3. Differentiate between models of health information management systems.
+4. Assess the impact of the information technology revolution on nursing practice.
+5. Demonstrate ability to access, create, store, and retrieve nursing-related information from
+the World Wide Web.
+6. Able to integrate nursing informatics into areas of nursing administration, education, clinical
+practice, and research.
+7. Implement security regulations to safeguard patients’ and organizations’ data and
+information.
+Module XVI: Nursing Leadership and Management
+Learning Objectives:
+At the end of this module, trainees will be able to:
+1. Analyze the components of organizational structure and culture.
+2. Apply theories of effective leadership and management within selected health care arenas.
+3. Utilize the skills of nursing processes, critical thinking, ethical decision-making,
+communication, and therapeutic nursing intervention in managing culturally competent and
+cost-effective care of client groups across the wellness/illness continuum.
+4. Collaborate with multidisciplinary health care team members in prioritizing and coordinating
+quality/cost effective healthcare.
+5. Demonstrate leadership and management of a care-giving team comprising individuals
+with varied cultural backgrounds and varied levels of clinical knowledge and competencies.
+6. Utilize skills of inquiry and research to enhance one’s knowledge base, facilitate change,
+and improve quality of care.
+7. Demonstrate professional accountability for effective leadership in nursing practice.
+8. Contribute to organizational strategic planning and its implementation at different levels
+within healthcare organizations.
+Content Outlines:
+A. Organizational structure and culture.
+B. Application of leadership and management theories.
+C. Organizational and personal mission, vision, and goals.
+D. Critical thinking, problem solving, and effective decision-making.
+E. Quality and risk management.
+F. Budgeting, cost, care delivery models, and staffing.
+G. Communication, motivation, and team building.
+H. Change and conflict management.
+36 ADVANCED NURSING PRACTICE DIPLOMA
+
+--- Page 39 ---
+SECOND‐YEAR TRAINING MODULES
+I. Role transition and delegation.
+J. Strategic planning and strategic management.
+K. Career planning.
+Competences:
+1. Demonstrate familiarity with the structure and environment of the health care organization
+in which they are trained.
+2. Implement the concepts of leadership and management theories in dealing with patients
+and health care workers.
+3. Apply the principles of quality and risk management to ensure the safety of neonates.
+4. Demonstrate ability to think critically and solve patients’ related conditions and situations by
+making the most appropriate decisions and delegation choices.
+5. Communicate positively with patients’ families and other health care workers.
+6. Demonstrate ability to manage the conflict that might exist in the clinical setting.
+ADVANCED NURSING PRACTICE DIPLOMA 37
+
+--- Page 40 ---
+EVALUATION AND ASSESSMENT
+Overall, the evaluation and assessment of trainees is performed according to the SCFHS
+training and examination rules and regulations. Assessment is divided into two parts:
+a. Formative assessment
+b. Summative assessment
+A. Formative Assessment
+The goal of the formative assessment is to monitor trainees’ learning through continuous
+evaluation and feedback, which can be used by the instructors to improve trainees’ teaching
+and learning. The annual criteria for formative assessment cover the three aspects of learning:
+knowledge, skills, and attitude. Each learning aspect will be measured based on selected
+assessment formats.
+In this program, the following formats7 are selected to measure each domain.
+Learning Aspects Assessment Formats
+Knowledge 1- Specific Academic Tasks, including Quizzes, Case
+Based Discussion* (CBD), and Seminar Evaluation**.
+2- End-of-year written promotion examination
+Skills 1- Objective Structured Clinical Examination (OSCE).
+2- Research activity.
+3- Log book
+1- Community Activities (i.e., patient safety or quality
+improvement project)
+Attitude *** 1- In-training evaluation reports (ITERs)
+2- Direct Observation of Procedural Skills (DOPS)
+*Case Based Discussion: case study of a patient cared for by the trainee in the clinical setting.
+The case presentation should include:
+○ Neonates medical and surgical history;
+○ diagnosis/treatment history;
+○ nursing diagnosis with appropriate assessment findings;
+○ current neonatal nursing care plans, identifying the optimal outcomes.
+7For more information on these assessment formats, refer to the executive policy for continuous assessment
+and the General Exam Rules and Regulations on the SCFHS website:
+https://www.scfhs.org.sa/en/MESPS/TrainingProgs/RegulationBoard/Pages/default.aspx.
+38 ADVANCED NURSING PRACTICE DIPLOMA

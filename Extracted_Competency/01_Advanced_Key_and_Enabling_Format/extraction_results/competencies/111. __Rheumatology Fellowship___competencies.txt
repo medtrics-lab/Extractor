@@ -1,0 +1,105 @@
+Document: 111. __Rheumatology Fellowship__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 38-39
+Candidates Found: 64
+Validation: Valid CanMEDS without levels (score: 154/268, 4/7 roles)
+================================================================================
+
+--- Page 38 ---
+LEARNING AND COMPETENCIES
+4.4. Engage the patients and their families, as well as relevant health professionals, in
+shared decision-making to develop a plan of care relevant to managing acute and
+chronic rheumatologic, connective tissue, or musculoskeletal disorders
+4.5. Address challenging communication issues effectively, including but not limited to
+obtaining informed consent, delivering bad news, and addressing anger, confusion,
+and misunderstanding
+5. Effectively convey oral, written, and/or electronic information about a medical encounter
+5.1. Maintain clear, concise, accurate, and appropriate records of clinical encounters and
+plans
+5.2. Deliver oral reports of clinical encounters and plans
+5.3. Convey medical information appropriately to ensure safe transfer of care
+6. Effectively present medical information about a medical issue to the public
+Role: Collaborator
+Definition
+As Collaborators, rheumatologists work effectively within a health care team to achieve optimal
+patient care.
+Key and enabling competencies
+By the end of training, the Rheumatology fellows are able to:
+1. Participate effectively and appropriately in an inter-professional health care team, which is
+most often necessary to manage rheumatology disorders; such a team includes, but is not
+limited to:
+ Physical therapists
+ Occupational therapists
+ Nurses
+ Pharmacists
+ Orthopedic surgeons
+ Primary care providers
+1.1. Describe the rheumatologist’s roles and responsibilities to other professionals
+1.2. Describe the roles and responsibilities of other professionals within the health care
+team
+1.3. Recognize and respect the diverse roles, responsibilities, and competences of other
+professionals in relation to their own
+1.4. Work with others to assess, plan, provide, and integrate care for individuals and
+groups of patients
+1.5. Work collaboratively in other activities and tasks such as research, educational work,
+program review, and administration
+1.6. Participate in inter-professional team meetings
+1.7. Enter into interdependent relationships with other professions to ensure that the
+patients receive quality care
+1.8. Be aware of the principles of team dynamics
+1.9. Abide by team ethics, including confidentiality, resource allocation, and
+professionalism
+1.10. Demonstrate leadership in a health care team, as appropriate
+2. Work with other health professionals effectively to prevent, negotiate, and resolve inter-
+professional conflict
+2.1. Demonstrate a respectful attitude towards colleagues and members of the inter-
+professional team
+36 SAUDI RHEUMATOLOGY FELLOWSHIP CURRICULUM
+
+--- Page 39 ---
+LEARNING AND COMPETENCIES
+2.2. Work with other professionals to prevent conflicts
+2.3. Employ collaborative negotiation to resolve conflicts and address misunderstandings
+2.4. Respect differences and the scopes of practice of other professions
+2.4. Recognize their own differences, misunderstandings, and limitations that may
+contribute to inter-professional tension
+Role: Leader
+Definition
+As Leaders, rheumatologists are integral participants in health care organizations, establishing
+sustainable practices, making decisions about allocating resources, and contributing to the
+effectiveness of the health care system.
+Key and enabling competencies
+By the end of their training, the Rheumatology fellows are able to:
+1. Participate in activities that contribute to the effectiveness of their health care organization
+and system
+1.1. Work collaboratively with others in their organizations
+1.2. Participate in the process of quality evaluation and improvement, including patient
+safety initiatives
+1.3. Understand and describe the structure and function of the health care system as it
+relates to Rheumatology, including the roles of physicians at the interface of private
+and public health care in the Kingdom of Saudi Arabia, drug benefit coverage, and
+models of physician remuneration
+2. Manage their practice and career effectively
+2.1. Set priorities and manage their time to balance patient care, practice requirements,
+academic activities, continuing medical education, and personal life
+2.2. Manage a practice, including finances and human resources
+2.3. Implement processes to promote improvement in their personal practice
+2.4. Employ information technology appropriately for patient care
+3. Allocate finite health care resources appropriately
+3.1. Demonstrate an understanding of the importance of just allocation of health care
+resources, balancing effectiveness, efficiency, and access, with the ultimate goal of
+achieving optimal patient care
+3.2. Apply evidence and management processes for achieving cost-appropriate care
+4. Serve in administration and leadership roles
+4.1. Participate effectively in committees and meetings
+4.2. Lead or implement change in health care
+4.3. Plan relevant elements of health care delivery, such as work schedules
+Role: Health Advocate
+Definition
+As Health Advocates, rheumatologists use their expertise and influence responsibly to advance
+the health and well-being of individual patients, communities, and populations.
+Key and enabling competencies
+By the end of their training, the Rheumatology fellows are expected to be able to:
+1. Respond to the health needs and issues of individual patients as part of patient care
+1.1. Identify the health needs of individual patients
+SAUDI RHEUMATOLOGY FELLOWSHIP CURRICULUM 37

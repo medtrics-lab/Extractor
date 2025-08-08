@@ -1,0 +1,141 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 9,
+  "successful_extractions": 4,
+  "extraction_rate": "44.4%",
+  "format_breakdown": {
+    "Unknown": {
+      "total": 7,
+      "successful": 3,
+      "avg_confidence": 0.0,
+      "success_rate": 42.857142857142854
+    },
+    "CanMEDS Without Levels": {
+      "total": 2,
+      "successful": 1,
+      "avg_confidence": 0.9125,
+      "success_rate": 50.0
+    }
+  },
+  "performance_tracking": {
+    "CanMEDS Without Levels": {
+      "total_attempts": 2,
+      "successful_extractions": 1,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        1.0,
+        0.825
+      ]
+    }
+  },
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/44. __Clinical Neurophysiology Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "FALLBACK",
+      "extraction_successful": true,
+      "quality_score": 50,
+      "validation": "Fallback extraction completed",
+      "content_length": 7341,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/08_Fellowship_Programs/extraction_results/competencies/44. __Clinical Neurophysiology Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/120. __Endocrine and Breast Surgery Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "FALLBACK",
+      "extraction_successful": true,
+      "quality_score": 50,
+      "validation": "Fallback extraction completed",
+      "content_length": 4574,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/08_Fellowship_Programs/extraction_results/competencies/120. __Endocrine and Breast Surgery Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/32. __Adult Allergy and Immunology Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "FALLBACK",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Fallback extraction failed: Insufficient content",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "Insufficient competency content found"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/12. __Pediatric Surgery Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'NoneType' object has no attribute 'get'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'NoneType' object has no attribute 'get'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/48. __Pediatric Respiratory Medicine Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "1.00",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Insufficient CanMEDS content (score: 90/268, 1/7 roles)",
+      "content_length": 4769,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/08_Fellowship_Programs/extraction_results/competencies/48. __Pediatric Respiratory Medicine Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/31. __Renal Transplant Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "FALLBACK",
+      "extraction_successful": true,
+      "quality_score": 50,
+      "validation": "Fallback extraction completed",
+      "content_length": 13993,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/08_Fellowship_Programs/extraction_results/competencies/31. __Renal Transplant Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/14. __Head and Neck Oncology Surgery Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'NoneType' object has no attribute 'get'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'NoneType' object has no attribute 'get'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/45. __Adult Interventional Cardiology Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.82",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Insufficient CanMEDS content (score: 24/268, 0/7 roles)",
+      "content_length": 831,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/08_Fellowship_Programs/extraction_results/competencies/45. __Adult Interventional Cardiology Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/08_Fellowship_Programs/127. __Nuclear Medicine Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'NoneType' object has no attribute 'get'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'NoneType' object has no attribute 'get'"
+    }
+  ]
+}

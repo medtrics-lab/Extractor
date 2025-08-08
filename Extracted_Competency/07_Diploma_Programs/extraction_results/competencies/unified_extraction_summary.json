@@ -1,0 +1,64 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 2,
+  "successful_extractions": 2,
+  "extraction_rate": "100.0%",
+  "format_breakdown": {
+    "CanMEDS Without Levels": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.8,
+      "success_rate": 100.0
+    },
+    "Legacy Dotted TOC": {
+      "total": 1,
+      "successful": 1,
+      "avg_confidence": 0.8333333333333334,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {
+    "CanMEDS Without Levels": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.8
+      ]
+    },
+    "Legacy Dotted TOC": {
+      "total_attempts": 1,
+      "successful_extractions": 1,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.8333333333333334
+      ]
+    }
+  },
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/07_Diploma_Programs/22. __Advanced Nursing in Neonatal Intensive Care Diploma__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.80",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 131/268, 2/7 roles)",
+      "content_length": 5361,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/07_Diploma_Programs/extraction_results/competencies/22. __Advanced Nursing in Neonatal Intensive Care Diploma___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/07_Diploma_Programs/26. __Clinical Pharmacy Diploma__.pdf",
+      "detected_format": "Legacy Dotted TOC",
+      "format_confidence": "0.83",
+      "extractor_used": "Legacy Dotted TOC",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid legacy format (score: 187/399, 1/7 roles)",
+      "content_length": 8299,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/07_Diploma_Programs/extraction_results/competencies/26. __Clinical Pharmacy Diploma___competencies.txt",
+      "failure_reason": null
+    }
+  ]
+}

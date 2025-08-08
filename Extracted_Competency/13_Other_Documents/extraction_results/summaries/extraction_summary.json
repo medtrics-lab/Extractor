@@ -1,0 +1,29 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 1,
+  "successful_extractions": 0,
+  "extraction_rate": "0.0%",
+  "format_breakdown": {
+    "Unknown": {
+      "total": 1,
+      "successful": 0,
+      "avg_confidence": 0.0,
+      "success_rate": 0.0
+    }
+  },
+  "performance_tracking": {},
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/13_Other_Documents/47. __Adult Echocardiography__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'ImprovedCanMEDSWithoutLevelsExtractor' object has no attribute 'extract_from_pdf'"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "document": "52. __Adults Cardiology Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 6,
+    "end": 8
+  },
+  "candidates_found": 29,
+  "validation": "Valid CanMEDS without levels (score: 236/268, 7/7 roles)",
+  "content_length": 3709,
+  "success": true
+}

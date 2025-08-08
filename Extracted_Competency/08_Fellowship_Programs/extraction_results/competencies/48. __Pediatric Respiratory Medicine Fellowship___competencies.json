@@ -1,0 +1,12 @@
+{
+  "document": "48. __Pediatric Respiratory Medicine Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 6,
+    "end": 9
+  },
+  "candidates_found": 1,
+  "validation": "Insufficient CanMEDS content (score: 90/268, 1/7 roles)",
+  "content_length": 4769,
+  "success": true
+}

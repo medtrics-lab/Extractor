@@ -1,0 +1,37 @@
+Document: 45. __Adult Interventional Cardiology Fellowship__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 6-7
+Candidates Found: 3
+Validation: Insufficient CanMEDS content (score: 24/268, 0/7 roles)
+================================================================================
+
+--- Page 6 ---
+Competency Framework. Ottawa: Royal College of Physicians
+and Surgeons of Canada; 2015.).
+94656 Postal Code: 11614 Contact Center: 920019393
+E-mail: Curricula@scfhs.org.sa
+Website: www.scfhs.org.sa
+
+--- Page 7 ---
+III. TABLE OF CONTENTS
+PREFACE 3
+I. CONTRIBUTORS 5
+III. TABLE OF CONTENTS 7
+IV. INTRODUCTION 9
+V. ABBREVIATIONS USED IN THIS DOCUMENT 11
+VI. PROGRAM ENTRY REQUIREMENTS 12
+VII. LEARNING AND COMPETENCIES 13
+Milestones: 14
+2. Program Duration 14
+3. Program Rotations 14
+VIII. TEACHING METHODS: 15
+Program-Specific Learning Activities: 15
+IX. ASSESSMENT AND EVALUATION 18
+1. Purpose of Assessment 18
+2. Formative Assessment: 20
+Formative Assessment Tools 21
+Certification of Training Completion 22
+Final Examinations 23
+X. PROGRAM AND COURSE EVALUATION 28
+XI. POLICIES AND PROCEDURES 29
+XII. APPENDICES 30

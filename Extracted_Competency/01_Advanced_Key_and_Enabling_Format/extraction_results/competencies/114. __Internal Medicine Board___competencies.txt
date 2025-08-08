@@ -1,0 +1,197 @@
+Document: 114. __Internal Medicine Board__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 105-110
+Candidates Found: 25
+Validation: Valid CanMEDS without levels (score: 263/268, 7/7 roles)
+================================================================================
+
+--- Page 105 ---
+CanMEDS COMPETENCIES COMMENTS
+DIDACTIC CENTRALIZED COMPONENT OF THE CURRICULUM
+1. MORNING MEETING
+a. Morning report To educate monitoring patient care and reviewing Manager The performance of the
+management decisions and their outcomes for all Medical expert presenter should be
+attending residents Professional evaluated
+ To develop competence in the short presentation of details of Scholar
+all admitted patients in a scientific and informative
+fashion
+ To learn and gain confidence in presenting long case details in
+a systematic fashion
+ To develop appropriate differential diagnoses and proper
+management plans
+ To present topic presentation regarding the disease of interest
+lasting 5 min
+b.Morbidity and mortality report To focus on the goal of improvement of patient care and Professional Records of proceedings
+identify areas of improvement for clinicians involved in Manager are kept confidential
+case management Medical experts
+ To prevent errors that lead to complications
+ To modify behavior and judgment based on previous
+experience
+ To identify systems issues, such as outdated policies and
+changes in patient identification procedures, that may
+affect patient care
+ The proceedings are generally kept confidential by law
+104 SAUDI BOARD INTERNAL MEDICINE CURRICULUM
+
+--- Page 106 ---
+c. Grand rounds/guest speaker lectures  Increase physicians’ medical knowledge and skills and Medical expert The presenter is a senior
+ultimately improve patient care Professional staff member
+ Understand and apply current practice guidelines in the field
+of internal medicine and its branches
+ Describe the latest advances in research in the field of internal
+medicine
+ Identify and explain areas of controversy in the field of
+internal medicine
+d. Case presentation  Be able to present a comprehensive history and physical Medical expert Records of proceedings
+examination with details pertinent to the patient’s problem Scholar are kept confidential
+ Formulate a list of all problems identified in the patient history
+and physical examination
+ Develop a proper differential diagnosis for each problem
+ Formulate a diagnosis/treatment plan for each problem
+ Present a follow-up patient’s case in a focused, problem-based
+manner that includes pertinent new findings and
+diagnostic and treatment plans
+ Demonstrate a commitment to improving case presentation
+skills by regularly seeking feedback regarding
+presentations
+ Residents should record and present data accurately and
+objectively
+e. Journal clubs, critical appraisal, and  To promote continuing professional development Medical expert The presenter is a senior
+evidence-based medicine  Remaining abreast of current literature Scholar resident under supervision
+ Disseminating information and building a debate on good Health advocate of a senior staff member
+practice
+ Ensuring that professional practice is evidence based
+ Learning and practicing critical appraisal skills
+ Providing an enjoyable educational and social occasion
+f. Joint specialty meetings (radiology,  Provide the knowledge, technical skills, and experience Medical expert The resident will present a
+pathology, and surgery) necessary for medical residents to interpret and correlate Communicator brief history followed by
+pathological changes with clinical findings and laboratory Collaborator discussion with senior
+105 SAUDI BOARD INTERNAL MEDICINE CURRICULUM
+
+--- Page 107 ---
+dates for procedures such as radiological imaging Manager staff members from
+ Promote effective communication and share expertise with another discipline
+peers and colleagues
+ Promote the development of investigative skills to improve
+residents’ understand of pathological processes as they
+apply to both individual patients and the general patient
+population
+ Promote the acquisition of knowledge and provide experience
+in laboratory direction and management and encourage
+residents to assume a leadership role in the education of
+other physicians and allied health professionals
+2. ACADEMIC HALF DAY (AHD)
+a. Lectures on emergency and  Review common emergency and nonemergency situations Medical expert Topics are listed in Tables
+nonemergency topics with respect to diagnosis and management Scholar 1 & 2
+ The series of topics will be repeated annually to ensure
+adequate attainment
+b. Procedures Apply knowledge and technique expertise in performing Medical expert Procedures are listed in
+procedures, interpreting results, and understanding Professional Table 3
+relevant limitations Collaborator
+ Demonstrate effective, appropriate, and timely performance of Will be repeated annually
+therapeutic procedures
+ Demonstrate evidence-based physical examination skills that Some procedures can be
+are relevant and precise performed unsupervised,
+ Learn ultrasound-guided procedures supervised, or simply
+ For each procedure, residents should master the following: viewed via video
+- Indications
+- Contraindications
+- Complications and complication rate
+- Procedural technique
+- Sterile technique
+- Consent for the procedure
+- Be able to demonstrate procedures on a task trainer
+106 SAUDI BOARD INTERNAL MEDICINE CURRICULUM
+
+--- Page 108 ---
+- Be familiar with ultrasound
+Technology in general
+- Reporting complications
+c. Approaches to common conditions  Demonstrate diagnostic and therapeutic skills Medical expert The presenters are junior
+and symptoms  Access and apply relevant information to Scholar residents
+clinical practice Professional
+ Practice contemporary, evidence-based, and The performance of the
+cost-effective medicine presenter should be
+ Avoid unnecessary or harmful investigations evaluated
+or management
+Conditions and symptoms
+are listed in Table 4
+Will be repeated annually
+d. Clinical skills  Recognize the many facets of the doctor-patient Medical expert Sessions are listed in
+relationship and be able to apply a Scholar Table 5
+biopsychosocial model to issues in health and Communicator
+medicine Professional Will be repeated annually
+ Master basic interviewing skills and demonstrate
+competence in advanced interviewing skills Conducted by a senior
+ Master basic skills in physical examination and be staff member
+able to perform and interpret focused
+examinations of the cardiovascular, pulmonary,
+musculoskeletal, and neurological systems,
+breasts, and genitalia of men and women
+ Exhibit professional behaviors including
+demonstration of respect for patients, colleagues,
+faculty members, and others in all settings
+ Help the resident to pass clinical exams
+e. Communication skills  Recognize the many facets of the doctor-patient Communicator See Table 6
+relationship and be able to apply a Professional
+107 SAUDI BOARD INTERNAL MEDICINE CURRICULUM
+
+--- Page 109 ---
+biopsychosocial model to issues in health and Presenters are experienced
+medicine senior staff members
+ Enable patient-centered therapeutic communication
+via shared decision making and effective
+dynamic interactions with patients, families,
+caregivers, fellow professionals, and other
+important individuals
+ Master basic interviewing skills and demonstrate
+competence in advanced interviewing skills
+ Exhibit professional behaviors including
+demonstration of respect for patients, colleagues,
+faculty members, and others in all settings
+f.Medical ethics Residents should recognize the humanistic and ethical aspects Communicator See Table 7
+of a medical career Medical expert
+ Enable the residents to examine and affirm their personal Professional A series of lectures will
+professional moral commitments be conducted by an
+ Provide the residents with a foundation of philosophical, experienced senior staff
+social, and legal knowledge member
+ Enable residents to use their knowledge in clinical reasoning
+and equip them with the interaction skills required to
+apply this insight, knowledge, and reasoning to human
+clinical care
+g. Data interpretation Knowledge of the various investigational tools used in internal Medical expert Residents should take the
+medicine Scholar initiative and participate
+ Enhance proper interpretation of different investigational data actively
+ Enhance proper use of investigational tools
+ Knowledge of the limitations of the various investigational
+tools
+h. Research and evidence-based  Become familiar with the generation and dissemination of Professional See Table 8
+practice research via oral presentations, poster presentations, and Manager
+abstract preparation Scholar Experienced senior staff
+ To attend core academic teaching applicable to research will be involved
+108 SAUDI BOARD INTERNAL MEDICINE CURRICULUM
+
+--- Page 110 ---
+including ethics, study design, abstract writing, and
+presentation skills
+ Gain competence in literature review, data synthesis and
+analysis, and interpretation
+ROTATIONAL (PRACTICE-BASED) COMPONENT OF THE CURRICULUM
+a. Daily round-based learning  Document historical and physical examination Medical expert Must be centered on
+findings according to accepted formats including Communicator patient care and safety
+complete written databases; problem lists; and Health advocate
+focused subjective, objective, assessment, and Professional
+plan notes
+ Generate differential diagnoses appropriate to the level of
+training
+ Review admission notes, discharge summaries, and medical
+reports
+ Develop evidence-based management plans
+ Interpret lab investigation results (e.g., imaging, ECG, and
+blood tests)
+ Consult with professionals of other disciplines
+ Communicate, including discussing risk factors and
+prevention, with patients and their families
+ Risk factors counseling
+ Discharge and follow-up plans
+109 SAUDI BOARD INTERNAL MEDICINE CURRICULUM

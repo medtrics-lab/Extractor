@@ -1,0 +1,38 @@
+{
+  "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/72. __Urology Board__.pdf",
+  "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/72. __Urology Board___competencies.txt",
+  "json_report": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/72. __Urology Board___competencies.json",
+  "pages_extracted": "30-58",
+  "extraction_method": "advanced_pattern_key_enabling",
+  "confidence_score": 1.0,
+  "quality_score": 150,
+  "key_enabling_score": 49,
+  "validation": "Good Key & Enabling format (score: 123/150, 7/7 roles)",
+  "detailed_analysis": {
+    "role_count": 7,
+    "roles_found": [
+      "MEDICAL EXPERT",
+      "COMMUNICATOR",
+      "COLLABORATOR",
+      "LEADER",
+      "HEALTH ADVOCATE",
+      "SCHOLAR",
+      "PROFESSIONAL"
+    ],
+    "key_enabling_terms_count": 4,
+    "level_indicators_found": [
+      "R1",
+      "R2",
+      "R3",
+      "R4"
+    ],
+    "has_structured_content": true,
+    "content_length": 49407,
+    "key_enabling_score": 49,
+    "contamination_score": 0,
+    "page_range_size": 29
+  },
+  "content_length": 49407,
+  "extraction_successful": true,
+  "total_pages": 92
+}

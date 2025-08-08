@@ -1,0 +1,92 @@
+Document: 53. __Saudi Fellowship Program in Nephrology__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 15-16
+Candidates Found: 11
+Validation: Valid CanMEDS without levels (score: 176/268, 3/7 roles)
+================================================================================
+
+--- Page 15 ---
+COMPETENCY FRAMEWORK
+Adapted from the Royal College of Physicians and Surgeons of Canada - Objectives of Training
+in the Subspecialties of Adult and Pediatric Nephrology.
+At the completion of training, the fellow will have acquired the following competencies and will
+function effectively as a:
+Medical Expert
+Definition:
+As Medical Experts, nephrologists integrate all of the CanMEDS roles, applying medical
+knowledge, clinical skills, and professional attitudes in their provision of patient-centered care.
+Medical Expert is the central physician role in the CanMEDS framework.
+Key and Enabling Competencies: Nephrologists are able to…
+1. Function effectively as consultants, integrating all of the CanMEDS roles to provide
+optimal, ethical and patient-centered medical care.
+1.1. Perform a consultation effectively, including the presentation of well-documented
+assessments and recommendations in written and/or verbal form in response to a
+request from another health care professional.
+1.2. Demonstrate effective use of all CanMEDS competencies relevant to nephrology.
+1.3. Identify and appropriately respond to relevant ethical issues arising in patient care.
+1.4. Demonstrate the ability to prioritize professional duties effectively when faced with
+multiple patients and problems.
+1.5. Demonstrate compassionate and patient-centered care.
+1.6. Recognize and respond to the ethical dimensions in medical decision-making.
+1.7. Demonstrate medical expertise in situations other than patient care.
+2. Establish and maintain the knowledge, skills, and attitudes of the clinical, socio-
+behavioral, and fundamental biomedical sciences appropriate to nephrology.
+2.1. Apply knowledge of the clinical, socio-behavioral, and fundamental biomedical
+sciences relevant to nephrology.
+2.1.1. The anatomy and histology of the kidney, including the structure and function
+of the glomerular filtration barrier.
+2.1.2. The physiology and pathophysiology of:
+2.1.2.1. Renal blood flow and glomerular filtration.
+2.1.2.2. Regulation of acid-base, electrolyte, and water homeostasis.
+SAUDI FELLOWSHIP PROGRAM IN NEPHROLOGY 13
+
+--- Page 16 ---
+SPECIFIC LEARNING OBJECTIVES
+2.1.2.3. Mineral metabolism and its alteration in renal disease, metabolic
+bone disease, and nephrolithiasis.
+2.1.2.4. Hypertension.
+2.1.3. Clinical pharmacology as it pertains to:
+2.1.3.1. Drug prescribing in renal disease.
+2.1.3.2. Transplantation, especially with regards to immunosuppression.
+2.1.4. Toxicology as it relates to the use of dialysis therapies for poisonings.
+2.1.5. Immunology as it pertains to mechanisms of renal injury (including but not
+limited to glomerulonephritis, vasculitis, tubulointerstitial disease, and renal
+transplant rejection) and diagnostic testing relevant to renal disease.
+2.1.6. Microbiology as it pertains to infections of the renal system and infectious
+complications of renal transplantation.
+2.1.7. Growth and development of the kidney in the normal and disordered state,
+including but not limited to vesicoureteral reflux, cystic diseases of the kidney,
+and renal changes with ageing.
+2.1.8. Mechanisms of fluid delivery, machine mechanics, and membrane physiology
+as they relate to all dialysis modalities.
+2.1.9. Pathology of disease in the native and transplanted kidney, including but not
+limited to glomerulonephritis, vasculitis, and systemic disease such as
+diabetes and hypertension.
+2.1.10. Epidemiology of acute renal failure and chronic kidney diseases, including
+those conditions commonly causing end-stage renal failure, such as diabetes
+and hypertension.
+2.1.11. Principles of genetics as they relate to the inheritance and transmission of
+diseases that affect the kidney.
+2.1.12. Psychology of chronic illness such as chronic kidney disease.
+2.1.13. The effects of systemic diseases on the kidney as well as the effect of
+disordered kidney function on systemic health.
+2.2. Demonstrate the CanMEDS framework of competencies relevant to nephrology.
+2.3. Apply the lifelong learning skills of the Scholar role, implementing a personal program
+to remain up-to-date and enhance areas of professional competence.
+2.4. Contribute to the enhancement of quality care and patient safety in nephrology,
+integrating currently available best evidence and best practices.
+3. Perform a complete and appropriate assessment of a patient
+3.1. Identify and explore issues to be addressed in a patient encounter effectively,
+including the patient’s context and preferences.
+3.2. Elicit a history that is relevant, concise, and accurate.
+3.3. Perform a focused physical examination that is relevant and accurate for the
+purposes of prevention and health promotion, diagnosis and/or management.
+3.4. Select medically appropriate investigative methods in a resource-effective and ethical
+manner.
+3.5. Interpret the results of the following investigations in the context of the patient who
+presents with manifestations of renal disease.
+3.5.1. Measures of renal function.
+3.5.2. Serology.
+3.5.3. Urine microscopy.
+3.5.4. Other urine tests, including but not limited to electrolytes.
+14 SAUDI FELLOWSHIP PROGRAM IN NEPHROLOGY

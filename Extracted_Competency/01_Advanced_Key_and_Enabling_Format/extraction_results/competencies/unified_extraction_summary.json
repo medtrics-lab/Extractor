@@ -1,0 +1,342 @@
+{
+  "category": "Unified Master Extractor",
+  "total_documents": 23,
+  "successful_extractions": 22,
+  "extraction_rate": "95.7%",
+  "format_breakdown": {
+    "CanMEDS Without Levels": {
+      "total": 20,
+      "successful": 20,
+      "avg_confidence": 0.8026542855857798,
+      "success_rate": 100.0
+    },
+    "Unknown": {
+      "total": 1,
+      "successful": 0,
+      "avg_confidence": 0.0,
+      "success_rate": 0.0
+    },
+    "Advanced Key & Enabling": {
+      "total": 2,
+      "successful": 2,
+      "avg_confidence": 0.5272727272727272,
+      "success_rate": 100.0
+    }
+  },
+  "performance_tracking": {
+    "CanMEDS Without Levels": {
+      "total_attempts": 20,
+      "successful_extractions": 20,
+      "average_quality": 0.0,
+      "format_detection_accuracy": [
+        0.6769230769230768,
+        0.96,
+        0.9290322580645161,
+        0.7999999999999999,
+        0.6666666666666666,
+        0.96,
+        0.937142857142857,
+        0.75,
+        0.8903225806451612,
+        0.5793103448275863,
+        0.9333333333333333,
+        0.84,
+        0.8842105263157894,
+        0.7186440677966102,
+        0.84,
+        0.4875,
+        0.8666666666666666,
+        0.84,
+        0.5333333333333333,
+        0.96
+      ]
+    },
+    "Advanced Key & Enabling": {
+      "total_attempts": 2,
+      "successful_extractions": 2,
+      "average_quality": 148.24184529356944,
+      "format_detection_accuracy": [
+        0.6545454545454544,
+        0.4
+      ]
+    }
+  },
+  "results": [
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/73. __Restorative Dentistry Board__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.68",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 155/268, 4/7 roles)",
+      "content_length": 1794,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/73. __Restorative Dentistry Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/95. __Oral Medicine And Pathology__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.96",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 184/268, 5/7 roles)",
+      "content_length": 4929,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/95. __Oral Medicine And Pathology___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/76. __Adult Psychosomatic Medicine Fellowship__.pdf",
+      "detected_format": "Unknown",
+      "format_confidence": "0.00",
+      "extractor_used": "ERROR",
+      "extraction_successful": false,
+      "quality_score": 0,
+      "validation": "Extraction error: 'NoneType' object has no attribute 'get'",
+      "content_length": 0,
+      "output_file": null,
+      "failure_reason": "'NoneType' object has no attribute 'get'"
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/89. __Pediatric Allergy And Immunology__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.93",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 233/268, 6/7 roles)",
+      "content_length": 18211,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/89. __Pediatric Allergy And Immunology___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/75. __Child And Adolescent Psychiatry Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.80",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 182/268, 7/7 roles)",
+      "content_length": 2385,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/75. __Child And Adolescent Psychiatry Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/68. __Radiology Technology and Medical Imaging__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.67",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 134/268, 1/7 roles)",
+      "content_length": 4316,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/68. __Radiology Technology and Medical Imaging___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/93. __Orthopedic Surgery Board__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.96",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 166/268, 3/7 roles)",
+      "content_length": 5400,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/93. __Orthopedic Surgery Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/54. __Adult Gastroenterology Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.94",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 175/268, 3/7 roles)",
+      "content_length": 4669,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/54. __Adult Gastroenterology Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/58. __Pediatric Hematology and Oncology fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.75",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 173/268, 3/7 roles)",
+      "content_length": 9884,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/58. __Pediatric Hematology and Oncology fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/53. __Saudi Fellowship Program in Nephrology__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.89",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 176/268, 3/7 roles)",
+      "content_length": 5139,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/53. __Saudi Fellowship Program in Nephrology___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/79. __Plastic and Reconstructive Surgery__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.58",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 160/268, 2/7 roles)",
+      "content_length": 4762,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/79. __Plastic and Reconstructive Surgery___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/63. __Radiation Oncology Board__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.93",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 193/268, 3/7 roles)",
+      "content_length": 5971,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/63. __Radiation Oncology Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/6. __Clinician Investigator__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.84",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 214/268, 5/7 roles)",
+      "content_length": 2502,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/6. __Clinician Investigator___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/111. __Rheumatology Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.88",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 154/268, 4/7 roles)",
+      "content_length": 5400,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/111. __Rheumatology Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/114. __Internal Medicine Board__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.72",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 263/268, 7/7 roles)",
+      "content_length": 9712,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/114. __Internal Medicine Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/116. __Adults Infectious Diseases__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.84",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 195/268, 4/7 roles)",
+      "content_length": 4817,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/116. __Adults Infectious Diseases___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/61. __Pediatric Urology Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.49",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 258/268, 7/7 roles)",
+      "content_length": 6180,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/61. __Pediatric Urology Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/13. __Addiction Psychiatry Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.87",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 237/268, 6/7 roles)",
+      "content_length": 5466,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/13. __Addiction Psychiatry Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/52. __Adults Cardiology Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.84",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 236/268, 7/7 roles)",
+      "content_length": 3709,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/52. __Adults Cardiology Fellowship___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/72. __Urology Board__.pdf",
+      "detected_format": "Advanced Key & Enabling",
+      "format_confidence": "0.65",
+      "extractor_used": "Advanced Key & Enabling",
+      "extraction_successful": true,
+      "quality_score": 150,
+      "validation": "Good Key & Enabling format (score: 123/150, 7/7 roles)",
+      "content_length": 49407,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/72. __Urology Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/108. __Vascular Neurology (Stroke)__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.53",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 255/268, 7/7 roles)",
+      "content_length": 2704,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/108. __Vascular Neurology (Stroke)___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/78. __Preventive Medicine Board__.pdf",
+      "detected_format": "Advanced Key & Enabling",
+      "format_confidence": "0.40",
+      "extractor_used": "Advanced Key & Enabling",
+      "extraction_successful": true,
+      "quality_score": 146.48369058713885,
+      "validation": "Acceptable Key & Enabling format (score: 107/150, 7/7 roles)",
+      "content_length": 41243,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/78. __Preventive Medicine Board___competencies.txt",
+      "failure_reason": null
+    },
+    {
+      "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/60. __Colon and Rectal Surgery Fellowship__.pdf",
+      "detected_format": "CanMEDS Without Levels",
+      "format_confidence": "0.96",
+      "extractor_used": "CanMEDS Without Levels",
+      "extraction_successful": true,
+      "quality_score": 0,
+      "validation": "Valid CanMEDS without levels (score: 252/268, 7/7 roles)",
+      "content_length": 3500,
+      "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/60. __Colon and Rectal Surgery Fellowship___competencies.txt",
+      "failure_reason": null
+    }
+  ]
+}

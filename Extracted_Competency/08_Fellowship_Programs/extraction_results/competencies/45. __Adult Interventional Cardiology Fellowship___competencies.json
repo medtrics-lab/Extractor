@@ -1,0 +1,12 @@
+{
+  "document": "45. __Adult Interventional Cardiology Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 6,
+    "end": 7
+  },
+  "candidates_found": 3,
+  "validation": "Insufficient CanMEDS content (score: 24/268, 0/7 roles)",
+  "content_length": 831,
+  "success": false
+}

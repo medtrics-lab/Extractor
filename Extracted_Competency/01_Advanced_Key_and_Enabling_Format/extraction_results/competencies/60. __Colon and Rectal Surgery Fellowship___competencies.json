@@ -1,0 +1,12 @@
+{
+  "document": "60. __Colon and Rectal Surgery Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 38,
+    "end": 39
+  },
+  "candidates_found": 21,
+  "validation": "Valid CanMEDS without levels (score: 252/268, 7/7 roles)",
+  "content_length": 3500,
+  "success": true
+}

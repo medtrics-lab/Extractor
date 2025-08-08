@@ -1,0 +1,12 @@
+{
+  "document": "108. __Vascular Neurology (Stroke)__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 13,
+    "end": 14
+  },
+  "candidates_found": 16,
+  "validation": "Valid CanMEDS without levels (score: 255/268, 7/7 roles)",
+  "content_length": 2704,
+  "success": true
+}

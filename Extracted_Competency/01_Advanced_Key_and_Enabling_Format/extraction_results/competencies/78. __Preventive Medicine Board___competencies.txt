@@ -1,0 +1,1033 @@
+
+enabling competencies: Preventive medicine specialists can: 
+6) Function effectively as consultants, integrating all of the CanMEDS roles 
+to provide optimal, ethical care at the individual, family, group, 
+organization, community, and population levels 
+• Perform consultations effectively, including presenting well-
+documented assessments and recommendations in written and/or 
+oral form in response to requests from a variety of sources 
+o Clarify the nature of the requests in question and establish, 
+negotiating where required, the desired deliverables when called 
+upon for advice 
+o Efficiently collect and interpret information that is appropriate to 
+the requests 
+o Formulate clear and realistic recommendations 
+
+o Communicate assessments and recommendations in the manner 
+(oral, written, or both) that is most suitable to the given 
+circumstances 
+o Assess the implementation or impact of recommendations 
+o Demonstrate knowledge of all CanMEDS competencies relevant 
+to preventive medicine 
+• Identify and appropriately respond to relevant ethical issues that 
+arise in the care of individuals, families, groups, organizations, 
+communities, and populations 
+• Demonstrate the ability to effectively and appropriately prioritize 
+professional duties when addressing multiple issues and problems 
+• Demonstrate compassionate care at the individual, family, group, 
+organization, community, and population levels 
+• Recognize and observe the ethical dimensions of preventive 
+medicine and relevant clinical decision making 
+• Demonstrate medical expertise in situations other than patient care, 
+for example, providing expert legal testimony and advising 
+governments 
+7) Establish and maintain medical knowledge, skills, and behavior 
+appropriate to preventive medicine 
+• Apply knowledge of the fundamental biomedical, clinical, and 
+epidemiological subjects relevant to preventive medicine practice 
+o Describe the natural history, epidemiology, risk factors, and 
+health burdens associated with the major communicable and 
+non-communicable diseases and injuries that are of public health 
+significance 
+o Apply knowledge of the principles of: 
+▪ Prevention and control of disease and injury 
+▪ Health and disease surveillance 
+▪ Health protection 
+18 
+
+19 
+▪ Health promotion 
+▪ Population-health assessment 
+o Describe the principles of infection control and their application 
+to effective and appropriate procedures and policies designed to 
+reduce risk 
+o Describe the general principles of emergency planning and 
+incident management 
+o Discuss knowledge translation and social marketing strategies 
+that are relevant to the promotion of health 
+o Describe the analytic tests and methods used to explain 
+differences in health and health-related behaviors including, but 
+not limited to: 
+▪ Analysis of variance (ANOVA) 
+▪ Chi-square 
+▪ Forecasting  
+▪ Geospatial analysis 
+▪ Kappa correlation 
+▪ Life tables 
+▪ Logistic regression 
+▪ Modeling 
+▪ Survival analysis 
+▪ T-test 
+o Describe the methods used to explore knowledge, attitudes, 
+beliefs, behaviors, and public health interventions including, but 
+not limited to: 
+▪ The Delphi method 
+▪ Focus groups 
+▪ Key informant surveys 
+▪ Nominal groups 
+▪ Participant observation 
+
+▪ Social network analysis 
+• 
+Describe the CanMEDS framework of competencies relevant to 
+preventive medicine 
+• 
+Apply lifelong learning skills relating to the scholar role that allow them 
+to implement a personal program for keeping up-to-date, enhancing 
+areas of professional competence, and maintaining their specialty 
+certification 
+• 
+Integrate the best available evidence and best practices to enhance the 
+quality of care, as well as patient and program safety, in preventive 
+medicine 
+8) Perform a complete and appropriate assessment at the individual, family, 
+group, organization, community, and population levels 
+• Perform a health-based needs assessment for a defined population 
+for a specific purpose, employing appropriate methods (qualitative, 
+quantitative, or both) that are relevant, concise, and reflective of 
+context and preferences; describe the results of such assessments; 
+and make recommendations in regard to response actions 
+o Assess health status, health inequalities, determinants, and 
+different needs by analyzing population-level data, and use this 
+to support prioritization of action 
+o Use and interpret information from a range of sources including, 
+but not limited to, mortality, hospital admission, census, primary 
+care, communicable disease, and reproductive and sexual health 
+data, as well as cancer registries and health surveys, to support 
+public health activities in an evidence-informed, resource-
+effective, and ethical manner 
+o Use a range of methods to assess morbidity and the burden of 
+disease within and between populations 
+• Effectively identify and explore health issues, including related 
+contexts, preferences, and values 
+20 
+
+21 
+o Define, 
+develop, 
+select, 
+and 
+interpret 
+relevant 
+social, 
+demographic, and health indicators from a variety of data sources 
+including, but not limited to, vital statistics and administrative 
+databases, registries, and surveys 
+▪ Discuss and consider the use and limitations of these datasets 
+o Identify and interpret the impact of individuals’, groups’, and 
+populations’ health behaviors particularly with respect to 
+nutrition, physical activity, the use of tobacco and other 
+substances, 
+sexuality, 
+risk 
+taking, 
+immunization, 
+and 
+participation in recommended prevention and screening 
+programs 
+• Conduct assessments that are relevant, concise, and reflective of 
+context and preferences concerning the purposes of preventive 
+medicine 
+o Organize and analyze data, meta-data, information, and 
+knowledge, using information technology as appropriate 
+o Appraise the validity and relevance of data and data systems and 
+assess their quality and appropriateness for the purpose 
+o Use data with consideration of the legal and ethical aspects of the 
+collection, manipulation, retention, and release of the data, 
+thereby balancing social benefit with individual privacy 
+o Integrate different types of data, using complex datasets or data 
+from a variety of sources, to draw appropriate conclusions 
+o Discuss and apply guidelines for assessing causality, such as by 
+using Koch’s postulates or Bradford-Hill criteria 
+• Select appropriate investigative methods that are evidence-
+informed, resource-effective, and ethical 
+o Identify, select, and interpret biological risk markers including, 
+but not limited to, age, sex, race, and genetic makeup 
+
+o Select, discuss, and demonstrate an understanding of the 
+relevant socio-economic, political, and environmental factors that 
+should be noted during investigations into a given context 
+including, but not limited to: 
+▪ The distribution of wealth and power 
+▪ Urbanization 
+▪ Industrialization 
+▪ Social attitudes and values 
+▪ Immigration policies 
+o Select, discuss, and demonstrate an understanding of physical 
+environmental factors including, but not limited to: 
+▪ Emissions and spills of hazardous materials 
+▪ Noise 
+▪ Air and water pollutants 
+▪ Natural disasters 
+▪ Climate change effects that are relevant to the investigation of 
+a given health context (individual, local, regional, provincial, 
+national, or global) 
+o Apply and interpret appropriate quantitative methods and 
+analytical tests for explaining differences in health and health-
+related behaviors including, but not limited to: 
+▪ T-test 
+▪ ANOVA (Analysis of Variance) 
+▪ Chi-square 
+▪ Correlation  
+▪ Logistic regression 
+▪ Kappa 
+▪ Life tables 
+▪ Survival analysis 
+22 
+
+23 
+o Interpret appropriate quantitative methods and analytical tests 
+for explaining differences in health and health-related behaviors 
+including, but not limited to: 
+▪ Modeling 
+▪ Forecasting 
+▪ Geospatial analysis 
+o Apply and interpret appropriate qualitative methods for exploring 
+knowledge, attitudes, beliefs, behaviors, and public health 
+interventions including, but not limited to: 
+▪ Participant observation 
+▪ Key informant surveys 
+▪ Nominal groups 
+▪ Focus groups 
+▪ The Delphi method 
+▪ Social network analysis and similar applicable approaches 
+• Demonstrate effective problem-solving and judgment skills for 
+addressing health problems, including interpreting available data 
+and integrating information to develop and implement management 
+plans 
+o Assess the health impacts of policies or projects on defined 
+populations and make informed recommendations 
+o Use evidence from health-related and non-health-related 
+sources, including qualitative and quantitative studies, to answer 
+a defined question, considering the relative strengths and 
+weaknesses of the evidence applied 
+o Use appropriate frameworks to critically appraise evidence 
+including, but not limited to, ecological, qualitative, etiological, 
+interventional, and economic studies 
+o Use economic analyses including, but not limited to, cost benefit, 
+cost-effectiveness, and cost utility, in the assessment of health 
+issues and proposed intervention options 
+
+o Formulate balanced, evidence-informed recommendations that 
+explain key public health concepts using appropriate reasoning, 
+judgment, and analytic methodologies for public health settings 
+o Ascertain, in a timely fashion, key public health information from 
+a range of documents including, but not limited to, briefings, 
+policies, 
+and 
+news 
+reports, 
+and 
+use 
+this 
+information 
+appropriately and in conjunction with more widely known public 
+health knowledge 
+o Incorporate relevant legal and ethical frameworks into the 
+assessment of evidence 
+9) Design and effectively implement and evaluate primary, secondary, and 
+tertiary interventions relevant to preventive medicine 
+• Plan and design intervention management plans in collaboration with 
+individuals, families, groups, organizations, communities, and 
+populations 
+o Debate the relative importance of individual and societal 
+decisions concerning health and ethical issues related to public 
+health practice 
+o Discuss the theories of community development 
+o Discuss the strengths and weaknesses of health promotion 
+interventions directed at populations, which can include, but are 
+not limited to, social marketing, health-related public policies, 
+and harm reduction 
+o Communicate the need for health promotion strategies in defined 
+communities, presenting cases for action/inaction in response to 
+health problems 
+o Develop plans for addressing health needs in specified 
+communities, with clarification of the theoretical bases for 
+proposals and the development of business cases for activities, 
+while concurrently considering the strengths and weaknesses of 
+24 
+
+25 
+the health-promotion interventions in question 
+o Apply the theoretical models of behavior change to the general 
+population, as well as to high-risk and hard-to-reach groups 
+o Identify and demonstrate an understanding of the factors that 
+influence the potential for change in given contexts and 
+populations 
+o Apply knowledge translation and social marketing to encourage 
+the application of best practices 
+• Demonstrate the effective, appropriate, and timely performance of 
+interventions relevant to preventive medicine 
+o Advise on and co-ordinate public health actions that conform with 
+existing local, provincial, and national policies and guidelines 
+o Describe the general principles of emergency planning and 
+incident management 
+o Contribute to the development and utilization of community, 
+provincial, 
+and 
+national 
+emergency preparedness plans 
+including, but not limited to, measures to prevent and manage 
+exposure to biological and chemical agents and radiation-
+emitting agents and devices 
+o Lead or take a major role in the investigation and management of 
+significant incidents including, but not limited to, outbreaks of 
+communicable diseases and incidents of non-infectious diseases  
+o Contribute to the formulation of health-related public policies or 
+legislation at the local and national levels 
+o Lead or make significant contributions to major public health 
+campaigns that demonstrate an understanding of appropriate 
+theory and the application of social marketing and mass 
+communication 
+o Implement 
+and 
+evaluate 
+health-promotion 
+interventions, 
+including assessing outcomes, methods, and costs; identifying 
+
+the strengths and limitations of the interventions; and 
+communicating findings and making recommendations 
+o Develop, implement, and evaluate health protection programs, 
+applying 
+knowledge 
+of 
+common 
+environmental 
+hazards 
+including, but not limited to, water and sewage treatment and 
+quality control of water, soil, air, and food 
+• Ensure that appropriate informed consent is obtained for therapeutic 
+and preventive interventions 
+10) Demonstrate the proficient and appropriate use of procedural skills for 
+diagnoses and interventions 
+• Demonstrate effective, appropriate, and timely performance of 
+diagnostic procedures relevant to public health and preventive 
+medicine 
+o Identify known or potential health effects that are associated with 
+particular hazards to health protection in populations, drawing on 
+expertise as appropriate 
+o Characterize the identified hazards both quantitatively and 
+qualitatively 
+o Assess degrees of risk associated with exposure to hazards 
+found in populations 
+o Integrate hazard identification, characterization, and assessment 
+into estimates of adverse events that are likely to occur in 
+populations, basing this on the hazards that have previously been 
+found in the populations in question 
+o Design, implement, and evaluate surveillance systems that 
+inform public health programs 
+o Apply the principles of infectious disease epidemiology to the 
+investigation and management of communicable disease 
+outbreaks in individuals, families, groups, organizations, 
+communities, and populations 
+26 
+
+27 
+• 
+Ensure that appropriate informed consent consistent with the legal and 
+regulatory frameworks of public health is obtained for interventions 
+• 
+Document 
+and 
+disseminate 
+information 
+related 
+to 
+completed 
+interventions and their outcomes 
+• 
+Ensure that adequate follow-ups and evaluations are conducted after 
+interventions 
+11) Recognize the limits of one's expertise and seek appropriate consultation 
+from other health professionals 
+• Demonstrate an awareness of the limits of their own expertise 
+• Demonstrate an ability to engage in effective, appropriate, and timely 
+consultation with other health professionals when required to ensure 
+optimal practice 
+• Arrange appropriate follow-up care and services for individuals, 
+families, groups, communities, and populations  
+Communicator 
+Definition 
+As communicators, preventive medicine specialists form effective 
+relationships with individuals, families, groups, organizations, communities, 
+and populations. 
+Key and 
+enabling competencies: Preventive medicine specialists can: 
+1) Develop rapport, trust, and ethical relationships with individuals, families, 
+groups, organizations, communities, and populations: 
+• Recognize that being a good communicator is a core skill for 
+physicians and that effective communication can foster improved 
+outcomes 
+• Establish constructive relationships with individuals, families, 
+groups, organizations, communities, and populations that are 
+characterized by understanding, trust, respect, honesty, and 
+empathy 
+
+• Respect confidentiality, privacy, and autonomy 
+• Listen effectively 
+• Show awareness of and respond to nonverbal cues 
+• Effectively facilitate all forms of encounters 
+2) Elicit and accurately synthesize relevant information and the perspectives 
+of individuals, families, groups, organizations, communities, and 
+populations, including those of colleagues and other professionals 
+• 
+Gather information about health situations, including the beliefs, 
+concerns, expectations, and experiences of all involved 
+• 
+Seek out and synthesize relevant information from other sources and 
+stakeholders 
+3) Accurately convey relevant information and explanations to individuals, 
+families, groups, organizations, communities, and populations, as well as 
+to colleagues and other professionals 
+• 
+Deliver information humanely and in such a way that it is understandable 
+and encourages discussion and participation in decision making 
+4) Develop a common understanding of issues, problems, and plans with 
+individuals, 
+families, 
+groups, 
+organizations, 
+communities, 
+and 
+populations, as well as with colleagues and other professionals, to 
+develop shared plans 
+• Identify and explore problems to be addressed, including 
+stakeholders' contexts, responses, concerns, and preferences 
+• Respect diversity and differences including, but not limited to, the 
+impact of gender, religion, and cultural beliefs on decision making 
+• Encourage 
+discussions, 
+questions, 
+and 
+interactions 
+during 
+encounters 
+• Engage all stakeholders in shared decision making to develop plans 
+28 
+
+29 
+• Effectively address challenging communication issues through 
+methods such as obtaining informed consent, delivering bad news, 
+and addressing anger, confusion, misunderstanding, and conflicting 
+priorities 
+5) Convey effective oral and written information 
+• Maintain clear, concise, accurate, and appropriate records of 
+encounters and plans 
+• Present reports of encounters and plans 
+• Appropriately convey medical information to ensure the safe transfer 
+of care 
+• Effectively present health information to the public or media 
+o Present epidemiological data and risk information to affected 
+individuals, the public, other professionals, and the media using 
+a variety of modalities 
+o Apply risk communication theory and various communication 
+styles 
+o Develop and implement communication plans, which should 
+include media-related components, concerning public health 
+issues  
+o Effectively respond to public and media enquiries relating to 
+specific health issues using various media channels as required 
+o Evaluate the effectiveness of different types of media including, 
+but not limited to, print, broadcast, and web-based, to reach the 
+intended audience 
+Collaborator 
+Definition 
+As collaborators, preventive medicine specialists work effectively with 
+others to achieve optimal health outcomes. 
+Key and 
+enabling competencies: Preventive medicine specialists can: 
+
+1) Participate effectively and appropriately in interprofessional and 
+interdisciplinary teams and with other partners including, but not limited 
+to, community partners and served populations, as well as in sectors 
+outside the health field 
+• Describe the roles and responsibilities of preventive medicine 
+specialists to other professionals, especially in circumstances 
+concerning legislative authority or emergency situations 
+o Identify and describe the roles, expected contributions, and 
+limitations of all members of interdisciplinary teams assembled 
+to address health issues, educational tasks, or research 
+questions 
+o Identify individuals, groups, and other service providers capable 
+of meaningfully contributing to the definition and solution of 
+individual-, group-, and community-level public health issues, as 
+well as education tasks or research questions concerning, among 
+other 
+topics, 
+social 
+services 
+agencies, 
+mental 
+health 
+organizations, the not-for-profit sector, and volunteers 
+• Recognize and respect the diversity of roles, responsibilities, 
+competencies and, as applicable, the authority of other professionals 
+in relation to their own authority 
+o Describe the organization, structure, function, and effectiveness 
+of community health and social services in at least one area, such 
+as maternal and child health, dental health, child abuse, income 
+maintenance including the not-for-profit sector, volunteering, 
+and other service agencies 
+• Work with others to assess, plan, provide, and integrate services for 
+individuals, families, groups, organizations, communities, and 
+populations 
+30 
+
+31 
+• Work with others to assess, plan, provide, and review other tasks, 
+such as research, education, programs, and administrative 
+responsibilities 
+o Employ a variety of means through which to engage with and 
+enable the participation of key stakeholders 
+o Clearly articulate the goals and objectives of given collaborative 
+processes  
+o Foster collaboration between other individuals and groups 
+• Effectively participate in interprofessional and interdisciplinary 
+interactions including, but not limited to, team meetings 
+• Enter into relationships with other professions to provide quality 
+care and/or health programs 
+• Demonstrate effective team participation including, but not limited to, 
+team leadership and utilizing the principles of team dynamics 
+including, but not limited to, the dyad model of physician–manager 
+integration 
+• Respect team ethics, including confidentiality, resource allocation, 
+and professionalism 
+• Demonstrate the ability to lead a health team, where appropriate 
+2) Effectively work with health professionals and other stakeholders, 
+including community partners and the populations served, to prevent, 
+negotiate, and resolve interprofessional and other conflicts 
+• Demonstrate a respectful attitude toward other colleagues and 
+members of interprofessional teams 
+• Work with other professionals to prevent conflicts 
+• Employ collaborative negotiations to resolve conflicts 
+• Respect differences and address misunderstandings and limits in 
+regard to other professions’ scopes of practice  
+• Recognize any differences, misunderstandings, or limitations that 
+may contribute to interprofessional or interdisciplinary tension 
+
+• Reflect on the functions of interprofessional and interdisciplinary 
+teams 
+• Demonstrate an ability to work collaboratively on initiatives with non-
+health-sector organizations and staff/volunteers 
+o Enter 
+into 
+interdependent 
+relationships 
+with 
+stakeholders/experts in other sectors to assess and apply 
+responses to issues impacting the determinants of health or other 
+services outside of health care. Such stakeholders/experts can 
+include, but are not limited to, school boards, water services, 
+municipal planners, or ministries or other government 
+departments outside of the health sector 
+o Demonstrate an ability to meaningfully engage with the 
+public/clients/community members to identify solutions to the 
+issues that impact them 
+Manager 
+Definition 
+As managers, preventive medicine specialists are integral participants in 
+organizations, as they organize sustainable practices, decide how to allocate 
+resources, and contribute to the effectiveness of healthcare and other 
+systems. 
+Fulfilling a role that is unique among medical specialties, certified preventive 
+medicine specialists are expected to be sufficiently competent to function in 
+administration, management, and leadership roles within organizations that 
+deliver public health services and hospital administrations. These 
+competencies are at the core of the preventive medicine specialty practice. 
+32 
+
+33 
+Key and 
+enabling competencies: Preventive medicine specialists can: 
+1) Participate in activities that contribute to the effectiveness of their health 
+care organizations and healthcare systems (e.g., public health 
+directorates, environmental health units, national registries, and national 
+programs) 
+• Work collaboratively with others in their organizations 
+• Participate in quality improvement initiatives designed to enhance 
+the quality of care and patient safety in preventive medicine, while 
+integrating the best available evidence and practices 
+o Design and implement data collection for a defined service 
+question and integrate with other routinely available and relevant 
+data 
+o Assess evidence for proposed or existing screening programs, 
+using established criteria relating to the performance of 
+screening tests that should include, but not be limited to, 
+sensitivity, specificity, predictive value, and the number of 
+patients requiring screening 
+o Monitor and appraise the impact of screening and other disease 
+detection and prevention programs 
+o Describe the principles of infection control and their application 
+to effective and appropriate procedures and policies aimed at 
+reducing the risk of infection 
+o Develop, implement, and critically appraise relevant practice 
+guidelines 
+o Investigate and intervene when a potential health hazard is 
+identified in clinical settings 
+o Manage projects and programs, including those that feature 
+human, financial, and material resources 
+▪ Hire, support, and guide staff; monitor performance; and 
+receive and give constructive feedback 
+
+▪ Develop and manage budgets, including, but is not limited to, 
+aligning activities and accountability concerning resources, 
+assessing the achievement of objectives, and performing 
+flexible budgeting 
+▪ Develop and implement plans to secure necessary material 
+resources 
+▪ Use information technology effectively in the management of 
+projects and programs 
+o Implement quality improvement techniques that are appropriate 
+for given organizations and settings 
+• Describe the structure and function of the healthcare system as it 
+relates to preventive medicine, including the roles of physicians 
+o Compare and contrast the different models of public health 
+structures 
+o Discuss the organization of workplace health services in Saudi 
+Arabia 
+o Describe principles of health care financing, including physician 
+remuneration, budgeting, and organizational funding 
+2) Manage their practice and career effectively 
+• Set priorities and balance professional responsibilities, outside 
+activities, and their personal lives 
+• Manage a practice, including finances and human resources 
+• Implement processes to ensure the improvement of their personal 
+practice  
+3) Appropriately allocate finite public health resources and participate in 
+service planning, resource allocation, and evaluations at the community, 
+regional, and provincial levels 
+• Recognize the importance of the just allocation of health care 
+resources, while balancing effectiveness, efficiency, and access with 
+optimal patient care 
+34 
+
+35 
+o Allocate finite health resources using evidence-informed and 
+ethical concepts 
+• Apply evidence and management processes for cost-appropriate 
+care 
+o Apply the results of health determinant analysis to policy or 
+program questions to assess the equity implications of options 
+relating to the policies or programs concerned 
+4) Serve in administration and leadership roles 
+• Effectively chair and participate in committees and meetings 
+• Lead or implement changes in health systems 
+o Develop visions, implement strategic plans, and effectively 
+communicate these to other key stakeholders 
+o Influence and negotiate in multi-agency arenas 
+•  Demonstrate critical self-appraisal and reflective practice while 
+fulfilling administration and leadership roles 
+o Demonstrate insight into their own leadership style, personality 
+style, and preferences in different circumstances 
+o Discuss 
+and 
+apply 
+different 
+approaches 
+to 
+leadership 
+development 
+o Use effective and appropriate leadership styles in different 
+settings and organizational cultures, taking the differences 
+between elected and appointed roles into account 
+o Discuss and use techniques relating to conflict management, 
+including negotiation and arbitration 
+Health advocate 
+Definition 
+As health advocates, preventive medicine specialists responsibly use their 
+expertise and influence to advance the health and well-being of individuals, 
+families, groups, organizations, communities, and populations. Preventive 
+
+medicine specialists advocate for the health of individuals or groups and 
+must exercise their judgment to balance their efforts in order to ensure good 
+health for all. Competencies required to function satisfactorily in this role 
+include a full understanding of the tools of population health assessment, 
+community engagement, and the ability to work in partnership with a wide 
+range of interested parties. Preventive medicine specialists apply strategies 
+to influence and build health-based public policies and specific public health 
+policies, while recognizing the role of political factors and the political 
+context; this allows them to influence decision makers and policy decisions 
+by aptly utilizing formal and informal systems. 
+Key and 
+enabling competencies: Preventive medicine specialists can: 
+1) Respond to individual, family, community, and population health needs 
+and issues 
+• Identify the health needs, concerns, and assets of the served 
+individuals, families, communities, and populations  
+• Identify opportunities for advocacy, health promotion, and disease 
+prevention with served individuals, families, communities, and 
+populations  
+• Demonstrate an appreciation of the possibility that competing 
+interests may exist and resolve competing interests by implementing 
+ethical decision-making processes  
+2) Identify the health determinants of the populations they serve 
+• Recognize situations where advocacy is required and delineate 
+strategies for obtaining the desired outcome 
+• Identify vulnerable or marginalized sub-populations within the 
+communities and populations they serve and respond appropriately 
+to their needs 
+36 
+
+37 
+o Engage with vulnerable or marginalized sub-populations 
+including, but not limited to, new immigrants and refugees and 
+socio-economically disadvantaged persons and groups to 
+address health inequalities 
+3) Promote the health of individuals, families, communities, and populations 
+as a means of improving health equality 
+• Describe approaches to addressing the health determinants of the 
+populations they serve, including identifying the roles of public 
+health players 
+• Discuss and analyze health laws that are relevant to public health 
+policy and healthy public policy 
+• Describe how public policy impacts the health of the populations 
+served 
+o Integrate public health, preventive medicine, and social science 
+evidence into strategies for healthy public policy 
+o Discuss the processes for performing health impact assessments 
+and analyze the health impacts of public policy 
+o Discuss policy development mechanisms and implementation 
+methods, including legislation, regulation, and incentives 
+o Demonstrate an understanding of how competing values affect 
+policy making including, but not limited to, equality and the 
+prosperity and common good of the community 
+o Conduct policy analyses and evaluations 
+• Identify points of influence present in the healthcare system and its 
+structure that impact population health 
+• Describe the ethical and professional issues inherent in health 
+advocacy, including altruism, social justice, autonomy, integrity, 
+reciprocity, and idealism 
+
+• Demonstrate an appreciation of the fact that the potential for 
+conflicts with managers or gatekeepers is inherent in their role as 
+health advocates for patients and communities  
+o Demonstrate an appreciation of the potential for and implement 
+strategies to address this form of conflict, balancing multiple 
+accountabilities including, but not limited to, individuals, 
+employers, the public, and other individuals within the health 
+profession 
+• Describe the medical profession’s function of collectively advocating 
+for healthy individuals, systems, and populations 
+o Discuss strategies for advocating for quality improvement and 
+patient safety from a population health perspective, which 
+includes addressing health inequalities 
+Scholar 
+Definition 
+As scholars, preventive medicine specialists demonstrate a lifelong 
+commitment to reflective learning, as well as the creation, dissemination, 
+application, and translation of relevant knowledge. 
+Key and 
+enabling competencies: Preventive medicine specialists can: 
+1) Maintain and enhance professional activities through ongoing learning 
+• Describe the principles of maintaining competence 
+• Describe the principles and strategies for implementing a personal 
+knowledge management system 
+• Recognize and reflect on learning issues in practice 
+• Continually evaluate their own abilities, knowledge, and skills, and 
+remain aware of their professional limitations, thereby seeking 
+advice, feedback, and assistance where appropriate 
+• Pose appropriate questions that facilitate learning 
+38 
+
+39 
+• Access and interpret relevant evidence concerning learning 
+questions 
+• Integrate new learning into practice 
+• Evaluate the impacts of any changes in practice 
+• Document the learning process 
+2) Critically evaluate health-related and other information and its sources, 
+and appropriately apply this information to decisions made during 
+practice 
+• Describe the principles of critical appraisal 
+• Identify, access, and critically appraise data from a variety of 
+sources, including individuals, administrative databases, and the 
+Internet, as well as health, epidemiological, and social-sciences 
+literature 
+• Integrate critical appraisal conclusions into professional practice 
+3) Facilitate the learning of individuals, families, students, residents, other 
+health professionals, the public, and others, as appropriate 
+• Describe principles of learning that are relevant to medical education 
+• Collaboratively identify others’ learning needs and desired learning 
+outcomes  
+• Select effective teaching strategies and content to facilitate others’ 
+learning 
+o Adapt educational and training strategies to learners’ needs  
+• Deliver effective lectures and presentations 
+• Assess and reflect on teaching encounters 
+• Provide effective feedback 
+• Describe the principles of teaching ethics  
+4) Contribute to the development, dissemination, and translation of new 
+knowledge and practices 
+• Describe the principles of research and scholarly inquiry 
+
+o Discuss and apply the principles of quantitative, qualitative, and 
+action-based 
+research/scholarly 
+inquiry, 
+such 
+as 
+study 
+questions/objectives, 
+designs, 
+conduct, 
+analyses, 
+interpretations, and reporting 
+o Discuss and apply sampling methods, as well as the estimation of 
+appropriate sample sizes, including study power, alpha and beta 
+levels, and considerations of type I and II errors 
+o Calculate and interpret measures of frequency, including counts, 
+rates, and ratios and, as applicable, their standardization 
+o Calculate and interpret measures of risk including, but not limited 
+to, relative risk, risk difference, attributable risk, odds ratio, 
+etiologic fractions, and preventive fractions 
+• Describe the principles of research ethics 
+• Pose scholarly questions and participate in research processes 
+• Conduct a systematic search for, and review of, relevant evidence 
+including, but not limited to, systematic reviews and meta-analyses 
+o Recognize potential sources of bias and confusion in research 
+and discuss methods of reducing the impact of these instances 
+through study design and analysis 
+o Discuss interactions including, but not limited to, additive, 
+multiplicative, synergist, and antagonist, as well as effect 
+modification in research; further, discuss methods for their 
+identification and interpretation 
+• Select and apply appropriate methods of addressing questions 
+• Appropriately disseminate and mobilize research findings  
+• Complete scholarly research, quality assurance, and educational 
+projects relevant to preventive medicine in a manner that is suitable 
+for peer-reviewed publications and/or presentation in academic 
+forums 
+40 
+
+41 
+Professional 
+Definition 
+As professionals, preventive medicine specialists are committed to ensuring 
+the health and well-being of individuals and society through ethical practice, 
+profession-led regulation, and high personal standards of behavior. 
+Key and 
+enabling competencies: Preventive medicine specialists can: 
+1) Demonstrate 
+a 
+commitment 
+to 
+individuals, 
+families, 
+groups, 
+organizations, communities, and populations served, as well as to their 
+profession and society, through ethical practice 
+• Exhibit appropriate professional behavior in practice, including 
+accountability, honesty, integrity, commitment, compassion, respect, 
+and altruism 
+• Demonstrate a commitment to delivering the highest quality practice 
+and maintaining competence 
+• Recognize and appropriately respond to ethical issues encountered 
+in practice 
+• Recognize and manage real or perceived conflicts of interest 
+• Recognize, discuss, and apply the principles and limits of 
+confidentiality, privacy, and access to information in accordance with 
+the regulations defined by professional practice standards and 
+applicable laws 
+• Maintain appropriate relations with individuals, families, groups, 
+organizations, communities, and populations 
+2) Demonstrate 
+a 
+commitment 
+to 
+individuals, 
+families, 
+groups, 
+organizations, and populations served, as well as to their profession and 
+society, through participation in profession-led regulation 
+• Demonstrate knowledge and an understanding of professional, legal, 
+and ethical codes of practice 
+
+• Fulfill the necessary regulatory and legal obligations of current 
+preventive medicine practice 
+• Demonstrate accountability to professional regulatory bodies 
+• Recognize and appropriately respond when others’ unprofessional 
+behavior is observed in practice 
+• Participate in peer reviews 
+3) Demonstrate a commitment to physician health and sustainable practice 
+• Balance personal and professional priorities to ensure high 
+standards of personal health and sustainable practice 
+• Improve their personal and professional awareness and insight 
+• Recognize when other professionals need assistance and respond 
+appropriately 
+42 
+
+43 
+STRUCTURE OF THE 
+TRAINING PROGRAM 
+The SBPM program has five major areas of activity: 
+1) Academic training 
+2) Clinical training (Hospital rotations and longitudinal clinical preventive 
+clinics) 
+3) Field rotations (mandatory and elective) 
+4) Research 
+5) Weekly academic half-days 
+These activity areas are designed to train preventive medicine specialists 
+who are ready to begin practice. The educational objectives help to ensure 
+that all elements of the board examinations are met. 
+The training year is divided into six rotations. The rotation duration is 2 
+months. Each rotation consists of a group of academic courses or a 
+hospital/field rotation. During all rotations, 1 day per week is dedicated to 
+academic activities and protected time for research. 
+In each training year, there will be one elective rotation, the content of which 
+will depend on the year of training, the training spots available at the training 
+center, and most importantly, each resident’s competency achievement 
+progress. It can be utilized for mass gathering rotation, fulfilling promotion 
+requirements, data collection for required research projects, or remediation 
+of failed rotations. Throughout the entire program (4 years of training), one 
+elective rotation should be a mass gathering (Hajj and Omrah) rotation. 
+Elective rotations during the other years should be decided by each resident’s 
+program training committee. 
+
+R1 structure 
+Rotation 1 
+Rotation 2 
+Rotation 3 
+Rotation 4 
+Rotation 5 
+Rotation 6 
+Principles of epidemiology 
+(6) 
+Writing health-
+related research 
+proposals (3) 
+Hospital 
+rotations: 
+Internal 
+medicine 
+Hospital 
+rotations: 
+Pediatrics 
+Elective 
+rotation: 
+Mass 
+gathering 
+rotation, 
+fulfilling 
+promotion 
+requirement
+s, data 
+collection, or 
+remediation 
+of failed 
+rotations 
+Principles of biostatistics 
+(6) 
+Statistical 
+methods involved 
+in PM (9) 
+Principles of 
+environment
+al health (3) 
+Social & 
+behavioral 
+sciences (2) 
+Health behavior 
+and health 
+education (3) 
+Health 
+system and 
+services (2) 
+Fundament
+als of 
+health care 
+manageme
+nt (3) 
+Introduction to 
+health economics 
+(3) 
+Critical appraisal (2) 
+Report-writing 
+skills (2) 
+ 
+Academic half-day (1 half-day weekly) 
+
+Protected time allocated to research (1 half-day weekly) 
+ 
+* Numbers in parentheses indicate weekly contact hours. 
+44 
+
+45 
+R2 structure 
+Rotation 1 
+Rotation 2 
+Rotation 3 
+Rotation 4 
+Rotation 5 
+Rotation 6 
+Hospital 
+rotations: 
+Emergency 
+medicine 
+Family 
+medicine 
+- 
+General 
+FM 
+- 
+Well 
+baby 
+- 
+Antenatal 
+Hospital 
+rotations: 
+Psychiatry 
+OR 
+occupational 
+medicine 
+Ethics in 
+preventive 
+medicine 
+(3) 
+Principles of 
+occupational 
+health (3) 
+Elective 
+rotation: 
+Mass 
+gathering 
+rotation, 
+fulfilling 
+promotion 
+requirements, 
+data 
+collection, or 
+remediation 
+of failed 
+rotations 
+Epidemiology and control 
+of communicable 
+diseases (9)* 
+Epidemiology and control 
+of non-communicable 
+diseases (9)** 
+
+Introduction to clinical preventive 
+services (3) 
+Academic half-day (1 half-day weekly) 
+ 
+Protected time allocated to research (1 half-day weekly) 
+ 
+* Including investigations of outbreaks  
+** Including cancers, injuries, CVDs, DM, and obesity 
+
+R3 structure 
+Titles in italics (blue-shaded) indicate field rotations. 
+Rotation 1 
+Rotation 2 
+Rotation 3

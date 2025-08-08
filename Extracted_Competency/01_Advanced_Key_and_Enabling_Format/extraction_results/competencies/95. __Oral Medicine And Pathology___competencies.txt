@@ -1,0 +1,85 @@
+Document: 95. __Oral Medicine And Pathology__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 17-18
+Candidates Found: 24
+Validation: Valid CanMEDS without levels (score: 184/268, 5/7 roles)
+================================================================================
+
+--- Page 17 ---
+OUTCOMES AND COMPETENCIES
+4.3. Share information with patients and other professionals in a manner that respects patient privacy
+and confidentiality.
+C. Collaborator
+As collaborators, Oral Medicine and Pathology residents should work effectively within a health care
+team to provide patients with optimal care.
+Key and Enabling Competencies: Oral Medicine and Pathology specialists are able to:
+1) Participate effectively and appropriately in an inter-professional healthcare team (dental and
+medical)
+1.1. Participate effectively in inter-professional team meetings.
+1.2. Participate in decision-making with other colleagues.
+1.3. Demonstrate leadership in a healthcare team.
+2) Work with other health professionals effectively to prevent, negotiate, and resolve conflict
+2.1. Show respect toward other collaborators.
+2.2. Recognize self-differences and limitations that may contribute to inter-professional conflicts.
+D. Leader
+As leaders, Oral Medicine and Pathology residents should be integral participants in oral healthcare
+organizations, organizing sustainable practices, making decisions about allocating resources, and
+contributing to the effectiveness of the oral healthcare system and promoting the specialty. As
+Pathologists, they play an essential role in quality management within the laboratory.
+Key and Enabling Competencies: Oral Medicine and Pathology specialists are able to:
+1) Contribute in activities that enhance the effectiveness of their health care organizations and
+systems
+1.1. Apply quality management principles to improve patient care delivery.
+1.2. Demonstrate expertise in clinical and laboratory safety initiatives.
+2) Manage their practice and career effectively
+2.1. Set priorities and practice time management skills to integrate practice and personal life.
+2.2. Implement processes to ensure personal practice improvement.
+2.3. Use information technology efficiently.
+3) Demonstrate administrative and leadership roles
+3.1. Demonstrate leadership skills to enhance heath care delivery.
+3.2. Contribute to specialty promotion among dental organizations.
+SAUDI BOARD ORAL MEDICINE AND PATHOLOGY CURRICULUM 15
+
+--- Page 18 ---
+OUTCOMES AND COMPETENCIES
+E. Health Advocate
+As Health Advocates, Oral Medicine and Pathology residents responsibly use their expertise and
+influence to advance the oral health and well-being of individual patients, communities, and
+populations.
+Key and Enabling Competencies: Oral Medicine and Pathology specialists are able to:
+1) Respond to individual patient’s diagnostic and management needs within and beyond the
+clinical environment
+1.1. Identify the determinants of patients’ health, including access to care and resources.
+1.2. Work with patients and families to promote healthy life behaviors.
+2) Respond to the health needs of the communities or populations they serve
+2.1. Work with the community or population representatives to identify the determinants of health
+care that affect them.
+2.2. Improve and modify clinical and laboratory practices to ensure they meet community needs.
+F. Scholar
+As Scholars, Oral Medicine and Pathology residents demonstrate a lifelong commitment to excellence
+in practice through continuous learning and by teaching others, evaluating evidence, and contributing
+to scholarship.
+Key and Enabling Competencies: Oral Medicine and Pathology specialists are able to:
+1) Maintain continuous enhancement of professional activities through ongoing learning
+1.1. Develop and implement a personal learning plan to improve professional practice.
+1.2. Conduct personal practice reviews.
+1.3. Integrate new learning into practice.
+1.4. Identify and contribute to collaborative learning opportunities.
+2) Critically evaluate medical information for effective integration of evidence into practice
+2.1. Formulate a focused question addressing a knowledge gap in clinical or laboratory encounters.
+2.2. Critically appraise health-related research and literature in order to address a clinical or
+laboratory question.
+2.3. Integrate evidence into decision-making in the practice.
+3) Contribute to teaching of other health professionals, residents, students, patients, families,
+the public, and others
+3.1. Describe the principles of learning relevant to medical education.
+3.2. Identify the learning needs and outcomes of the potential learners.
+3.3. Maintain patient safety in the learning environment.
+3.4. Provide feedback in a timely manner to enhance the learning process.
+4) Contribute to the development, dissemination, and translation of new knowledge and
+practices
+4.1. Describe the principals of scientific research and its impact on health care
+4.2. Identify and apply research ethical principles in their practice
+4.3. Contribute to the work of research teams or programs
+4.4. Communicate scientific knowledge with other professionals as well as patients
+16 SAUDI BOARD ORAL MEDICINE AND PATHOLOGY CURRICULUM

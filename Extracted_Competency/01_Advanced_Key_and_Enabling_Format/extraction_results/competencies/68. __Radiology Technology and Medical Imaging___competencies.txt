@@ -1,0 +1,124 @@
+Document: 68. __Radiology Technology and Medical Imaging__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 17-19
+Candidates Found: 16
+Validation: Valid CanMEDS without levels (score: 134/268, 1/7 roles)
+================================================================================
+
+--- Page 17 ---
+CanMEDS competencies relevant in RT&MI;
+ Identify and respond appropriately to relevant ethical issues arising in patient care;
+ Prioritize professional duties appropriately and effectively when facing multiple patients
+and problems;
+ Demonstrate compassionate patient-centered care.
+2. Establish and maintain clinical and technical radiological knowledge, skills, and attitudes
+appropriate for RT&MI:
+ Apply knowledge of clinical, socio-behavioral, and fundamental biomedical sciences
+relevant in RT&MI specialties, including:
+○ The characteristics of all RT&MI types, including but not limited to physical and
+technical aspects, patient positioning, and use of contrast media;
+○ Theoretical, practical, and legal aspects of radiation safety, including but not limited
+to alternative imaging techniques and their possible harmful side-effects;
+SAUDI BOARD OF RADIOLOGY TECHNOLOGY & MEDICAL IMAGING 13
+
+--- Page 18 ---
+SPECIFIC LEARNING OBJECTIVES AND COMPETENCIES
+○ Human anatomy at all ages, both conventional and multiplanar, with emphasis on
+imaging applications;
+○ All aspects of RT&MI, including but not limited to anatomic normal variants and
+disease processes, factors affecting the interpretation of imaging and differential
+diagnoses, correlation of imaging with pathology, complications, including but not
+limited to contrast media reactions. This includes the appropriate application of
+general X-ray, fluoroscopy, US, CT, MRI, NM, and other imaging modalities, as well
+as interventional procedures relevant to imaging the:
+■ Abdominal/pelvic area
+■ Gastrointestinal (GI) system
+■ Hepato–pancreatico–biliary system
+■ Renal and urinary tract
+■ Male reproductive system
+■ Spleen, lymphatic system, and bone marrow
+■ Retroperitoneum
+■ Chest (cardiac imaging)
+■ Air spaces
+■ Airways
+■ Interstitium
+■ Mediastinum, including but not limited to great vessels and esophagus
+■ Pleura
+■ Heart and pericardium
+■ Chest wall
+■ Head and neck
+■ Nose, sinuses, and facial bones
+■ Orbits
+■ Temporal bone, cerebellopontine angle, and skull base
+■ Larynx, hypopharynx, and trachea
+■ Oral cavity and pharyngeal mucosal space
+■ Submandibular space
+■ Carotid space
+■ Masticator space
+■ Retropharyngeal space (RPS) and prevertebral space
+■ Parotid gland, thyroid gland, and esophagus
+■ Dental and maxillofacial region
+■ Brain
+■ Pituitary and parasellar region
+■ Skull
+■ Spinal cord and related structures, including but not limited to peripheral nerves
+■ Cranial nerves
+■ Intracranial and extracranial cerebral vessels
+■ Musculoskeletal imaging
+■ Shoulder, clavicle, and upper arm
+■ Elbow and forearm
+■ Hand and wrist
+■ Pelvis, hip, and thigh
+■ Knee and leg
+■ Ankle and foot
+■ Spine
+14 SAUDI BOARD OF RADIOLOGY TECHNOLOGY & MEDICAL IMAGING
+
+--- Page 19 ---
+SPECIFIC LEARNING OBJECTIVES AND COMPETENCIES
+■ Bone
+■ Development
+■ Marrow
+■ Peripheral nerves
+■ Breast
+■ Malignant diseases
+■ Benign diseases
+■ Gynecological imaging
+■ Ovaries
+■ Non-ovarian adnexa
+■ Non-pregnant uterus and cervix
+■ Endometrium
+■ Vagina and labia
+■ Obstetrical imaging
+■ Uterus, placenta, cord, and adnexa
+■ Fetus
+■ Pediatric area
+■ Head, neck, and spine
+■ Chest/cardiac system
+■ Musculoskeletal system
+■ Abdomen and pelvis
+■ Vascular and interventional radiology
+■ Lymphatic system
+■ Cardiac system
+■ Arterial and venous vascular systems
+■ Abdominal area
+■ Chest and neck
+■ Peripheral area
+■ Interventional procedures
+■ Upper and lower urinary system
+■ GI system
+■ Hepatobiliary system
+■ Respiratory system
+■ Musculoskeletal system.
+ Describe the CanMEDS framework for competencies relevant in the RT&MI specialties;
+ Obtain lifelong relevant learning skills, implement a personal program to remain abreast
+of current issues, and enhance areas of professional competency;
+ Contribute to the enhancement of quality care and patient safety in practice by
+integrating the best practices available in RT&MI.
+3. Perform complete and appropriate assessment of patients necessary before, during, and
+after radiological procedures:
+ Effectively identify and explore issues requiring attention by including the patient
+preferences and context of his or her complaint;
+ Perform a focused physical examination for the purposes of safety, prevention,
+diagnosis, and/or management;
+SAUDI BOARD OF RADIOLOGY TECHNOLOGY & MEDICAL IMAGING 15

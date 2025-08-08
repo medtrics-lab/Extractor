@@ -1,0 +1,12 @@
+{
+  "document": "58. __Pediatric Hematology and Oncology fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 14,
+    "end": 17
+  },
+  "candidates_found": 34,
+  "validation": "Valid CanMEDS without levels (score: 173/268, 3/7 roles)",
+  "content_length": 9884,
+  "success": true
+}

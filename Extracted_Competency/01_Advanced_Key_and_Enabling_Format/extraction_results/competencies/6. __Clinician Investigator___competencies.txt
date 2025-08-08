@@ -1,0 +1,48 @@
+Document: 6. __Clinician Investigator__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 15-16
+Candidates Found: 8
+Validation: Valid CanMEDS without levels (score: 214/268, 5/7 roles)
+================================================================================
+
+--- Page 15 ---
+professional competencies.
+Professional competencies related to healthcare are usually complex and
+contain a combination of multiple learning domains (knowledge, skills, and
+attitudes). The CBE approach is expected to alter them. Several CBE models
+have been developed for postgraduate education in healthcare (e.g.,
+CanMEDS by the Royal College of Physicians and Surgeons of Canada
+(RCPSC), the CBME-Competency model by the Accreditation Council for
+Graduate Medical Education (ACGME), tomorrow’s doctor in the UK, and
+multiple others). The concepts below are to enhance the implementation of
+CBE in this curriculum.
+Competency: Competency is a cognitive construct that assesses one’s
+potential to perform efficiently in a given situation based on professional
+standards. Professional roles (e.g., clinician-investigator experts, health
+advocates, communicators, leaders, scholars, collaborators, and
+professionals) are used to define competency roles to make them manageable
+for learning and assessment.
+Milestones: Milestones are the stages along the developmental journey
+throughout the competency continuum. Trainees will be assisted throughout
+their learning journey at the junior and senior levels to transform from novice or
+supervised practitioners into master or unsupervised practitioners. This should
+
+--- Page 16 ---
+not undermine the role of supervisory and regulatory bodies in independent
+practitioners’ malpractice. Milestones are expected to enhance the learning
+process by pacing training and assessment to match the developmental level
+of the trainees (junior versus senior).
+Learning Domains: Whenever possible, efforts are directed to annotate
+learning outcomes with the corresponding domain (K = Knowledge, S = Skills,
+and A = Attitudes). More than one annotation may exist for a given learning
+outcome.
+Content-area Categorization: Learning outcomes should be categorized into
+broad content areas related to professional practice. Examples of these
+categories include diagnostic versus therapeutic, simple versus complex, and
+acute versus chronic.
+Trainees are expected to progress from a novice to a mastery level in a set of
+professional competencies. SCFHS endorses the CanMEDS to articulate
+professional competencies. This curriculum applies the principles of
+competency-based medical education. CanMEDS/ACGME/OTHER represents
+a globally accepted framework outlining competency roles. The CanMEDS
+2015/ACGME 2018 Framework” has been adopted in this section.

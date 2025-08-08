@@ -1,0 +1,53 @@
+Document: 108. __Vascular Neurology (Stroke)__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 13-14
+Candidates Found: 16
+Validation: Valid CanMEDS without levels (score: 255/268, 7/7 roles)
+================================================================================
+
+--- Page 13 ---
+professional competencies.
+Professional competencies related to healthcare are usually complex and
+contain a mixture of multiple learning domains (knowledge, skills, and
+attitude). CBE is expected to change the traditional method of
+postgraduate education. For instance, the time of training, though a
+precious resource, should not be considered a proxy for competence (e.g.,
+time of rotation in certain hospital areas is not the primary marker of
+competence achievement). Furthermore, CBE emphasizes the critical role
+of informed judgment in learners’ competency progress, based on a
+staged and formative assessment driven by multiple workplace-based
+observations. The CBE model—developed for postgraduate education in
+healthcare (CanMEDS) by the Royal College of Physicians and Surgeons of
+Canada (RCPSC)—has been adopted by the Vascular Neurology program.
+
+--- Page 14 ---
+The following concepts enhance the implementation of CBE in this
+curriculum:
+• Competency: Competency is a cognitive construct that assesses the
+potential to perform efficiently in a given situation based on the
+profession’s standards. Professional roles (e.g., medical expert,
+health advocate, communicator, leader, scholar, collaborator, and
+professional) are used to define competency roles to make them
+suitable for learning and assessment.
+• Milestones: Milestones are the stages of the developmental journey
+throughout the competency continuum. Trainees throughout their
+learning journey, from junior to senior levels, will be assisted in
+transforming from (novice/supervised) to (master/unsupervised)
+practitioners. This should not undermine the role of
+supervisory/regulatory bodies regarding the malpractice of
+independent practitioners. Milestones are expected to enhance the
+learning process by pacing training/assessment to match the
+developmental level of the trainees (junior vs. senior).
+• Learning Domains: Whenever possible, efforts should be directed to
+annotate the learning outcomes with the corresponding domain (K =
+Knowledge, S = Skills, and A = Attitude). There might be more than one
+annotation for a given learning outcome.
+• Content-Area Categorization: It is advisable to categorize learning
+outcomes in broad content areas concerning the practice of the
+profession. For example, diagnostic versus therapeutic, simple versus
+complex, and urgent versus chronic.
+• Trainees are expected to progress from the novice to mastery level in
+certain professional competencies. The SCFHS has endorsed
+CanMEDS to articulate professional competencies. This curriculum
+applies the principles of competency-based medical education.
+CanMEDS is a globally accepted framework that outlines competency

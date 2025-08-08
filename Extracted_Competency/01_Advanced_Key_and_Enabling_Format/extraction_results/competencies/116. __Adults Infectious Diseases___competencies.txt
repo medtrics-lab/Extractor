@@ -1,0 +1,87 @@
+Document: 116. __Adults Infectious Diseases__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 15-16
+Candidates Found: 19
+Validation: Valid CanMEDS without levels (score: 195/268, 4/7 roles)
+================================================================================
+
+--- Page 15 ---
+CanMEDS competencies relevant to their practice
+1.3. Identify and appropriately respond to relevant ethical issues arising in patient care
+1.4. Effectively and appropriately prioritize professional duties when faced with
+multiple patients and problems
+1.5. Demonstrate compassionate and patient-centered care
+1.6. Recognize and respond to the ethical dimensions in medical decision making
+1.7. Demonstrate medical expertise in situations other than patient care, such as
+providing expert legal testimony or advising governments, as needed
+2. Establish and maintain clinical knowledge, skills, and attitudes appropriate to their
+practice
+2.1. Apply knowledge of the clinical, socio-behavioral, and fundamental biomedical
+sciences relevant to one’s specialty
+2.2. Describe the Royal College of Physicians and Surgeons of Canada (RCPSC)
+framework of competencies relevant to the physician’s specialty
+2.3. Apply lifelong learning skills of the Scholar Role to implement a personal program
+of keeping up to date with current practices, and enhance areas of professional
+competence
+2.4. Contribute to the enhancement of quality care and patient safety in practice,
+integrating the available best evidence and best practices
+3. Perform a complete and appropriate assessment of patients
+3.1 Effectively identify and explore issues to be addressed in a patient encounter,
+including the patient’s context and preferences
+3.2 For the purposes of disease prevention and health promotion, diagnosis, and/or
+management, prepare a history that is relevant, concise, and accurate to the
+context and preferences
+3.3 For the purposes of disease prevention and health promotion, diagnosis, and/or
+management, perform a focused physical examination that is relevant and
+accurate
+3.4 Select medically appropriate investigative methods in a resource-effective and
+ethical manner
+3.5 Demonstrate effective clinical problem solving and judgment to address patient
+problems, including interpreting available data and integrating relevant
+information to generate differential diagnoses and management plans
+SAUDI FELLOWSHIP ADULT INFECTIOUS DISEASES CURRICULUM 13
+
+--- Page 16 ---
+COMPETENCIES FOR THE FELLOWSHIP PROGRAM
+4. Use preventive and therapeutic interventions effectively
+4.1 Implement an effective management plan in collaboration with a patient and
+his/her family
+4.2 Demonstrate effective, appropriate, and timely application of preventive and
+therapeutic interventions relevant to the physician’s practice
+4.3 Ensure that informed consent is obtained for treatments
+4.4 Ensure that patients receive appropriate end-of-life care
+5. Demonstrate proficient and appropriate use of both diagnostic and therapeutic
+procedural skills
+5.1 Demonstrate effective, appropriate, and timely performance of diagnostic
+procedures relevant to the practice
+5.2 Demonstrate effective, appropriate, and timely performance of therapeutic
+procedures relevant to the practice
+5.3 Ensure appropriate informed consent is obtained for procedures
+5.4 Appropriately document and disseminate information related to procedures
+performed and their outcomes
+5.5 Ensure adequate follow up for procedures performed
+6. Seek appropriate counsel from other health professionals, in recognition of the
+limits of one’s expertise
+6.1 Demonstrate insight into one’s own limitations of expertise via self-assessment
+6.2 Demonstrate effective, appropriate, and timely consultation of another health
+professional as needed for optimal patient care
+6.3 Arrange appropriate follow-up care services for a patient and his/her family
+Communicator
+Definition
+As Communicators, physicians effectively facilitate the doctor–patient relationship and the
+dynamic exchanges that occur before, during, and after a medical encounter.
+Description
+Physicians enable patient-centered therapeutic communication through shared decision
+making and effective dynamic interactions with patients, families, caregivers, other
+professionals, and important other individuals. The competencies of this Role are essential
+for establishing rapport and trust, formulating diagnoses, delivering information, striving for
+mutual understanding, and facilitating a shared plan of care. Poor communication can lead to
+undesired outcomes, whereas effective communication is critical for optimal patient
+outcomes. The application of these communication competencies and the nature of the
+doctor–patient relationship vary for different specialties and forms of medical practice.
+Elements
+ Patient-centered approach to communication
+ Rapport, trust, and ethics in the doctor–patient relationship
+ Therapeutic relationships with patients, families, and caregivers
+ Diverse doctor–patient relationships for different medical practices
+14 SAUDI FELLOWSHIP ADULT INFECTIOUS DISEASES CURRICULUM

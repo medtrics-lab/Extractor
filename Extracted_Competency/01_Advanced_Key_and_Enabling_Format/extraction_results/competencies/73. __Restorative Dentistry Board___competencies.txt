@@ -1,0 +1,50 @@
+Document: 73. __Restorative Dentistry Board__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 185-186
+Candidates Found: 44
+Validation: Valid CanMEDS without levels (score: 155/268, 4/7 roles)
+================================================================================
+
+--- Page 185 ---
+educational objectives.
+- How to write educational objectives.
+
+--- Page 186 ---
+CanMEDS
+Lecture/Workshop Content
+competencies
+5. Problem- - Definition and rationale.  Scholar
+based - Steps of practice-based learning.  Leader
+learning - Roles of group members.
+6. Self-directed - Definition and rationale.  Collaborator
+learning - Principles of SDL.  Scholar
+- Steps of SDL.  Professional
+- Advantages of SDL.
+- Perception of SDL.
+7. Group - Definition of group dynamics and behavior that affects the  Collaborator
+dynamics and group process.  Professional
+teamwork - Stage of group development.
+- Functions and ground rules in group work.
+- Nature of teamwork.
+- Steps for creating an effective team.
+- Importance of teamwork in education and health care.
+8. Assessment - - Definition of assessment. Scholar
+and new - Summative and formative assessments.
+methods of - Extended matching items versus MCQ.
+assessment - Objective structured clinical and practical examinations.
+- Portfolio.
+- Work-based assessments.
+9. Feedback and - Definition of feedback and self-reflection.  Scholar
+self-reflection - The importance and effect of feedback and self-reflection  Collaborator
+on learning outcomes.  Professional
+10. Presentation - Rationale for and basic components of an oral presentation.  Collaborator
+skills - Steps for preparing and creating effective presentations.  Scholar
+- Manage the presentation environment.  Professional
+- Use visual aids and support materials.
+- Understand and overcome fear and anxiety of public
+speaking and gaining confidence and control.
+- Balancing verbal and non-verbal messages to engage
+listeners.
+- Maximizing vocal delivery.
+- Body language tips and techniques.
+- Interacting with and handling questions from the audience.

@@ -1,0 +1,731 @@
+entrustable professional activities 
+(EPAs) and milestones system of evaluation in the following curriculum 
+versions.  
+ The SaudiMED-FM 2020 framework is composed of 24 competencies 
+distributed across six main domains: 
+ 
+Medical 
+Knowledge
+Patient Care
+Communication 
+and Collaboration
+Management and 
+Leadership
+Professionalism
+Scholarship
+9
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+Medical Knowledge 
+Definition
+The family physician is competent to recall, analyze and apply  a 
+broad and deep fund of knowledge to proficiently care for a 
+diverse patient population with undifferentiated healthcare needs1 
+Description
+The medical knowledge domain is about establishing and evolving 
+biomedical, clinical, epidemiological, and social-behavioral sciences as well 
+as applying this knowledge to patient care. Family physicians are required to 
+understand and discuss a very wide spectrum of information to meet 
+patients’ diverse needs, and they are required to apply this information into 
+practice correctly and efficiently.  
+ Medicine is constantly evolving, and because of the unique nature of the 
+specialty, the scope of knowledge expected to be covered by residents is 
+insufficient for actual practice. A desire for and an understanding of the 
+need for a lifelong-learning approach to the practice of FM is a requisite 
+attribute for physicians providing quality healthcare. 
+ Consequently, this domain seeks to ensure that residents are trained to 
+continually investigate, question, and seek new knowledge; share those best 
+practices with medical colleagues; and employ said knowledge in the 
+diagnosis and treatment of patients by practicing appropriate decision-
+making processes. 
+Competencies
+MK 1: Demonstrates medical knowledge of sufficient breadth and depth to 
+practice FM.  
+MK 2: Applies critical thinking and decision-making skills in patient care 
+based on the best available information and resources. 
+1- Adapted from the ACGME competency framework 
+10
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+Patient Care 
+Definition
+The family physician is competent to provide accessible, 
+quality, comprehensive, compassionate, continuous, and 
+coordinated care by using the biopsychosocial perspective and 
+patient-centered model of care with patients in the context of 
+family and community, not limited by age, sex, disease, or clinical 
+setting.
+Description
+The patient care domain is about the functional competencies that are 
+required by a family physician to provide services per the national MOC 
+systems. The family physician should deliver these functions to all patients 
+and in any setting, demonstrating the capability of ensuring patients’ safety, 
+best clinical outcomes, and satisfaction. 
+ The new MOC is designed based on “systems” of care, rather than 
+specialties or settings. By using a system-based modeling approach, 
+integration is intrinsically built into the new MOC. The six systems of care are 
+selected based on the six tasks a person will have from before they were 
+born, till the need to support their bereaved family after they have died: 
+preventive and promotive care, maternal and child care, acute and urgent 
+care, chronic care, planned care, terminal care. 
+ Family physicians have key roles in all systems of the new MOC; however, 
+the level of involvement varies from sole provider to only a care coordinator. 
+Furthermore, family physicians should be adaptable to different clinical 
+situations, master the use of time as a tool for resolving uncertainty, and 
+should be capable of maintaining high-quality and comprehensive care for 
+all patients.  
+Competencies and sub-competencies
+PC 1: Provides preventive and promotive care to all individuals and their 
+families in the targeted community. 
+PC 1.1: Promotes a healthy lifestyle including exercise, healthy diet, and 
+avoidance of hazardous substances and behaviors. 
+PC 1.2: Provides screening services according to current best practices. 
+PC 1.3: Arranges and delivers Immunization and pharmacological 
+interventions to targeted populations including specific interventions, 
+seasonal campaigns, Hajj, school wellness programs, and traveling abroad. 
+PC 1.4: Applies appropriate protocols for notification, isolation and handling 
+cases with flagged or unidentified infectious diseases and participate in 
+diseases surveillance to minimize risks of an outbreak. 
+PC 1.5: Applies appropriate protocols to minimize microbial resistance to 
+antibiotics in the community by the means of health education, counseling, 
+conscious antibiotics prescription and managing antibiotic-resistant cases. 
+11
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+PC 2: Provides continuous maternal and child care through a well-structured 
+system to support safe pregnancy and delivery and foster children’s wellbeing.  
+PC 2.1: Provides premarital care to “would be” married couples through 
+counseling, family planning, and screening for genetic and infectious 
+diseases according to the national health system. 
+PC 2.2: Provides comprehensive preconception and antenatal and 
+postpartum care through a well-structured system of screening, assessment, 
+managing, and monitoring. 
+PC 2.3: Manages safe delivery of newborns by care coordination and 
+assisting with or applying direct interventions according to the situation to 
+ensure mothers’ and newborns’ safety. 
+PC 2.4: Promotes child wellbeing through well-structured care including 
+health counseling, screening, immunization, and monitoring. 
+PC 3: Manages acute or urgent problems by providing needed treatment in the 
+right place at the right time. 
+PC 3.1: Identifies and stabilizes patients with emergencies and life-
+threatening conditions to facilitate appropriate, timely and safe care 
+delivery. 
+PC 3.2: Manages patients with common acute illnesses through 
+comprehensive “biopsychosocial” care to alleviate acute health problems. 
+PC 3.3: Participates effectively in rapid response systems to facilitate better 
+clinical outcomes and the proper utilization of resources.  
+PC 4: Manages patients with chronic illnesses and terminally ill patients by 
+providing comprehensive biopsychosocial-spiritual and integrated and 
+coordinated care to improve patients’ and caregivers’ quality of life. 
+PC 4.1: Manages chronic illnesses through well-structured, continuous and 
+evidence-based healthcare services to control symptoms, and prevent 
+complications. 
+PC 4.2: Coordinates comprehensive and patient-centered multidisciplinary 
+care for patients with chronic illnesses per patients’ needs and conditions. 
+PC 4.3: Provides outreach care to patients with chronic illnesses at home, 
+and assists caregivers with the necessary information and skills to improve 
+quality of care. 
+PC 4.4: Provides comprehensive multidisciplinary care for terminally ill 
+patients and their families, per their culture, goals, and needs, to improve 
+patients’ and their families’ quality of life. 
+PC 5:  Delivers specialty-specific planned care and coordinate other planned 
+care through an accessible and efficient pathway. 
+PC 5.1: Identifies and assesses patients in need of elective interventions, and 
+provides necessary information regarding indicated procedures including 
+preparation, hospital stay, risk of complications, and prognosis. 
+PC 5.2: Performs FM-specific elective procedures in a well-controlled and 
+safe environment. 
+PC 5.3: Provides post-procedural care to assess improvement and monitor 
+complications. 
+12
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+Communication and Collaboration 
+Definition 
+ 
+The family physician is competent to communicate and 
+collaborate effectively with patients, families, physicians and other 
+health professionals. 
+ Description 
+ The communication and collaboration domain of the framework is about 
+developing and maintaining productive relationships with patients, families, 
+and health professionals through effective communication and 
+collaboration, appropriate documentation, and active use of technology to 
+enhance performance. 
+ Effective communication and collaboration requires family physicians to 
+develop meaningful relationships with their patients, patients’ families, and 
+healthcare professionals involved in the care of those patients. To achieve 
+these qualities, the family physician must be a competent listener and 
+speaker, and capable of combining verbal and nonverbal interactions to 
+successfully share information. 
+ A foundation of trust must be established between family physicians and 
+their patients, patients’ families, and healthcare workers, to facilitate an 
+open and healthy environment and ensure honest dialogue. Combining 
+interpersonal and communication skills with accurate record keeping and 
+appropriate use of technology ensures that the information communicated 
+throughout the treatment process is comprehensive, appropriate, and 
+timely. 
+ Competencies  
+CC 1: Develops and maintains meaningful relationships and effectively 
+communicates with patients, families, physicians, and other healthcare 
+professionals. 
+CC 2: Collaborates with healthcare professionals and participates effectively 
+in teamwork and inter-professional activities. 
+CC 3: Documents and shares patient information appropriately to facilitate 
+clinical decision-making, and preserve confidentiality. 
+CC 4: Uses technology to enhance communication with individuals’ 
+community and health professionals. 
+13
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+Management and Leadership 
+Definition
+The family physician is a competent leader and a role model 
+to others’ in planning, managing, and monitoring healthcare 
+processes to achieve health goals, optimize resource utilization, 
+and maximize patients’ safety.
+Description
+The management and leadership domain focuses on the underpinnings of 
+good medical practice in different healthcare systems: safety and quality, 
+physician advocacy, health insurance, healthcare economics, care 
+transitions, and so on. All these diverse facets of medical practice are 
+systems that require management skills to operate and leadership skills to 
+navigate. 
+ Family physicians must have awareness regarding the healthcare systems 
+in which they operate and can provide high-quality, cost-effective medical 
+care in the context of these systems and their attendant resources. They 
+should have the ability to prioritize, use health resources wisely, and 
+effectively execute tasks collaboratively with colleagues. 
+ The family physician should incorporate the elements of population-based 
+medicine in the management of primary care practice by identifying the 
+community health needs, participate in community diagnosis, and ensure 
+community participation in the changing process.  
+Competencies 
+ML 1: Provides cost-conscious medical care to optimize resources utilization. 
+ML 2: Assesses, improves, and monitors the quality of care delivered to 
+patients and their families. 
+ML 3: Applies patient safety principles and measures to minimize the 
+incidence and impact of, and maximize the recovery from, adverse events. 
+ML 4: Advocates for individuals, families, and community health according 
+to their health needs and priorities, based on the principles of the 
+community-oriented primary care model. 
+ML 5: Manages conflicts in the workplace effectively and professionally, 
+whether they are personal conflicts, disputes with patients and their families, 
+or conflicts within the healthcare team. 
+14
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+Professionalism 
+Definition 
+ The family physician is competent to act professionally in all situations 
+related to personal wellbeing and the wellbeing of patients and their 
+families. 
+Description 
+ The professionalism domain of the framework focuses on the attitude and 
+behaviors of the family physician; emphasizing that the family physicians 
+must treat all people with respect, compassion, and dignity. They should 
+prioritize patient needs over self-interests. Moreover, they should accept and 
+understand that they are accountable not only to the patient but also to 
+their colleagues and society. 
+ Family physicians’ belief in the capability of the patient-centered model is 
+central to organizing and delivering the best possible healthcare. They 
+believe that the keys to healthcare excellence are a high degree of 
+competency and integrity among themselves and their professional 
+colleagues, respecting patients’ autonomy, sharing responsibility, and 
+responding to diverse populations needs. 
+ Professionalism requires individuals to accept responsibilities, and 
+accountabilities, through maintenance and continuous development of 
+competencies, and practice of self-regulation and commitment to ethical 
+standards. 
+  
+Competencies  
+PO 1: Adheres to ethical principles derived from the profession, Islamic faith 
+and culture, and humanist values. 
+PO 2: Recognizes and adheres to rules and regulations organizing the 
+healthcare practices in the kingdom. 
+PO 3: Develops and maintains professional conduct and sense of 
+accountability. 
+PO 4: Demonstrates a commitment to physician health and wellbeing.  
+15
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+Scholarship 
+Definition 
+The family physician is competent to provide a lifelong 
+commitment to reflective learning; and to create, search, 
+evaluate, and educate others on scientifically based clinical 
+information. 
+Description 
+ The Scholarship domain of the framework focuses on family physicians’ 
+commitment to lifelong learning, self-directed learning, teaching others, and 
+contribution in the generation and dissemination of new information. Family 
+physicians evaluate personal and professional strengths through self-
+evaluations, reflections, and seeking feedback from faculty and mentors.  
+ Family physicians can access and review scientific literature and data in 
+medical journals and databases, apply critical appraisal techniques to 
+determine data validity and relevance, and finally manage to translate it to 
+meaningful practices that benefits all patients 
+ Family physicians contribute to scholar society through their ability of 
+collecting observations, analyzing findings, describing outcomes, and 
+drawing conclusions 
+Competencies  
+SC 1: Demonstrates capacity for reflective practice, personal growth, and 
+lifelong learning. 
+SC 2: Contributes effectively in educating individuals and community, 
+including patients, students, residents, and other healthcare professionals.  
+SC 3: Integrates best available evidence into practice considering context, 
+epidemiology of the disease, comorbidity, and the complexity of patients. 
+SC 4: Contributes to scientific research and publication of knowledge 
+relevant to FM practice. 
+16
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+Alignment with other competency frameworks
+There are several competency frameworks around the world that have 
+been generated according to each country's unique healthcare system and 
+the perception of physicians’ roles in those systems. Although they are 
+typically similar, there are some differences in the categorization of 
+competencies, the weight of each category, and the definitions of some 
+competencies. 
+ In this section, we highlight the similarities between the SaudiMED-FM 2020 
+and other national and international frameworks (i.e., ACGME, CanMEDS, 
+and SaudiMED for undergraduates (SaudiMED-UG)) to generate some sort of 
+alignment to improve understanding of the SaudiMED-FM 2020 framework 
+components.  
+Medical knowledge 
+ This This domain was adopted from the ACGME framework and resembles 
+the “scientific approach to practice” competency in the SaudiMED-UG. In 
+CanMEDs, this domain is covered within the “medical expert” role. 
+Patient care 
+ This domain was also adopted from the ACGME framework and resembles 
+the “patient care” competency in the SaudiMED-UG. In CanMEDs, this 
+domain is covered within the “medical expert” role. The major differences 
+lay in the adoption of the new MOC in the competencies within this domain. 
+Communication and collaboration 
+ This domain was adopted from the SaudiMED-UG framework and 
+resembles the “Interpersonal and communication skills” competency in the 
+ACGME. In CanMEDs, this domain is covered within the “communicator” 
+and “collaborator” roles. 
+Management and Leadership 
+ This domain was adopted from CanMEDs “leader” and “advocator” roles 
+and resembles the “system-based practice” competency in the ACGME 
+and “community-oriented practice” competency in the SaudiMED-UG. 
+Professionalism 
+ This domain is the best example of how frameworks are almost identical in 
+some parts. This domain resembles the “professionalism” competency in the 
+ACGME and SaudiMEDUG frameworks. In CanMEDs, this domain is covered 
+within the “professional” role. 
+Scholarship  
+ This domain was adopted from CanMEDs role “Scholar” and resembles the 
+“practice-based learning” competency in the ACGME and the “research 
+and scholarship” competency in the SaudiMEDUG.
+17
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+18
+ SaudiMED-FM 2024 
+ 
+Medical Expert
+Medical Expert 
+and Advocator
+Communicator 
+and Collaborator
+Advocator and 
+Leader
+Professional
+Scholar
+CanMEDs
+Medical 
+Knowledge
+Patient Care
+Interpersonal and 
+Communication
+System Based 
+Practice
+Professionalism
+Practice Based 
+Learning
+ACGME
+Scientiﬁc 
+Approach to 
+Practice
+Patient Care
+Communication 
+and Collaboration
+Community 
+Oriented 
+Practice
+Professionalism
+Research and 
+Scholarship
+SaudiMED-
+UG
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+19
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+ 
+Chapter Three: 
+Curriculum Structure 
+20
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+Clinical Rotation 
+Guide 
+General curriculum 
+ The duration of the FM training program is 3 years. Training is structured so 
+that a coherent and integrated educational program with progressive 
+resident responsibility is ensured. Education is designed as a spiral curriculum: 
+through a process of repetition, re-exposure, and re- emphasis, residents 
+learn and continue to add to their overall knowledge and skills. 
+ Training consists of two phases. The first two years (“junior”) are designed for 
+training mainly in major specialties (FM I and II, internal medicine, general 
+surgery (GS), pediatrics, emergency medicine, OB/GYN, psychiatry, ENT, 
+dermatology, and ER). The third year (“senior”) training is mainly in FM III. 
+ The rotations in the 1st and 2nd years can be taken interchangeably 
+without a specific order. The curriculum rotations are categorized based on 
+training processes options as follows: 
+  
+Full-time rotations: These should be taken in the hospital with 
+the allocated specialty where the resident works as a full-time 
+resident with the same duties and responsibilities of a junior 
+resident from the same specialty (e.g., internal medicine, GS, 
+pediatric, OB/GYN, psychiatry, emergency medicine, and 
+dermatology) 
+Multi-options rotations: Program administration should 
+conduct these per the available resources: as a workshop, 
+simulation, in weekly educational activities, or in standard 
+hospital rotations (e.g., ENT, ophthalmology, radiology, 
+orthopedic and musculoskeletal) 
+ Below, we present different structural models of the FM curriculum. Models 
+A and B present a different order of hospital rotations in years 1 and 2, while 
+Model C presents hospital rotations for all major specialties without 
+conducting workshops. The Program Training Committee (PTC) should 
+choose the most appropriate FM program structure based on the available 
+resources; thus, the program structure is not limited to the below models. In 
+addition, further splitting of the long rotations to not less than 4 weeks of 
+duration for each part is possible if needed.  
+21
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+Module A 
+Module B 
+Module C 
+FAMILY MEDICINE PROGRAM STRUCTURE
+R1
+16 w. FM I
+4 w. 
+AEM
+4 w. 
+GS
+12 w IM
+4 w. 
+PEM
+8 w PED
+4 w. 
+Annual 
+Leave
+Total 
+52 W.
+R2
+8 w. OG
+4 w. 
+DER
+8 w. PSY
+12 w. FM II
+16 w. Multi-options rotations  
+(ENT/ORT(MSK)/OPT/RAD)
+R3
+4 w. 
+ELC
+4 w. 
+SEL
+4 w. 
+AEM
+36 w. FM III  
+FAMILY MEDICINE PROGRAM STRUCTURE
+R1
+16 w. FM I
+4 w. 
+AEM
+4 w. 
+PEM
+12 w IM
+4 w. 
+DER
+8 w PSY
+4 w. 
+Annual 
+Leave
+Total 
+52 W.
+R2
+8 w. OG
+4 w. 
+GS
+8 w. PED
+12 w. FM II
+16 w. Multi-options rotations  
+(ENT/ORT(MSK)/OPT/RAD)
+R3
+ 
+48 w. FM III + SEL + ELC + AEM
+FAMILY MEDICINE PROGRAM STRUCTURE
+R1
+16 w. FM I
+4 w. 
+AEM
+4 w. 
+GS
+12 w IM
+4 w. 
+PEM
+8 w PED
+4 w. 
+Annual 
+Leave
+Total 
+52 W.
+R2
+8 w. OG
+4 w. 
+DER
+8 w. PSY
+12 w. FM II
+4 w. 
+ENT
+4 w. 
+OPT
+4 w. 
+ORT/
+MSK
+4 w. 
+RAD
+R3
+4 w. 
+ELC
+4 w. 
+SEL
+4 w. 
+AEM
+36 w. FM III
+22
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+Elective Vs Selective Rotations 
+The FM curriculum several opportunities to develop residents’ KSA through 
+the elective rotations, which are distributed in years 2 and 3. The FM 
+curriculum stresses elective rotation to give the residents the chance to 
+select some clinical rotations that might be not taken in the program (e.g., 
+neurology, urology, nephrology, etc.) or to choose clinical rotations in which 
+they need further training. The elective rotation has more value in the 
+programs that choose to conduct workshops for multi-options rotations 
+owing to bridging knowledge gaps and residents’ desire to work with 
+relevant clinical specialists.  
+ During the third year of the FM residency, the curriculum offers further 
+selective rotation in the FM sub-specialties, which are an extension of the FM 
+specialty. In case these selective sub-specialties are not feasible, the resident 
+should spend the selective rotation in FM III. Upon mandatory approval from 
+the director of the training program, residents can choose from the following 
+list of clinical rotations as part of his/her Selective Module: 
+O Geriatric care
+O Home healthcare
+O Adolescence medicine 
+O Diabetic care
+O Occupational medicine
+O Palliative care 
+O Woman Health
+O Life Style Medicine
+O Primary Mental Health
+O Research ﬁeld (if the resident is going to conduct a full research thesis)
+O Others (as appropriate)
+Multi-options clinical rotation 
+ The FM curriculum has focused on the resident to gain the needed 
+competencies in the FM program. These competencies can be gained by 
+scheduling the residents to rotate in the main specialties. Other 
+competencies and skills can be obtained by either rotating the residents in 
+these specialties (e.g., ophthalmology, ENT, radiology, orthopedic, home, 
+healthcare, palliative) or conducting educational activities (workshop) that 
+achieve the same outcome.  
+ Workshops are designed to be intensive educational programs for a 
+relatively small group of residents to gain specific competencies. It is a 
+scientific event with the objective of presenting updated knowledge and to 
+teach medical skills that are needed to practice FM.  
+ The curriculum is designed to be flexible to residents’ needs, availability of 
+resources, and readiness of the medical setting. The training administration 
+shall schedule the residents in the traditional hospital rotations (example 1) or 
+conduct workshops for all or some of the multi-options rotations (examples 2 
+and 3) that ensures delivering the updated knowledge and gaining the 
+procedural skills that match their required competencies. 
+23
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+Example 1 
+Example 2 
+Example 3 
+  
+ These workshops can be conducted over (around) 4 weeks per the PTC. It 
+is advisable to utilize the skill labs, and activate interprofessional education 
+by encouraging participation of specialities’ doctors, nurses, and other 
+healthcare professionals to obtain maximum benefits from the workshop. The 
+learning style of these workshops focuses on small group discussion, 
+assignments, hands-on activities, and simulations. During the workshops, the 
+resident is requested to perform clinical duties that enhance the learning 
+objectives of the workshops in specialty clinics and/or FM clinics per the 
+program administration decision; i.e., not less than 2 clinics/week and not 
+more than 7 clinics/week. Furthermore, the clinical exposure of the multi-
+options rotations should be merged with workshops activities to link the 
+learned skills from the workshops with the clinical practice. 
+On-call duties 
+ On-call duties have a crucial educational impact on residents’ professional 
+growth since they enhance collaboration skills with other specialties and 
+polish the skills in dealing with urgent and emergency cases. Thus, on-call 
+duties are mandatory in the FM curriculum. Therefore, FM residents are 
+required to join clinical rotations with an assigned team and fulfil the duties 
+as a full-time junior resident from the same specialty. Residents are expected 
+to attend the clinic and cover the on-call duties per the Saudi commission 
+rules and regulations. 
+ During the third year of residency, the adult ED rotation can be merged 
+with FM III, and at least 18 ED shifts (shift = 8 hours duty) should be completed 
+ENT
+OPT
+RAD
+ORT/MSK
+4 w. rotation
+4 w. rotation
+4 w. rotation
+4 w. rotation
+ENT
+OPT
+RAD, ORT/MSK
+ELC
+4 w. rotation
+4 w. rotation
+4 w. workshop
+4 w. rotation
+ENT, OPT
+ELC
+RAD, ORT/MSK
+ELC
+4 w. workshop
+4 w. rotation
+4 w. workshop
+4 w. rotation
+24
+ SaudiMED-FM 2024 
+ 
+FM
+Family Medicine
+PSY
+Psychiatry
+AEM
+Adult Emergency Medicine
+GS
+General Surgery
+PEM
+Pediatric Emergency Medicine
+OG
+Obstetrics and Gynecology
+IM
+Internal Medicine
+PED
+Pediatric
+DER
+Dermatology
+ENT
+Otolaryngology
+ORT/MSK
+Orthopedic / Musculoskeletal 
+OPT
+Ophthalmology
+RAD
+Radiology
+ELC
+Elective
+SEL
+Geriatrics/Diabetes Care/Palliative/
+Women’s Health and Family 
+Planning/Primary Mental Health/ 
+Lifestyle Medicine/Home Health 
+Care/Home Health Care
+
+Saudi Board for Family Medicine Curriculum 2024
+per the rotation requirements. During the FM modules, the FM program can 
+assign the resident to cover the FM clinic any time (day or night) as long as 
+there is clinical supervision. Furthermore, the resident could cover two “8 
+hours” shifts per month at Emergency department (or urgent care clinics) per 
+the program request and decision. The clinical rotations are described in 
+detail below. 
+25
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+Family Medicine Rotation 
+Activities description: 
+FM rotations extended over the three-year span of the training curriculum 
+are the core rotations in which the residents are exposed, learn, and apply 
+most of the principles, knowledge, and skills related to FM. The following 
+section will describe the overall outcomes required by the specialty—a further 
+and detailed section that describes the appropriate milestones required 
+annually will be released in 2020. The FM rotations are intended to provide FM 
+residents with exposure to common FM-related conditions (i.e., emergencies, 
+acute, and chronic) in the community, and to be involved in decision-making 
+processes regarding assessment, diagnosis, and management of patients with 
+health problems. 
+Activities types: 
+The following are the activity types that the residents are expected to cover 
+during the FM rotations
+1. FM clinics: Four hours of supervised, general FM clinic. 
+2. Specialized services: Four hours of supervised, specialized services 
+including well-baby clinic, antenatal care clinic, chronic diseases clinic, 
+home care, mental health clinic, health promotion and disease 
+prevention clinic, etc.). 
+3. Urgent Care Services: Eight hours of supervised duty at an urgent care 
+unit or emergency department (ED). 
+Specific rules 
+In the FM rotations, the FM residents must: 
+O Rotate in all FM units in the FM center (FMC) or other relevant 
+departments based on department structure (e.g., ANC at obstetrics 
+department if the service is not actually established at the FMC)  
+O Complete at least 7 clinical sessions per week. 
+O Participate actively in the FMC’s academic activities including morning 
+meetings, interdepartmental meetings, and tutorials. 
+O Attend FM program WADA, which includes a weekly full-day release. 
+Full-time
+FM I, II, 
+and III
+16, 12, and 
+36 weeks
+Juniors and 
+seniors
+26
+ SaudiMED-FM 2024 
+
+Saudi Board for Family Medicine Curriculum 2024
+Competencies 
+By the end of rotations, the resident shall be able to: 
+27
+ SaudiMED-FM 2024

@@ -1,0 +1,12 @@
+{
+  "document": "53. __Saudi Fellowship Program in Nephrology__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 15,
+    "end": 16
+  },
+  "candidates_found": 11,
+  "validation": "Valid CanMEDS without levels (score: 176/268, 3/7 roles)",
+  "content_length": 5139,
+  "success": true
+}

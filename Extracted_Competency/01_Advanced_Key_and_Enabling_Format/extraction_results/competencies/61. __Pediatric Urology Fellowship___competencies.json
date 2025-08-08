@@ -1,0 +1,12 @@
+{
+  "document": "61. __Pediatric Urology Fellowship__.pdf",
+  "method": "Improved CanMEDS Without Levels (layout-aware)",
+  "pages_extracted": {
+    "start": 30,
+    "end": 31
+  },
+  "candidates_found": 16,
+  "validation": "Valid CanMEDS without levels (score: 258/268, 7/7 roles)",
+  "content_length": 6180,
+  "success": true
+}

@@ -1,0 +1,99 @@
+Document: 63. __Radiation Oncology Board__.pdf
+Extraction Method: Improved CanMEDS Without Levels (layout-aware)
+Pages Extracted: 12-13
+Candidates Found: 45
+Validation: Valid CanMEDS without levels (score: 193/268, 3/7 roles)
+================================================================================
+
+--- Page 12 ---
+OUTCOMES AND COMPETENCIES
+OUTCOMES AND COMPETENCIES
+Adapted from the Royal College of Physicians and Surgeons of Canada – Objective of
+Training in the Specialty of Radiation Oncology
+GOALS
+Upon completing training, a resident is expected to be a competent radiation oncologist capable
+of assuming a consultant’s role in the specialty. The resident must acquire a working knowledge
+of the theoretical basis of the specialty, including its foundations in the basic medical sciences
+and research.
+The specialist in radiation oncology must possess clinical competence in oncology and
+technical proficiency in therapeutic uses of radiation. The radiation oncologist must have a
+sound background in the sciences basic to the understanding of malignant diseases and their
+treatment by radiation therapy and other modalities. The acquisition of clinical skills in-patient
+assessment and management, developed by assuming responsibility for the care of both
+hospitalized and ambulatory patients, must be accompanied by proficiency in planning and
+executing radiation treatments utilizing external beam, intra-cavitary and interstitial radioactive
+sources, and systemically administered radioisotopes.
+Residents must demonstrate the requisite knowledge, skills, and attitudes for effective patient-
+centered care and service to a diverse population. In all aspects of specialist practice, the
+graduate must be able to address issues of age, gender, sexual orientation, culture, ethnicity,
+and ethics in a professional manner.
+RADIATION ONCOLOGY COMPETENCIES
+At the completion of training, the resident will have acquired the following competencies and will
+function effectively as a:
+Medical Expert
+Definition
+As medical experts, radiation oncologists integrate all of the CanMEDS Roles, applying medical
+knowledge, clinical skills, and professional attitudes in their provision of patient-centered care.
+Medical Expert is the central role of the physician in the CanMEDS framework.
+Key and enabling competencies: radiation oncologists are able to…
+1. Function effectively as consultants, integrating all of the CanMEDS roles to provide
+optimal, ethical, and patient-centered medical care
+• Perform a consultation effectively, including the presentation of well-documented
+assessments and recommendations in written and/or verbal form in response to a
+request from another healthcare professional
+• Give an expert opinion about the use of ionizing radiation in the treatment of the patient,
+including the manner in which this should be integrated with other modalities of
+treatment
+• Demonstrate the use of all CanMEDS competencies relevant to radiation oncology
+10 RADIATION ONCOLOGY CURRICULUM
+
+--- Page 13 ---
+OUTCOMES AND COMPETENCIES
+• Identify and appropriately respond to relevant ethical issues arising in patient care
+• Demonstrate the ability to prioritize professional duties effectively when faced with
+multiple patients and problems
+• Demonstrate empathetic and patient-centered care
+• Recognize and respond to the ethical dimensions in medical decision-making
+• Demonstrate medical expertise in situations other than patient care, including but not
+limited to providing expert legal testimony or advising governments, as needed
+2. Establish and maintain clinical knowledge, skills, and attitudes appropriate to
+radiation oncology
+• Apply knowledge of the clinical, socio-behavioral, and fundamental biomedical sciences
+relevant to radiation oncology. These include but are not limited to the following:
+• Natural history of the full range of malignant diseases, including the etiology, pathology
+and molecular aspects of such diseases and preventive measures
+• Natural history and pathology of those benign conditions which may be treated by
+radiation
+• Anatomy of normal and tumor tissue, including its demonstration by diagnostic imaging
+• Radiation physics
+• Radiobiology
+• Histopathological features associated with radiation’s effect on normal tissues
+• Principles of radiation protection and how these are applied to the safety of patients,
+health care workers, and the general public
+• The role and availability of clinical trial participation as a therapeutic option in
+appropriate situations
+• Describe the CanMEDS framework of competencies relevant to radiation oncology
+• Apply the lifelong learning skills of the Scholar Role to implement a personal program to
+keep up-to-date and enhance areas of professional competence
+• Contribute to the enhancement of quality care and patient safety in radiation oncology,
+integrating the available best evidence and best practices
+3. Perform a complete and appropriate assessment of a patient
+• Identify and explore issues to be addressed in a patient encounter effectively, including
+the patient’s context and preferences
+• Elicit a history that is relevant, concise, and accurate to context and preferences for the
+purposes of prevention and health promotion, diagnosis, and/or management
+• Perform a focused physical examination that is relevant and accurate for the purposes
+of prevention and health promotion, diagnosis and/or management
+• Select medically appropriate investigations in a resource-effective and ethical manner
+• Demonstrate effective clinical problem-solving and judgment to address patient
+problems, including interpreting available data and integrating information to generate
+differential diagnoses and management plans
+• Demonstrate independent care of ambulatory and hospitalized patients in all aspects of
+radiation oncology, including investigation, diagnosis, treatment planning, supervision of
+radiation therapy, and the ongoing care of patients who have received radiation therapy
+and/or treatment for malignant disease
+• Recognize and treat oncologic emergencies effectively
+4. Use preventive and therapeutic interventions effectively
+• Implement an effective management plan in collaboration with a patient and the
+patient’s family
+RADIATION ONCOLOGY CURRICULUM 11

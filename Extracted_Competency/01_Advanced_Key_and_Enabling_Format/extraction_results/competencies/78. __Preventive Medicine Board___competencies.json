@@ -1,0 +1,37 @@
+{
+  "pdf_path": "/Users/charlesnorris/Downloads/SaudiSCFHS/Document_Categories/01_Advanced_Key_and_Enabling_Format/78. __Preventive Medicine Board__.pdf",
+  "output_file": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/78. __Preventive Medicine Board___competencies.txt",
+  "json_report": "/Users/charlesnorris/Downloads/SaudiSCFHS/Extracted_Competencies/01_Advanced_Key_and_Enabling_Format/extraction_results/competencies/78. __Preventive Medicine Board___competencies.json",
+  "pages_extracted": "17-46",
+  "extraction_method": "advanced_pattern_key_enabling",
+  "confidence_score": 1.0,
+  "quality_score": 146.48369058713885,
+  "key_enabling_score": 39,
+  "validation": "Acceptable Key & Enabling format (score: 107/150, 7/7 roles)",
+  "detailed_analysis": {
+    "role_count": 7,
+    "roles_found": [
+      "MEDICAL EXPERT",
+      "COMMUNICATOR",
+      "COLLABORATOR",
+      "LEADER",
+      "HEALTH ADVOCATE",
+      "SCHOLAR",
+      "PROFESSIONAL"
+    ],
+    "key_enabling_terms_count": 3,
+    "level_indicators_found": [
+      "R1",
+      "R2",
+      "R3"
+    ],
+    "has_structured_content": false,
+    "content_length": 41243,
+    "key_enabling_score": 39,
+    "contamination_score": 0,
+    "page_range_size": 30
+  },
+  "content_length": 41243,
+  "extraction_successful": true,
+  "total_pages": 130
+}
